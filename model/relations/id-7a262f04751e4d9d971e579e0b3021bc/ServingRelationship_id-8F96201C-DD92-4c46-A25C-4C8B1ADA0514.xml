@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1188 Laadstation software Ekoenergetyka - Data Platform EBS (informatie laadstation)"
+    id="id-8F96201C-DD92-4c46-A25C-4C8B1ADA0514">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CE609FFD-1E16-4ae6-AC1D-79E288942A4D.xml#id-CE609FFD-1E16-4ae6-AC1D-79E288942A4D"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3AF8A723-C5FE-41f7-A425-41551E172F04.xml#id-3AF8A723-C5FE-41f7-A425-41551E172F04"/>
+</archimate:ServingRelationship>

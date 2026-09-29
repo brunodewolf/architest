@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.882 DIVB - Data Warehouse (M-tickets)"
+    id="id-211C69DC-CA6F-48d4-B8E3-6531FA3FFFC2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1875AC00-6741-47dd-BA63-787747F0A17C.xml#id-1875AC00-6741-47dd-BA63-787747F0A17C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D614C219-D4F0-4570-95EA-C2DABD7EF068.xml#id-D614C219-D4F0-4570-95EA-C2DABD7EF068"/>
+</archimate:ServingRelationship>

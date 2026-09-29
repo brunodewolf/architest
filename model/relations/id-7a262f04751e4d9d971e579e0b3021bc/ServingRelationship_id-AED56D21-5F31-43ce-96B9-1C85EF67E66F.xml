@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.236 De Lijn Portaal - DIVB (producten)"
+    id="id-AED56D21-5F31-43ce-96B9-1C85EF67E66F">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8A30B50B-E2E8-471e-ACEC-143F7FE208FF.xml#id-8A30B50B-E2E8-471e-ACEC-143F7FE208FF"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1875AC00-6741-47dd-BA63-787747F0A17C.xml#id-1875AC00-6741-47dd-BA63-787747F0A17C"/>
+</archimate:ServingRelationship>

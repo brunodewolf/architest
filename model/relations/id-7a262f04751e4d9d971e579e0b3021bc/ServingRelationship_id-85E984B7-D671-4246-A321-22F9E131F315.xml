@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.635 SAP BRIM - OpenText (Archival)"
+    id="id-85E984B7-D671-4246-A321-22F9E131F315">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-68F4E727-A697-44a8-B647-E73B89B912F8.xml#id-68F4E727-A697-44a8-B647-E73B89B912F8"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-29158402-4C7A-468d-9E79-EDA5E0FB3AFD.xml#id-29158402-4C7A-468d-9E79-EDA5E0FB3AFD"/>
+</archimate:ServingRelationship>

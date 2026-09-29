@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.871 PSIebus CMS - Data Platform - Historische ruwe data (power equipment measurements)"
+    id="id-C036ABDE-D399-495c-9A3C-13601F1BD60F">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-402A4257-90E2-42fe-BD73-4F357398ACDF.xml#id-402A4257-90E2-42fe-BD73-4F357398ACDF"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3AF8A723-C5FE-41f7-A425-41551E172F04.xml#id-3AF8A723-C5FE-41f7-A425-41551E172F04"/>
+</archimate:ServingRelationship>

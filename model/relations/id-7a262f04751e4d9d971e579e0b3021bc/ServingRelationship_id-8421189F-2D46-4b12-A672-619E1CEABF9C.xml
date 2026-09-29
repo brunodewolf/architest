@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.921 Leerlingenvervoer (LEVO)-SAP FI (Vorderingen)"
+    id="id-8421189F-2D46-4b12-A672-619E1CEABF9C">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-01A27DCD-BC32-42e1-82EB-5AAF9AD47F9F.xml#id-01A27DCD-BC32-42e1-82EB-5AAF9AD47F9F"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473.xml#id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473"/>
+</archimate:ServingRelationship>

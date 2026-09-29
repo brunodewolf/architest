@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0195 (Realtime predictie + schrapping)"
+    id="id-CA9E1E54-AEF1-4ddb-A4A2-E089692FF607">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2D25BB4C-0FF5-4e03-B5E2-6B425EB85C37.xml#id-2D25BB4C-0FF5-4e03-B5E2-6B425EB85C37"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C12D8BCF-77C8-4c8f-BD20-FC56A8694F32.xml#id-C12D8BCF-77C8-4c8f-BD20-FC56A8694F32"/>
+</archimate:ServingRelationship>

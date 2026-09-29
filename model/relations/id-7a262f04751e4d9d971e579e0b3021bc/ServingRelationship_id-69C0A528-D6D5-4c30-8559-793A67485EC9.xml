@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.817 Mobiele Toepassing Controleur Backoffice - ChauffeursBeheer (Melding over Chauffeur)"
+    id="id-69C0A528-D6D5-4c30-8559-793A67485EC9">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE.xml#id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-35621C38-8546-4157-9376-9BE0DFE9BD16.xml#id-35621C38-8546-4157-9376-9BE0DFE9BD16"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.264 Website - DIVB (contract)"
+    id="id-FC4D6C60-8AE2-4fdd-B9A0-D61FA501DFAE">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1875AC00-6741-47dd-BA63-787747F0A17C.xml#id-1875AC00-6741-47dd-BA63-787747F0A17C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C.xml#id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C"/>
+</archimate:ServingRelationship>

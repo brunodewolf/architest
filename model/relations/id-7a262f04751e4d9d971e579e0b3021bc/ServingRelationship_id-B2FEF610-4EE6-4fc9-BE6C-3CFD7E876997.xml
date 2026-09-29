@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.972 Adres API - DLPO (Adres)"
+    id="id-B2FEF610-4EE6-4fc9-BE6C-3CFD7E876997">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-46EC27A7-A7BF-41a2-A112-8EEF8708A3C5.xml#id-46EC27A7-A7BF-41a2-A112-8EEF8708A3C5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8A30B50B-E2E8-471e-ACEC-143F7FE208FF.xml#id-8A30B50B-E2E8-471e-ACEC-143F7FE208FF"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.090 Abonnementen - UKS (bevestigingsmail)"
+    id="id-4E976ABA-6273-449f-B5E9-AA6508B35EA0">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-41C5E65D-6D0F-400b-BD28-53D8756796CB.xml#id-41C5E65D-6D0F-400b-BD28-53D8756796CB"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C96F344F-E161-488d-9D3D-C7C8A1C6902C.xml#id-C96F344F-E161-488d-9D3D-C7C8A1C6902C"/>
+</archimate:ServingRelationship>

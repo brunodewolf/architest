@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.983 SAP EAM-HecPoll - Whitelisting Uitrusting"
+    id="id-8F8BE075-2DEA-481d-BD66-0D68D4465341">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-51C438E0-E2A1-4a08-8926-4197EDB77A36.xml#id-51C438E0-E2A1-4a08-8926-4197EDB77A36"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D0ABC0E7-6A14-4555-856A-B870A479D6DB.xml#id-D0ABC0E7-6A14-4555-856A-B870A479D6DB"/>
+</archimate:ServingRelationship>

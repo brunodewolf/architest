@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.512 onRoute(Solvice.io)-PRT - Boekingen"
+    id="id-0F00182E-E053-408b-95EB-9CA930394DF7">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-086B4A58-143C-4b9a-99BC-493D6A96B180.xml#id-086B4A58-143C-4b9a-99BC-493D6A96B180"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-92981EA0-DB69-4671-8C44-2C8526D1B60F.xml#id-92981EA0-DB69-4671-8C44-2C8526D1B60F"/>
+</archimate:ServingRelationship>

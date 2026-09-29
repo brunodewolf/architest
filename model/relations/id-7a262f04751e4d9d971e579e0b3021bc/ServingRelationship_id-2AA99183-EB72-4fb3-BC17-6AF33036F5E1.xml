@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1165 SAP EAM - Jira (waarborg ticket create)"
+    id="id-2AA99183-EB72-4fb3-BC17-6AF33036F5E1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-51C438E0-E2A1-4a08-8926-4197EDB77A36.xml#id-51C438E0-E2A1-4a08-8926-4197EDB77A36"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8ED4ED4F-8346-4efc-B017-E1689835DCB3.xml#id-8ED4ED4F-8346-4efc-B017-E1689835DCB3"/>
+</archimate:ServingRelationship>

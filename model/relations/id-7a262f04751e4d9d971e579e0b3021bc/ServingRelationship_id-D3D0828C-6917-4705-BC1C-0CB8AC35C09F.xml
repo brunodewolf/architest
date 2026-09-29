@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.823 Proximus Camera systeem - PSIebus DMS - Voertuigidentificatie"
+    id="id-D3D0828C-6917-4705-BC1C-0CB8AC35C09F">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D76E9204-FDAB-49cf-955E-B0FE20629FEA.xml#id-D76E9204-FDAB-49cf-955E-B0FE20629FEA"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-88F083D8-0634-4168-9A29-AD6A979BD3BD.xml#id-88F083D8-0634-4168-9A29-AD6A979BD3BD"/>
+</archimate:ServingRelationship>

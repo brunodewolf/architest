@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.310 cEMV/ABT backoffice - SAP FI (vorderingen en kosten)"
+    id="id-0D0F529E-7B86-4c66-812A-80F6A874AC1A">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A1B43A44-061B-4b66-82FF-85B213F648D7.xml#id-A1B43A44-061B-4b66-82FF-85B213F648D7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473.xml#id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473"/>
+</archimate:ServingRelationship>

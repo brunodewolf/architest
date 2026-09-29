@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.325 Ingenico - BLIM - betaling"
+    id="id-E9DAEC11-E1AE-4390-89D6-B10731E45F66">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8DA2A63B-EE0A-4ca2-8E98-1EBE34616559.xml#id-8DA2A63B-EE0A-4ca2-8E98-1EBE34616559"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A0ABEBC1-95AA-468f-BB21-D65C41222A79.xml#id-A0ABEBC1-95AA-468f-BB21-D65C41222A79"/>
+</archimate:ServingRelationship>

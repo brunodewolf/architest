@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.815 MDM Voertuigen-MTC BO - Voertuigen"
+    id="id-C850B621-FCC6-487d-B4A9-AFFA4A9246EE">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ECD22175-419F-407a-8214-967EBAF963A1.xml#id-ECD22175-419F-407a-8214-967EBAF963A1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE.xml#id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE"/>
+</archimate:ServingRelationship>

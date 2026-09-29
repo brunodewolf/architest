@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1193 PUC - Data Platform EBS (Voertuigplanning)"
+    id="id-6A4247D8-0312-46e2-A220-F8817B1CA6CB">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E64217CF-D649-41a8-AACB-B1E216869EFB.xml#id-E64217CF-D649-41a8-AACB-B1E216869EFB"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3AF8A723-C5FE-41f7-A425-41551E172F04.xml#id-3AF8A723-C5FE-41f7-A425-41551E172F04"/>
+</archimate:ServingRelationship>

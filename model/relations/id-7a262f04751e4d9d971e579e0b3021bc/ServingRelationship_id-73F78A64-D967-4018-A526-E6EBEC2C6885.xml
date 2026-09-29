@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.235 Commerce Cloud - Abonnementen (Order)"
+    id="id-73F78A64-D967-4018-A526-E6EBEC2C6885">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9C510A0A-9BCE-4925-BD36-4C7B843056CF.xml#id-9C510A0A-9BCE-4925-BD36-4C7B843056CF"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-41C5E65D-6D0F-400b-BD28-53D8756796CB.xml#id-41C5E65D-6D0F-400b-BD28-53D8756796CB"/>
+</archimate:ServingRelationship>

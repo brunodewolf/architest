@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.162 MoBiB-Card List Management  - Mobiguider AFC (Action List Item)"
+    id="id-4E271E6E-7EC4-49c4-BCE0-06F3742EBA3E">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4A30D834-A582-4a48-BFF4-8FA4BCF35411.xml#id-4A30D834-A582-4a48-BFF4-8FA4BCF35411"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DE08145A-B0B3-4bb2-9658-71A42332BFD3.xml#id-DE08145A-B0B3-4bb2-9658-71A42332BFD3"/>
+</archimate:ServingRelationship>

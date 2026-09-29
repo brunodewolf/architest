@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1127 MDM Dienstroosters-Planning &amp; Routering Tool (Werkrooster)"
+    id="id-6A158C57-252D-4455-944A-043ADC2A8537">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FC28B545-B95E-4f4d-B95F-5FA8E5F42B60.xml#id-FC28B545-B95E-4f4d-B95F-5FA8E5F42B60"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-92981EA0-DB69-4671-8C44-2C8526D1B60F.xml#id-92981EA0-DB69-4671-8C44-2C8526D1B60F"/>
+</archimate:ServingRelationship>

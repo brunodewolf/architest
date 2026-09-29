@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0753 (Omleiding)"
+    id="id-5CFD437A-9877-4e83-878C-DF47B8C81881">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E2F6876B-26C8-4d0b-A9AE-AAB5E85A0233.xml#id-E2F6876B-26C8-4d0b-A9AE-AAB5E85A0233"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DFA6511C-3E70-47e0-A12A-C1341665B0E0.xml#id-DFA6511C-3E70-47e0-A12A-C1341665B0E0"/>
+</archimate:ServingRelationship>

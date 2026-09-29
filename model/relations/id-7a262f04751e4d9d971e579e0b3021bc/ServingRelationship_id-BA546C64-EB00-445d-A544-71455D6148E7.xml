@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1063 - SF Onboarding - Jira (ticket)"
+    id="id-BA546C64-EB00-445d-A544-71455D6148E7">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CA886B9C-2787-43d3-A3C8-E7A10E05CB3A.xml#id-CA886B9C-2787-43d3-A3C8-E7A10E05CB3A"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-664BA5DD-2836-43ba-A239-E076864682FB.xml#id-664BA5DD-2836-43ba-A239-E076864682FB"/>
+</archimate:ServingRelationship>

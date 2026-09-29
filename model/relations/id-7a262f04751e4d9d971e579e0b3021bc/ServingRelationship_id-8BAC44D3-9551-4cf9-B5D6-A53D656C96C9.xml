@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.547 Hastus DailyVehicle - PUC ODS (KT voertuigplanning)"
+    id="id-8BAC44D3-9551-4cf9-B5D6-A53D656C96C9">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9C38E6F1-C128-4278-9CE6-DA60330FF013.xml#id-9C38E6F1-C128-4278-9CE6-DA60330FF013"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0A54D28B-5F8F-480c-86AF-1DF4692103E9.xml#id-0A54D28B-5F8F-480c-86AF-1DF4692103E9"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.784 Public Website - Google Tag Manager (code injection)"
+    id="id-A9675E1D-DB83-4646-AF4D-F65CF3B8E76D">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2A29E5DD-AB28-4918-A846-2F1001B44605.xml#id-2A29E5DD-AB28-4918-A846-2F1001B44605"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C.xml#id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C"/>
+</archimate:ServingRelationship>

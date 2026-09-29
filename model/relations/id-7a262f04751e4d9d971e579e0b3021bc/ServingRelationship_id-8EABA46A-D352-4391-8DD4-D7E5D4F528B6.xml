@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.279 DataWarehouse (DWH) - PowerBI Workspace Chauffeursbeheer (Afwezigheid, verzuim en arbeidsongeval)"
+    id="id-8EABA46A-D352-4391-8DD4-D7E5D4F528B6">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D614C219-D4F0-4570-95EA-C2DABD7EF068.xml#id-D614C219-D4F0-4570-95EA-C2DABD7EF068"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-17F3EC19-9B10-46b1-848C-3EC31E4A712F.xml#id-17F3EC19-9B10-46b1-848C-3EC31E4A712F"/>
+</archimate:ServingRelationship>

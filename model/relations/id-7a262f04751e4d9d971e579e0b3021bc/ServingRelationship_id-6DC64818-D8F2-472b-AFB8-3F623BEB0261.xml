@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.280 SharePoint Verkeersovertredingen - PowerBI Workspace Chauffeursbeheer (Verkeersovertreding)"
+    id="id-6DC64818-D8F2-472b-AFB8-3F623BEB0261">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0E47E463-4228-43b3-91B8-65CE476137AC.xml#id-0E47E463-4228-43b3-91B8-65CE476137AC"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-17F3EC19-9B10-46b1-848C-3EC31E4A712F.xml#id-17F3EC19-9B10-46b1-848C-3EC31E4A712F"/>
+</archimate:ServingRelationship>

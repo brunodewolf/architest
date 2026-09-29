@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.459 Dispatch Incident Management - SAP PM (Melding)"
+    id="id-DEB5C854-53A4-4dec-9ECF-266C6EE0CF5A">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FBDBA3F2-EA0C-43c2-BB36-23882313F6E7.xml#id-FBDBA3F2-EA0C-43c2-BB36-23882313F6E7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-64A30635-FA5E-4c32-B2FD-77D0B44A689A.xml#id-64A30635-FA5E-4c32-B2FD-77D0B44A689A"/>
+</archimate:ServingRelationship>

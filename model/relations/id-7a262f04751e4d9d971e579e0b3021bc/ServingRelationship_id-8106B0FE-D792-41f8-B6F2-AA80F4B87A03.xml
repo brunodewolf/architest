@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1111 BIL - DSSP (Authorized Payment Methods)"
+    id="id-8106B0FE-D792-41f8-B6F2-AA80F4B87A03">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-18CC4A50-17DE-456c-A9EC-A5EEFE1705AC.xml#id-18CC4A50-17DE-456c-A9EC-A5EEFE1705AC"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FBC124C9-869F-4e54-9121-B471C9FF99B7.xml#id-FBC124C9-869F-4e54-9121-B471C9FF99B7"/>
+</archimate:ServingRelationship>

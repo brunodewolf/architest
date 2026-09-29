@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1233 Hastus-DailyCrew - IVU.fleet (KT Voertuigplanning)"
+    id="id-CB3F5B0E-B593-49ff-8996-DA915BF5418B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9C38E6F1-C128-4278-9CE6-DA60330FF013.xml#id-9C38E6F1-C128-4278-9CE6-DA60330FF013"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F0CDF604-C2EB-45b4-B3EF-C676C6F60D56.xml#id-F0CDF604-C2EB-45b4-B3EF-C676C6F60D56"/>
+</archimate:ServingRelationship>

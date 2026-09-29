@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.217 Hastus Geo - PUC (Netwerk)"
+    id="id-291124ED-9DA9-4b8b-B297-391B9FB498CE">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-58D212AA-E556-49f0-9223-C2631A2CCA3F.xml#id-58D212AA-E556-49f0-9223-C2631A2CCA3F"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E64217CF-D649-41a8-AACB-B1E216869EFB.xml#id-E64217CF-D649-41a8-AACB-B1E216869EFB"/>
+</archimate:ServingRelationship>

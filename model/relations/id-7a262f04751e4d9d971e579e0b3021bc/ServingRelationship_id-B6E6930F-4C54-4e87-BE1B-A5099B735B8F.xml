@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.678 SAP FICA - SAP CO  (Geospread)"
+    id="id-B6E6930F-4C54-4e87-BE1B-A5099B735B8F">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1.xml#id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1B4AAE38-1C17-429f-AD05-ECC5A8147B9C.xml#id-1B4AAE38-1C17-429f-AD05-ECC5A8147B9C"/>
+</archimate:ServingRelationship>

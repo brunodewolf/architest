@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.257 Hastus Daily - PUC (Chauffeursplanning)"
+    id="id-BAEB9C44-37D5-4614-A21D-225E1800ED65">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CE747D5D-3359-489b-B8D3-FD01D08F2557.xml#id-CE747D5D-3359-489b-B8D3-FD01D08F2557"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E64217CF-D649-41a8-AACB-B1E216869EFB.xml#id-E64217CF-D649-41a8-AACB-B1E216869EFB"/>
+</archimate:ServingRelationship>

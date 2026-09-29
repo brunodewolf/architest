@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.966 Magda Facade - DLPO (Persoonsgegevens/Pasfoto/RVV)"
+    id="id-2D656E1E-9489-4c28-BCF1-D1165FFC7F99">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0D03B9FC-2CD3-4bcd-88DE-403ABE6F799F.xml#id-0D03B9FC-2CD3-4bcd-88DE-403ABE6F799F"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8A30B50B-E2E8-471e-ACEC-143F7FE208FF.xml#id-8A30B50B-E2E8-471e-ACEC-143F7FE208FF"/>
+</archimate:ServingRelationship>

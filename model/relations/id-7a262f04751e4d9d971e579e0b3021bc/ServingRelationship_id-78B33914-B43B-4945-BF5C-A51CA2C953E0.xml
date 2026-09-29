@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.549 PUC ODS -  Exploitanten Toepassing (ET) ( KT planning, uitvoering en link)"
+    id="id-78B33914-B43B-4945-BF5C-A51CA2C953E0">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0A54D28B-5F8F-480c-86AF-1DF4692103E9.xml#id-0A54D28B-5F8F-480c-86AF-1DF4692103E9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-84915F34-2F14-4bb6-A0A1-0794CE826F2B.xml#id-84915F34-2F14-4bb6-A0A1-0794CE826F2B"/>
+</archimate:ServingRelationship>

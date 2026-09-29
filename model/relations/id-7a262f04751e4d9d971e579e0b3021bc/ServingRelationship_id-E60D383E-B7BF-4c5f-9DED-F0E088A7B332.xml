@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.055 Exploitanten Toepassing (ET) - Asset- en Incidentenbeheer (Maximo) (Voertuig Exploitant)"
+    id="id-E60D383E-B7BF-4c5f-9DED-F0E088A7B332">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-84915F34-2F14-4bb6-A0A1-0794CE826F2B.xml#id-84915F34-2F14-4bb6-A0A1-0794CE826F2B"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0ED52BB5-C1A8-43a0-8672-C92CDF97DDB2.xml#id-0ED52BB5-C1A8-43a0-8672-C92CDF97DDB2"/>
+</archimate:ServingRelationship>

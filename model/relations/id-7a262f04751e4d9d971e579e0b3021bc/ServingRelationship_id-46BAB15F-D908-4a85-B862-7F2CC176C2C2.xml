@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.099 SAP HCM - Personeelsmodel (DS) (Personeelsgegevens)"
+    id="id-46BAB15F-D908-4a85-B862-7F2CC176C2C2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F76A3E68-A10C-45d5-9846-538E61D18CA1.xml#id-F76A3E68-A10C-45d5-9846-538E61D18CA1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-665F3F95-C839-403d-BF99-E9612BEEA591.xml#id-665F3F95-C839-403d-BF99-E9612BEEA591"/>
+</archimate:ServingRelationship>

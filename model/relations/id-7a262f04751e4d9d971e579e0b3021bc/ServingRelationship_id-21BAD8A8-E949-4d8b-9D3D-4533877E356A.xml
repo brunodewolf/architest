@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.319 Data Platform EBS - EBS Monitoring (Verbruik voertuig)"
+    id="id-21BAD8A8-E949-4d8b-9D3D-4533877E356A">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3AF8A723-C5FE-41f7-A425-41551E172F04.xml#id-3AF8A723-C5FE-41f7-A425-41551E172F04"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-500C3551-04D9-46b1-AFC9-C3E3B118C8B7.xml#id-500C3551-04D9-46b1-AFC9-C3E3B118C8B7"/>
+</archimate:ServingRelationship>

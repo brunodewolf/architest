@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1192 Voertuig software VDL - Data Platform EBS (Technische uitvoeringsgegevens - batch)"
+    id="id-693D1234-B0E2-4428-988A-69B68A6F7AE7">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-B7EE8230-3B6D-4617-A663-738582884B19.xml#id-B7EE8230-3B6D-4617-A663-738582884B19"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3AF8A723-C5FE-41f7-A425-41551E172F04.xml#id-3AF8A723-C5FE-41f7-A425-41551E172F04"/>
+</archimate:ServingRelationship>

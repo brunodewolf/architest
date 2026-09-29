@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.727 Datalake - HERE (reverse geocoding)"
+    id="id-24F11FA0-4E96-4849-AC71-868B50F02F46">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F3FD49FF-8D9D-4c0f-8FA2-BA8C764B5B72.xml#id-F3FD49FF-8D9D-4c0f-8FA2-BA8C764B5B72"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DB4F168F-FC0B-453b-BD46-F2B6C0CFB0E9.xml#id-DB4F168F-FC0B-453b-BD46-F2B6C0CFB0E9"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.244 (Reverse Geocoding)"
+    id="id-DDA0E0F3-B5E8-4d36-92C2-192FBD5CABBF">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F3FD49FF-8D9D-4c0f-8FA2-BA8C764B5B72.xml#id-F3FD49FF-8D9D-4c0f-8FA2-BA8C764B5B72"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-92FBB895-73ED-4105-BFC3-E689E039B8BC.xml#id-92FBB895-73ED-4105-BFC3-E689E039B8BC"/>
+</archimate:ServingRelationship>

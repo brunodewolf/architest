@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.268 CKB - DIVB (klant)"
+    id="id-9C508859-C2A5-4bb4-B506-2F3558E5D29F">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9A6B6F28-3F97-4ae4-9F7E-92FCF4A1B64B.xml#id-9A6B6F28-3F97-4ae4-9F7E-92FCF4A1B64B"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1875AC00-6741-47dd-BA63-787747F0A17C.xml#id-1875AC00-6741-47dd-BA63-787747F0A17C"/>
+</archimate:ServingRelationship>

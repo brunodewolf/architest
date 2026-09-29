@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.158 Adres API - Mobile App (Adres)"
+    id="id-334C490F-098F-4bf1-94A6-C8E3FFF0A056">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-46EC27A7-A7BF-41a2-A112-8EEF8708A3C5.xml#id-46EC27A7-A7BF-41a2-A112-8EEF8708A3C5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-06B62845-84AD-47bf-B186-F6CE0EC3883C.xml#id-06B62845-84AD-47bf-B186-F6CE0EC3883C"/>
+</archimate:ServingRelationship>

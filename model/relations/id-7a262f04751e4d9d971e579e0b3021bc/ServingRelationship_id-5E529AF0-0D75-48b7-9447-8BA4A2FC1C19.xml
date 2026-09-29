@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.251 (staat een halte publiek)"
+    id="id-5E529AF0-0D75-48b7-9447-8BA4A2FC1C19">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-92FBB895-73ED-4105-BFC3-E689E039B8BC.xml#id-92FBB895-73ED-4105-BFC3-E689E039B8BC"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2FCFF654-A06E-4db2-A932-0F6775345335.xml#id-2FCFF654-A06E-4db2-A932-0F6775345335"/>
+</archimate:ServingRelationship>

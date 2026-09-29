@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.374 SAP HR - GET - Personeelstoegang"
+    id="id-89376EB8-2C47-4fef-A614-9AC43CA0CF8B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F76A3E68-A10C-45d5-9846-538E61D18CA1.xml#id-F76A3E68-A10C-45d5-9846-538E61D18CA1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-879A9A86-08AA-4c38-BB6E-C3EAF2466BC3.xml#id-879A9A86-08AA-4c38-BB6E-C3EAF2466BC3"/>
+</archimate:ServingRelationship>

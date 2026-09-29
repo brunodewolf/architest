@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.200 Asset- en Incidentenbeheer (Maximo) - Customer Big Data platform (Azure) (Voertuig Regie en Exploitant)"
+    id="id-0EFA1469-60E3-44ee-BE8F-09D23DEBD3ED">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0ED52BB5-C1A8-43a0-8672-C92CDF97DDB2.xml#id-0ED52BB5-C1A8-43a0-8672-C92CDF97DDB2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DB4F168F-FC0B-453b-BD46-F2B6C0CFB0E9.xml#id-DB4F168F-FC0B-453b-BD46-F2B6C0CFB0E9"/>
+</archimate:ServingRelationship>

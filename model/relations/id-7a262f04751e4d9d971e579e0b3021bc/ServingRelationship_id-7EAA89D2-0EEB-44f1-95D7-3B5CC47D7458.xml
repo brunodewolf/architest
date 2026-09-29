@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1057 HERE (Routeplanner) - SharePoint Toiletten (Locatie)"
+    id="id-7EAA89D2-0EEB-44f1-95D7-3B5CC47D7458">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F3FD49FF-8D9D-4c0f-8FA2-BA8C764B5B72.xml#id-F3FD49FF-8D9D-4c0f-8FA2-BA8C764B5B72"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DD0D6C5A-03E2-48ec-ABF9-178E6AD65BEB.xml#id-DD0D6C5A-03E2-48ec-ABF9-178E6AD65BEB"/>
+</archimate:ServingRelationship>

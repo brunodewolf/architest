@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.042 MTC BackOffice - Correspondentie Orkestratie ( PV DAB, PV Verkeer )"
+    id="id-F695D457-00AF-4b56-9084-260692081CE5">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE.xml#id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-AAB1FDA3-E3E9-42d3-97FD-C198450D6CF1.xml#id-AAB1FDA3-E3E9-42d3-97FD-C198450D6CF1"/>
+</archimate:ServingRelationship>

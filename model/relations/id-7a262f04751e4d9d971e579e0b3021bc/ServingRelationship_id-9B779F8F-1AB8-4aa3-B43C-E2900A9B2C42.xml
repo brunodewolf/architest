@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1173 PSI VAS Server - Laadstation software Ekoenergetyka - Aansturing laadstation"
+    id="id-9B779F8F-1AB8-4aa3-B43C-E2900A9B2C42">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E52A4E61-8362-404d-9542-9B030DF68B79.xml#id-E52A4E61-8362-404d-9542-9B030DF68B79"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CE609FFD-1E16-4ae6-AC1D-79E288942A4D.xml#id-CE609FFD-1E16-4ae6-AC1D-79E288942A4D"/>
+</archimate:ServingRelationship>

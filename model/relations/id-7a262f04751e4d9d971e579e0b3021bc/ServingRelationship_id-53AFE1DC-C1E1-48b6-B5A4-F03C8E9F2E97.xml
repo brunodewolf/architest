@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.041 Website - SIM - B2C account"
+    id="id-53AFE1DC-C1E1-48b6-B5A4-F03C8E9F2E97">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C.xml#id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1820DE5E-9EDD-4d52-B7CF-C91ABFC71D72.xml#id-1820DE5E-9EDD-4d52-B7CF-C91ABFC71D72"/>
+</archimate:ServingRelationship>

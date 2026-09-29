@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0298 (Dienstregeling)"
+    id="id-9B1E2EBF-9751-4a1a-9352-2E25CE009E72">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2FCFF654-A06E-4db2-A932-0F6775345335.xml#id-2FCFF654-A06E-4db2-A932-0F6775345335"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C12D8BCF-77C8-4c8f-BD20-FC56A8694F32.xml#id-C12D8BCF-77C8-4c8f-BD20-FC56A8694F32"/>
+</archimate:ServingRelationship>

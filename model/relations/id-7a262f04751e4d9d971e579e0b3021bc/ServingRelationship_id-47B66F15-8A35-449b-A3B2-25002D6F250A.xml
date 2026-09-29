@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.262 Planning &amp; Uitvoering Component [PUC] - Datawarehouse [DWH] (uitvoeringsgegevens)"
+    id="id-47B66F15-8A35-449b-A3B2-25002D6F250A">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E64217CF-D649-41a8-AACB-B1E216869EFB.xml#id-E64217CF-D649-41a8-AACB-B1E216869EFB"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D614C219-D4F0-4570-95EA-C2DABD7EF068.xml#id-D614C219-D4F0-4570-95EA-C2DABD7EF068"/>
+</archimate:ServingRelationship>

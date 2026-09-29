@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.020 Correspondentie Orkestratie - Deurwaarder (Modero) (Dwangschrift)"
+    id="id-9791711F-6339-4642-A0B3-108F653C0F11">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-AAB1FDA3-E3E9-42d3-97FD-C198450D6CF1.xml#id-AAB1FDA3-E3E9-42d3-97FD-C198450D6CF1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-95DE897A-A2C9-4e63-A52D-1200FF20FB67.xml#id-95DE897A-A2C9-4e63-A52D-1200FF20FB67"/>
+</archimate:ServingRelationship>

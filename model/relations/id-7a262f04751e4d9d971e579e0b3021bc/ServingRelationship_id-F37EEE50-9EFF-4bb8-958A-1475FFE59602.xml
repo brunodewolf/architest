@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.975 Adres API - Public Website (Adres)"
+    id="id-F37EEE50-9EFF-4bb8-958A-1475FFE59602">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-46EC27A7-A7BF-41a2-A112-8EEF8708A3C5.xml#id-46EC27A7-A7BF-41a2-A112-8EEF8708A3C5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C.xml#id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C"/>
+</archimate:ServingRelationship>

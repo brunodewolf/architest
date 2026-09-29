@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.326 Dataproduct Voertuig - PSIebus DMS (FMS Data (Odometer, verbruik, State Of Charge))"
+    id="id-DF8B7FD4-88AF-4542-94B4-41689CE8D885">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8B66142F-A08B-471b-ADDB-7644B7A80E49.xml#id-8B66142F-A08B-471b-ADDB-7644B7A80E49"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-88F083D8-0634-4168-9A29-AD6A979BD3BD.xml#id-88F083D8-0634-4168-9A29-AD6A979BD3BD"/>
+</archimate:ServingRelationship>

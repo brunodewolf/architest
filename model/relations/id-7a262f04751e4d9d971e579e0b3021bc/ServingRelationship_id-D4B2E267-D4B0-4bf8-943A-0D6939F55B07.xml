@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.648 BIL - SAP BRIM (CA) (ES04)"
+    id="id-D4B2E267-D4B0-4bf8-943A-0D6939F55B07">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-18CC4A50-17DE-456c-A9EC-A5EEFE1705AC.xml#id-18CC4A50-17DE-456c-A9EC-A5EEFE1705AC"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E4BC44FA-F971-43ef-91B8-84AD8D3C9FD4.xml#id-E4BC44FA-F971-43ef-91B8-84AD8D3C9FD4"/>
+</archimate:ServingRelationship>

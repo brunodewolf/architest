@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.707 Examentool - SF Learning (examenresultaten)"
+    id="id-8FB1047C-3DAD-43ac-92C4-D718B50BE0F5">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FB2CB92A-7476-4ea5-8579-3F65DCC7FF55.xml#id-FB2CB92A-7476-4ea5-8579-3F65DCC7FF55"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CE728BEE-84DB-49c2-BD76-6C4621D8F84E.xml#id-CE728BEE-84DB-49c2-BD76-6C4621D8F84E"/>
+</archimate:ServingRelationship>

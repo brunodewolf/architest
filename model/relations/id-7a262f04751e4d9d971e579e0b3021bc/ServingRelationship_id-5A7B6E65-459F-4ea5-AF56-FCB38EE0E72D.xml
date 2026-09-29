@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.629 Halte Service - Tap Validation Proxy (Halte/VVR)"
+    id="id-5A7B6E65-459F-4ea5-AF56-FCB38EE0E72D">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-36D1A9F6-30EF-476c-B7B0-6AE51C0F1C33.xml#id-36D1A9F6-30EF-476c-B7B0-6AE51C0F1C33"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C6146828-D044-4451-9C2F-2ED2C5CD34ED.xml#id-C6146828-D044-4451-9C2F-2ED2C5CD34ED"/>
+</archimate:ServingRelationship>

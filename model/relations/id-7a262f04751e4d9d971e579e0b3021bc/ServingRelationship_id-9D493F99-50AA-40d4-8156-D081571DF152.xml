@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1122 (Geschrapte ritten)"
+    id="id-9D493F99-50AA-40d4-8156-D081571DF152">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F0CDF604-C2EB-45b4-B3EF-C676C6F60D56.xml#id-F0CDF604-C2EB-45b4-B3EF-C676C6F60D56"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-69766816-8079-4df1-86F1-627CDDA3D7CF.xml#id-69766816-8079-4df1-86F1-627CDDA3D7CF"/>
+</archimate:ServingRelationship>

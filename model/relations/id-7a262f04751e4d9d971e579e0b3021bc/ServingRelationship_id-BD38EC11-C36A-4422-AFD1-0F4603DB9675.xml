@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.052 Public Website - Zendesk (FAQ en contactformulier)"
+    id="id-BD38EC11-C36A-4422-AFD1-0F4603DB9675">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C.xml#id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-002E277C-1987-4b13-A5C9-2F476CD01F6F.xml#id-002E277C-1987-4b13-A5C9-2F476CD01F6F"/>
+</archimate:ServingRelationship>

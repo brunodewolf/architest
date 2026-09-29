@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1215 De Lijn Sales &amp; Service Platform (DSSP) - SAP S/4HANA ERP foundation (Customer Documents)"
+    id="id-8D9B8408-EDC2-49e0-B232-6ABA1116E44B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FBC124C9-869F-4e54-9121-B471C9FF99B7.xml#id-FBC124C9-869F-4e54-9121-B471C9FF99B7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-337157D2-6427-4cec-AFDD-80E1871BBFE5.xml#id-337157D2-6427-4cec-AFDD-80E1871BBFE5"/>
+</archimate:ServingRelationship>

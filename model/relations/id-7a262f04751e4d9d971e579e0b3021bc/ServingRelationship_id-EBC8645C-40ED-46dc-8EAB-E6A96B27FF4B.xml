@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.318 Data Platform EBS - EBS Monitoring (SoH voertuig)"
+    id="id-EBC8645C-40ED-46dc-8EAB-E6A96B27FF4B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3AF8A723-C5FE-41f7-A425-41551E172F04.xml#id-3AF8A723-C5FE-41f7-A425-41551E172F04"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-500C3551-04D9-46b1-AFC9-C3E3B118C8B7.xml#id-500C3551-04D9-46b1-AFC9-C3E3B118C8B7"/>
+</archimate:ServingRelationship>

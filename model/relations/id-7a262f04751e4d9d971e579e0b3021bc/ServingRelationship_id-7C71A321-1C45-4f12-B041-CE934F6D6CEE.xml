@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.064 SAP EAM - PSIebus DMS -  Interventieplanning voertuig"
+    id="id-7C71A321-1C45-4f12-B041-CE934F6D6CEE">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-51C438E0-E2A1-4a08-8926-4197EDB77A36.xml#id-51C438E0-E2A1-4a08-8926-4197EDB77A36"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-88F083D8-0634-4168-9A29-AD6A979BD3BD.xml#id-88F083D8-0634-4168-9A29-AD6A979BD3BD"/>
+</archimate:ServingRelationship>

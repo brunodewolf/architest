@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.819 MTC (Back) - SAP FICA (PSCD) (Boetes)"
+    id="id-428AC1B8-4B0D-48df-AB60-4A1C0038CEEA">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE.xml#id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1.xml#id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1"/>
+</archimate:ServingRelationship>

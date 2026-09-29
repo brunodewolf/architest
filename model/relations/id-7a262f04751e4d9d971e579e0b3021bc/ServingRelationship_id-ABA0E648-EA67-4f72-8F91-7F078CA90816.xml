@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1131 VMH (BC) - Berekenen Kilometerstand "
+    id="id-ABA0E648-EA67-4f72-8F91-7F078CA90816">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-16CD855B-EC63-4d4d-8FB0-44BE0F6C624A.xml#id-16CD855B-EC63-4d4d-8FB0-44BE0F6C624A"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ACDEBC95-C170-4d92-A8AA-455F92670B94.xml#id-ACDEBC95-C170-4d92-A8AA-455F92670B94"/>
+</archimate:ServingRelationship>

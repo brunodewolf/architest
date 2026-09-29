@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.448 Voertuig tracking applicatie - HERE API - Kaart"
+    id="id-F715B16A-59EC-4212-8517-486A039335BF">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F3FD49FF-8D9D-4c0f-8FA2-BA8C764B5B72.xml#id-F3FD49FF-8D9D-4c0f-8FA2-BA8C764B5B72"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-969812B5-29DC-4909-B016-A0C8DCCF6397.xml#id-969812B5-29DC-4909-B016-A0C8DCCF6397"/>
+</archimate:ServingRelationship>

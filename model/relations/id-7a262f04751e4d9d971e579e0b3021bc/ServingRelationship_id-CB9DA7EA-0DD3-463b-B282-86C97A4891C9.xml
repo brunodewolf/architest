@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.778 Instabug - Zendesk (klachten)"
+    id="id-CB9DA7EA-0DD3-463b-B282-86C97A4891C9">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BF3B24E1-478A-46b6-9C7A-6C0003306C37.xml#id-BF3B24E1-478A-46b6-9C7A-6C0003306C37"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-002E277C-1987-4b13-A5C9-2F476CD01F6F.xml#id-002E277C-1987-4b13-A5C9-2F476CD01F6F"/>
+</archimate:ServingRelationship>

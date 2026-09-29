@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.435 Case, Schade en Incidenten Beheer (CSI) - Sociale Veiligheid Incidentenbeheer (Informatie schadedossier)"
+    id="id-F023B198-EF9C-41c8-BD20-77236867B032">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C29B0B47-042A-40e2-88EA-A838538A746C.xml#id-C29B0B47-042A-40e2-88EA-A838538A746C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D2ABF252-36EB-4a50-9F73-B91E78545163.xml#id-D2ABF252-36EB-4a50-9F73-B91E78545163"/>
+</archimate:ServingRelationship>

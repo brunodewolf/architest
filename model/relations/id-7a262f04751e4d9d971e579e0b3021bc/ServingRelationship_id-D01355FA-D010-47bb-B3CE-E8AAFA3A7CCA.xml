@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.619 Auth0 - CKB (Change Hook)"
+    id="id-D01355FA-D010-47bb-B3CE-E8AAFA3A7CCA">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5436573C-DAAD-4627-999E-D933B43D09B4.xml#id-5436573C-DAAD-4627-999E-D933B43D09B4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9A6B6F28-3F97-4ae4-9F7E-92FCF4A1B64B.xml#id-9A6B6F28-3F97-4ae4-9F7E-92FCF4A1B64B"/>
+</archimate:ServingRelationship>

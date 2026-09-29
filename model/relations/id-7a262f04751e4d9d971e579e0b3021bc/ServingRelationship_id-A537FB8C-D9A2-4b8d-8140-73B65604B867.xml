@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1241 (Netwerk)"
+    id="id-A537FB8C-D9A2-4b8d-8140-73B65604B867">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-62F1116F-1E22-4c4e-9815-672E477D1A87.xml#id-62F1116F-1E22-4c4e-9815-672E477D1A87"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ECD49E35-EABA-44d2-9A64-AAF35C705624.xml#id-ECD49E35-EABA-44d2-9A64-AAF35C705624"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1072 - SF Employee central - Qualtrics (Lifecycle event)"
+    id="id-52A3A8D1-C0C9-470c-BEC0-41BC0F2F0D7B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4896A637-0E78-4cff-94A7-B57BE1DE6498.xml#id-4896A637-0E78-4cff-94A7-B57BE1DE6498"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6C66488B-8B76-4372-B5F4-36D5A698A204.xml#id-6C66488B-8B76-4372-B5F4-36D5A698A204"/>
+</archimate:ServingRelationship>

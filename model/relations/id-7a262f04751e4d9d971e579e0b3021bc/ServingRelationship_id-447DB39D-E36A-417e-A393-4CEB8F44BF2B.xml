@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.430 MDM Voertuigen - SoVIB (Voertuig)"
+    id="id-447DB39D-E36A-417e-A393-4CEB8F44BF2B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ECD22175-419F-407a-8214-967EBAF963A1.xml#id-ECD22175-419F-407a-8214-967EBAF963A1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D2ABF252-36EB-4a50-9F73-B91E78545163.xml#id-D2ABF252-36EB-4a50-9F73-B91E78545163"/>
+</archimate:ServingRelationship>

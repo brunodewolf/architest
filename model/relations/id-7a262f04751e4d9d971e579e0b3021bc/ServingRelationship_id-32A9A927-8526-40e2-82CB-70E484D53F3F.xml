@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.881 DIVB - SAP FI (M-tickets)"
+    id="id-32A9A927-8526-40e2-82CB-70E484D53F3F">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1875AC00-6741-47dd-BA63-787747F0A17C.xml#id-1875AC00-6741-47dd-BA63-787747F0A17C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473.xml#id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473"/>
+</archimate:ServingRelationship>

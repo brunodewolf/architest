@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.790 Exploitanten Toepassing - Microsoft Entra ID (Exploitant Medewerker + Rollen)"
+    id="id-A6C44FCF-EF59-474e-82A7-9E366766ADC0">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-84915F34-2F14-4bb6-A0A1-0794CE826F2B.xml#id-84915F34-2F14-4bb6-A0A1-0794CE826F2B"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-36A1DCEB-28F5-437a-A814-F3E9260D2942.xml#id-36A1DCEB-28F5-437a-A814-F3E9260D2942"/>
+</archimate:ServingRelationship>

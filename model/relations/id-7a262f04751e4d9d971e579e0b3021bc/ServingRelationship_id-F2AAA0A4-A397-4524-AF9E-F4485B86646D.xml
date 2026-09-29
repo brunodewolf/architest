@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0880 (KT + MLT Dienstregeling)"
+    id="id-F2AAA0A4-A397-4524-AF9E-F4485B86646D">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E64217CF-D649-41a8-AACB-B1E216869EFB.xml#id-E64217CF-D649-41a8-AACB-B1E216869EFB"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2FCFF654-A06E-4db2-A932-0F6775345335.xml#id-2FCFF654-A06E-4db2-A932-0F6775345335"/>
+</archimate:ServingRelationship>

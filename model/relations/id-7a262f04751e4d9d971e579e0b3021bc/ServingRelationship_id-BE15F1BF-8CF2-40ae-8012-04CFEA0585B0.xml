@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.867 [External weather service] - PSIebus DMS - Weersvoorspelling"
+    id="id-BE15F1BF-8CF2-40ae-8012-04CFEA0585B0">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-14789044-F406-4f37-89EA-C367D14E71EF.xml#id-14789044-F406-4f37-89EA-C367D14E71EF"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-88F083D8-0634-4168-9A29-AD6A979BD3BD.xml#id-88F083D8-0634-4168-9A29-AD6A979BD3BD"/>
+</archimate:ServingRelationship>

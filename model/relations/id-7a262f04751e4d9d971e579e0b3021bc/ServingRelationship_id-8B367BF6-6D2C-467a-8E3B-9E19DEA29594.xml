@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.979 Business Portaal - Auth0 (User Account)"
+    id="id-8B367BF6-6D2C-467a-8E3B-9E19DEA29594">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-623820B2-2CB0-44c7-A85B-CAA7F834EEE2.xml#id-623820B2-2CB0-44c7-A85B-CAA7F834EEE2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5436573C-DAAD-4627-999E-D933B43D09B4.xml#id-5436573C-DAAD-4627-999E-D933B43D09B4"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1036 Medewerkersbeheer - SAP HCM (Formele and informele correspondentie)"
+    id="id-7196C48C-833E-4489-80B0-CCB6D24C49AD">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9B2DE51C-0305-4614-810D-69F5674C8627.xml#id-9B2DE51C-0305-4614-810D-69F5674C8627"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F76A3E68-A10C-45d5-9846-538E61D18CA1.xml#id-F76A3E68-A10C-45d5-9846-538E61D18CA1"/>
+</archimate:ServingRelationship>

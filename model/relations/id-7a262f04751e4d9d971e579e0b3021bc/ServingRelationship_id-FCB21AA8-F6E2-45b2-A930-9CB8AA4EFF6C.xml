@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0345 (VDV453)"
+    id="id-FCB21AA8-F6E2-45b2-A930-9CB8AA4EFF6C">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ECC53E38-CBE2-44f2-9085-6B327AD85988.xml#id-ECC53E38-CBE2-44f2-9085-6B327AD85988"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A5E4A339-7AA1-4ca9-8CF3-72EDACEFB49C.xml#id-A5E4A339-7AA1-4ca9-8CF3-72EDACEFB49C"/>
+</archimate:ServingRelationship>

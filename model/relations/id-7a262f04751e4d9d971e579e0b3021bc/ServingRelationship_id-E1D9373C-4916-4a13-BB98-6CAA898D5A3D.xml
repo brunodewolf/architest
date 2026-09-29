@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1040 Medewerkersbeheer - PowerBI Workspace Medewerkersbeheer (Medewerker en Organisatie)"
+    id="id-E1D9373C-4916-4a13-BB98-6CAA898D5A3D">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9B2DE51C-0305-4614-810D-69F5674C8627.xml#id-9B2DE51C-0305-4614-810D-69F5674C8627"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-07511CDF-A072-49c0-8D5D-A354147ED054.xml#id-07511CDF-A072-49c0-8D5D-A354147ED054"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.759 (notificatie van attestaanvraag)"
+    id="id-272F537E-F15E-46ae-A776-FCEE319C5F5F">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C.xml#id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-01D5E969-19CE-4055-822A-A725FA9C27A5.xml#id-01D5E969-19CE-4055-822A-A725FA9C27A5"/>
+</archimate:ServingRelationship>

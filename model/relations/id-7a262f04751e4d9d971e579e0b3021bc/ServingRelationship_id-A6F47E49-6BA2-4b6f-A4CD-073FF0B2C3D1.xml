@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1201 (Halte)"
+    id="id-A6F47E49-6BA2-4b6f-A4CD-073FF0B2C3D1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-36D1A9F6-30EF-476c-B7B0-6AE51C0F1C33.xml#id-36D1A9F6-30EF-476c-B7B0-6AE51C0F1C33"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D23BD378-49C8-44ad-8B1B-F5FA2FE91980.xml#id-D23BD378-49C8-44ad-8B1B-F5FA2FE91980"/>
+</archimate:ServingRelationship>

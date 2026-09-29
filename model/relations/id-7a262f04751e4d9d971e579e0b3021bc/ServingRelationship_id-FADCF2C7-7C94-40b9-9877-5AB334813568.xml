@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1005 Correspondentie Orkestratie - SAP OpenText Archiving (Brieven en PVs)"
+    id="id-FADCF2C7-7C94-40b9-9877-5AB334813568">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-AAB1FDA3-E3E9-42d3-97FD-C198450D6CF1.xml#id-AAB1FDA3-E3E9-42d3-97FD-C198450D6CF1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-29158402-4C7A-468d-9E79-EDA5E0FB3AFD.xml#id-29158402-4C7A-468d-9E79-EDA5E0FB3AFD"/>
+</archimate:ServingRelationship>

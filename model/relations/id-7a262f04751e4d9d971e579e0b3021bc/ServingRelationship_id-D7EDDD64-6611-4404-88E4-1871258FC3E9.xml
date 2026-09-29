@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.692 EPOS - DIAF (Open Balances)"
+    id="id-D7EDDD64-6611-4404-88E4-1871258FC3E9">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8A30B50B-E2E8-471e-ACEC-143F7FE208FF.xml#id-8A30B50B-E2E8-471e-ACEC-143F7FE208FF"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1.xml#id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1"/>
+</archimate:ServingRelationship>

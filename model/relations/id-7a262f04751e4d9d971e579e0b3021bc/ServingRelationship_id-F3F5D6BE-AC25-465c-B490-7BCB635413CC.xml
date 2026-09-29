@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.169 SAP HCM - Actuaris (Mercer) (Pensioengegevens Pensioenafhoudingen)"
+    id="id-F3F5D6BE-AC25-465c-B490-7BCB635413CC">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F76A3E68-A10C-45d5-9846-538E61D18CA1.xml#id-F76A3E68-A10C-45d5-9846-538E61D18CA1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C43B9891-9250-4a99-87F9-3165727AA28C.xml#id-C43B9891-9250-4a99-87F9-3165727AA28C"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1108 Personeelsmodel - Microsoft Entra ID (Medewerker)"
+    id="id-46141C23-C7CF-4956-9310-CF9BBFD818CD">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-665F3F95-C839-403d-BF99-E9612BEEA591.xml#id-665F3F95-C839-403d-BF99-E9612BEEA591"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-36A1DCEB-28F5-437a-A814-F3E9260D2942.xml#id-36A1DCEB-28F5-437a-A814-F3E9260D2942"/>
+</archimate:ServingRelationship>

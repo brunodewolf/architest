@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.795 IVU.Fleet - PSIebus DMS - Geschatte aankomsttijd (DAP)"
+    id="id-380A77CE-CCC5-4e47-B4BC-E98CB0EDE903">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F0CDF604-C2EB-45b4-B3EF-C676C6F60D56.xml#id-F0CDF604-C2EB-45b4-B3EF-C676C6F60D56"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-88F083D8-0634-4168-9A29-AD6A979BD3BD.xml#id-88F083D8-0634-4168-9A29-AD6A979BD3BD"/>
+</archimate:ServingRelationship>

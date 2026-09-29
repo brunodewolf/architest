@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.980 DIVB - IP-Mobile (nummerplaat)"
+    id="id-621C0C96-E1D5-4048-B95C-22651B477ED0">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1875AC00-6741-47dd-BA63-787747F0A17C.xml#id-1875AC00-6741-47dd-BA63-787747F0A17C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-095E0CDD-E38E-425c-8BE7-3707F0AFD39E.xml#id-095E0CDD-E38E-425c-8BE7-3707F0AFD39E"/>
+</archimate:ServingRelationship>

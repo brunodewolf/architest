@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1009 Centraal Testresultaten Beheer - Jira (Testresultaten)"
+    id="id-E43B33CA-39B0-45fb-9ECC-1B524A00DF3D">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D0F6632F-1AF5-4ec2-9DF2-9B6E96353BE9.xml#id-D0F6632F-1AF5-4ec2-9DF2-9B6E96353BE9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-EE96675E-CC89-454f-B906-16F280A5AE53.xml#id-EE96675E-CC89-454f-B906-16F280A5AE53"/>
+</archimate:ServingRelationship>

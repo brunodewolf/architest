@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.163 ET - MOBIB Paswoordbeheer - exploitantengegevens"
+    id="id-29229E15-4756-4585-AF24-D1CA7B5E2254">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4BCE9479-2B25-4528-BB0D-6223576BE515.xml#id-4BCE9479-2B25-4528-BB0D-6223576BE515"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A66E0958-2C27-4e9a-A6B7-09672114E6D7.xml#id-A66E0958-2C27-4e9a-A6B7-09672114E6D7"/>
+</archimate:ServingRelationship>

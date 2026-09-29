@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1022 DSSP - MTC (Controle Information)"
+    id="id-DADEC077-56D8-4c66-8CB6-AD26CF5DF5AB">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FBC124C9-869F-4e54-9121-B471C9FF99B7.xml#id-FBC124C9-869F-4e54-9121-B471C9FF99B7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE.xml#id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE"/>
+</archimate:ServingRelationship>

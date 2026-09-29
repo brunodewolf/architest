@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.031 Voertuig software Iveco - Data Platform EBS (Technische uitvoeringsgegevens - realtime)"
+    id="id-52292C2C-BECC-4a00-B8DF-DC559DAC3120">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-95305522-5EF4-41f8-9ACE-9DBA2D64E061.xml#id-95305522-5EF4-41f8-9ACE-9DBA2D64E061"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3AF8A723-C5FE-41f7-A425-41551E172F04.xml#id-3AF8A723-C5FE-41f7-A425-41551E172F04"/>
+</archimate:ServingRelationship>

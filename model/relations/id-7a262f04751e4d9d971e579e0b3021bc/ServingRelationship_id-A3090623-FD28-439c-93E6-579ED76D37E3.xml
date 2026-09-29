@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.633 CKB - Magda (RSZ Data)"
+    id="id-A3090623-FD28-439c-93E6-579ED76D37E3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9A6B6F28-3F97-4ae4-9F7E-92FCF4A1B64B.xml#id-9A6B6F28-3F97-4ae4-9F7E-92FCF4A1B64B"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7CA16471-5D39-4146-B822-8002C78812B3.xml#id-7CA16471-5D39-4146-B822-8002C78812B3"/>
+</archimate:ServingRelationship>

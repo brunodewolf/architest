@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.687 MobiGuider MPM - Customer Big Data Platform (Azure) (MPM Adressing/Logs)"
+    id="id-29DB3D76-CB86-4efb-8A7D-10A95566BB51">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BE58D310-FD66-4d42-804A-ED13F21F66ED.xml#id-BE58D310-FD66-4d42-804A-ED13F21F66ED"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DB4F168F-FC0B-453b-BD46-F2B6C0CFB0E9.xml#id-DB4F168F-FC0B-453b-BD46-F2B6C0CFB0E9"/>
+</archimate:ServingRelationship>

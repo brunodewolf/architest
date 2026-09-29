@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1141 SAP SOM - Mobib-Card List Mngt  (Contract Change Event)"
+    id="id-141F86D0-0F0D-49a3-B6A8-7522346DE203">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A16C4BD0-B040-49d7-909C-48E29EF21F70.xml#id-A16C4BD0-B040-49d7-909C-48E29EF21F70"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4A30D834-A582-4a48-BFF4-8FA4BCF35411.xml#id-4A30D834-A582-4a48-BFF4-8FA4BCF35411"/>
+</archimate:ServingRelationship>

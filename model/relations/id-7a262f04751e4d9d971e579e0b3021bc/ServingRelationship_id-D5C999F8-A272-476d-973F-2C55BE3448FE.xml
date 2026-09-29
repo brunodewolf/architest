@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.255 PUC ODS - IVU.fleet - (Voertuigen/stelplaatsen (waarvoor voertuig kan rijden))"
+    id="id-D5C999F8-A272-476d-973F-2C55BE3448FE">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0A54D28B-5F8F-480c-86AF-1DF4692103E9.xml#id-0A54D28B-5F8F-480c-86AF-1DF4692103E9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F0CDF604-C2EB-45b4-B3EF-C676C6F60D56.xml#id-F0CDF604-C2EB-45b4-B3EF-C676C6F60D56"/>
+</archimate:ServingRelationship>

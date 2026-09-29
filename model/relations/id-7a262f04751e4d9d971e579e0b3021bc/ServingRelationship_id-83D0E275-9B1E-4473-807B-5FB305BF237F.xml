@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.331  Planning &amp; Uitvoering Component - PowerBI Workspace Chauffeursbeheer (Te vroeg of te laat rijden chauffeur)"
+    id="id-83D0E275-9B1E-4473-807B-5FB305BF237F">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E64217CF-D649-41a8-AACB-B1E216869EFB.xml#id-E64217CF-D649-41a8-AACB-B1E216869EFB"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-17F3EC19-9B10-46b1-848C-3EC31E4A712F.xml#id-17F3EC19-9B10-46b1-848C-3EC31E4A712F"/>
+</archimate:ServingRelationship>

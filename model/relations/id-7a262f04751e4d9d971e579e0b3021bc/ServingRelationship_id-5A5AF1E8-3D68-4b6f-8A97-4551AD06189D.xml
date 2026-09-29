@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1071 - SF Recruiting - Qualtrics (Sollicitanten)"
+    id="id-5A5AF1E8-3D68-4b6f-8A97-4551AD06189D">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-B08138DA-DC03-4926-ABAC-DFAB348D905D.xml#id-B08138DA-DC03-4926-ABAC-DFAB348D905D"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6C66488B-8B76-4372-B5F4-36D5A698A204.xml#id-6C66488B-8B76-4372-B5F4-36D5A698A204"/>
+</archimate:ServingRelationship>

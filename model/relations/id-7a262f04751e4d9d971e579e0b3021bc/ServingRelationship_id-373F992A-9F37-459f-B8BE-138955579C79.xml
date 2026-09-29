@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.394 MDS-SoVIB - Referentie Data"
+    id="id-373F992A-9F37-459f-B8BE-138955579C79">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A7C14489-7A47-49a9-AF98-D1A16552813A.xml#id-A7C14489-7A47-49a9-AF98-D1A16552813A"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D2ABF252-36EB-4a50-9F73-B91E78545163.xml#id-D2ABF252-36EB-4a50-9F73-B91E78545163"/>
+</archimate:ServingRelationship>

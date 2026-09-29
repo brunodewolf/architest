@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.237 MobiGuider MPM - IVU.Fleet.Statistics (VMH data)"
+    id="id-148F5A95-5E9D-4b22-A504-A84654B01B47">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BE58D310-FD66-4d42-804A-ED13F21F66ED.xml#id-BE58D310-FD66-4d42-804A-ED13F21F66ED"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0AF51362-E8D0-44d5-82F3-6BA7539A977B.xml#id-0AF51362-E8D0-44d5-82F3-6BA7539A977B"/>
+</archimate:ServingRelationship>

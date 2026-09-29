@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.079 Personeelsmodel - MG IAM - Organisatiegegevens (regio- en functiesynchronisatie)"
+    id="id-7C14914F-F7C1-47c4-844C-58DF519B5470">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-665F3F95-C839-403d-BF99-E9612BEEA591.xml#id-665F3F95-C839-403d-BF99-E9612BEEA591"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4BCE9479-2B25-4528-BB0D-6223576BE515.xml#id-4BCE9479-2B25-4528-BB0D-6223576BE515"/>
+</archimate:ServingRelationship>

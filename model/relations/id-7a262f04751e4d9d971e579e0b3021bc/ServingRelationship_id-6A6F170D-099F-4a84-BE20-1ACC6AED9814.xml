@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1177 PSI VAS Server - Laadstation software ABB - Aansturing laadstation"
+    id="id-6A6F170D-099F-4a84-BE20-1ACC6AED9814">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E52A4E61-8362-404d-9542-9B030DF68B79.xml#id-E52A4E61-8362-404d-9542-9B030DF68B79"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F2CFAE25-330F-46ee-B11A-A331689133FF.xml#id-F2CFAE25-330F-46ee-B11A-A331689133FF"/>
+</archimate:ServingRelationship>

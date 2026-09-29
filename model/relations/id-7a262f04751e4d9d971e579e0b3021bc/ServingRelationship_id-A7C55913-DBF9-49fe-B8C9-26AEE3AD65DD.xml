@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.854 DTSS - SAP FICA (FICO event)"
+    id="id-A7C55913-DBF9-49fe-B8C9-26AEE3AD65DD">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3CE4E123-84A0-4b63-A662-979262778227.xml#id-3CE4E123-84A0-4b63-A662-979262778227"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1.xml#id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1"/>
+</archimate:ServingRelationship>

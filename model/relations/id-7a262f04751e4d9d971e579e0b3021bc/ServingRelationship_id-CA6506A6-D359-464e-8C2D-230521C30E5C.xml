@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.480 Mobiguider Boordcomputer (BC) - Mobiele Toepassing Controleur Frontend (ritcontext)"
+    id="id-CA6506A6-D359-464e-8C2D-230521C30E5C">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-16CD855B-EC63-4d4d-8FB0-44BE0F6C624A.xml#id-16CD855B-EC63-4d4d-8FB0-44BE0F6C624A"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D63B4567-E7CA-4cb9-892D-E718DF5C63CB.xml#id-D63B4567-E7CA-4cb9-892D-E718DF5C63CB"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.309 RT Uitvoering (Azure) - Reizigerstellingen (Azure) - realtime"
+    id="id-FF0D3680-5AD7-4295-903B-FBC26A83E2A2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-16CD855B-EC63-4d4d-8FB0-44BE0F6C624A.xml#id-16CD855B-EC63-4d4d-8FB0-44BE0F6C624A"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DB4F168F-FC0B-453b-BD46-F2B6C0CFB0E9.xml#id-DB4F168F-FC0B-453b-BD46-F2B6C0CFB0E9"/>
+</archimate:ServingRelationship>

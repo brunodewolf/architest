@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.639 Public Website - DIAF (Open Balances)"
+    id="id-DA8EA366-4BDC-4908-8213-ADD3E083E36F">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C.xml#id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1.xml#id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1"/>
+</archimate:ServingRelationship>

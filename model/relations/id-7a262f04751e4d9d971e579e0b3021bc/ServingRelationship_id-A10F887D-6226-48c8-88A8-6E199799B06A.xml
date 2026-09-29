@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.109 Personeelsmodel - Planon - gebruikers"
+    id="id-A10F887D-6226-48c8-88A8-6E199799B06A">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-665F3F95-C839-403d-BF99-E9612BEEA591.xml#id-665F3F95-C839-403d-BF99-E9612BEEA591"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6E2E7897-2BD1-4557-8F19-08E02929AC68.xml#id-6E2E7897-2BD1-4557-8F19-08E02929AC68"/>
+</archimate:ServingRelationship>

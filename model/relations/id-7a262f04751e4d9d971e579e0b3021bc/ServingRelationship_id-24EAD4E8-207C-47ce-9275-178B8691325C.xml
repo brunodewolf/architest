@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.603 UKS - Selligent (Mail Notification)"
+    id="id-24EAD4E8-207C-47ce-9275-178B8691325C">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C96F344F-E161-488d-9D3D-C7C8A1C6902C.xml#id-C96F344F-E161-488d-9D3D-C7C8A1C6902C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1820DE5E-9EDD-4d52-B7CF-C91ABFC71D72.xml#id-1820DE5E-9EDD-4d52-B7CF-C91ABFC71D72"/>
+</archimate:ServingRelationship>

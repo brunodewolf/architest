@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.429 Sociale Veiligheid Incidentenbeheer - ChauffeursBeheer (Agressiemelding)"
+    id="id-9544CAD6-4648-49b0-89E0-6565FE3F66D3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D2ABF252-36EB-4a50-9F73-B91E78545163.xml#id-D2ABF252-36EB-4a50-9F73-B91E78545163"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-35621C38-8546-4157-9376-9BE0DFE9BD16.xml#id-35621C38-8546-4157-9376-9BE0DFE9BD16"/>
+</archimate:ServingRelationship>

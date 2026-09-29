@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.897 PersoneelsModel-PersoneelsRitten (Personeelsgegevens)"
+    id="id-DAC00936-150E-4b04-9AD5-3678EAA7BEC3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-665F3F95-C839-403d-BF99-E9612BEEA591.xml#id-665F3F95-C839-403d-BF99-E9612BEEA591"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CCE2606E-53A5-46a7-A7B6-12341CE68758.xml#id-CCE2606E-53A5-46a7-A7B6-12341CE68758"/>
+</archimate:ServingRelationship>

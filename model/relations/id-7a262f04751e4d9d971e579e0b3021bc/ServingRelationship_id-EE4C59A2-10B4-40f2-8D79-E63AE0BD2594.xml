@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.040 MobiGuider AFC - SAP FICA (PSCD)  (B2C Verkopen)"
+    id="id-EE4C59A2-10B4-40f2-8D79-E63AE0BD2594">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DE08145A-B0B3-4bb2-9658-71A42332BFD3.xml#id-DE08145A-B0B3-4bb2-9658-71A42332BFD3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1.xml#id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1"/>
+</archimate:ServingRelationship>

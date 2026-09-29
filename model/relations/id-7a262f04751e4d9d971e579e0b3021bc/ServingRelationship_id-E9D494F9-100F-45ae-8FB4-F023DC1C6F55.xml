@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1082 OpenText - DSSP (Customer Documents)"
+    id="id-E9D494F9-100F-45ae-8FB4-F023DC1C6F55">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-29158402-4C7A-468d-9E79-EDA5E0FB3AFD.xml#id-29158402-4C7A-468d-9E79-EDA5E0FB3AFD"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FBC124C9-869F-4e54-9121-B471C9FF99B7.xml#id-FBC124C9-869F-4e54-9121-B471C9FF99B7"/>
+</archimate:ServingRelationship>

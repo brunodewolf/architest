@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1089 Budget- en forecastapplicatie (TM1) - DataWarehouse (DWH) (Budget &amp; Forecasts)"
+    id="id-1D54D3C4-CAD2-48e1-B370-77F49E2818A0">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6F288532-B9D7-41f1-8999-8F691134EB2F.xml#id-6F288532-B9D7-41f1-8999-8F691134EB2F"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D614C219-D4F0-4570-95EA-C2DABD7EF068.xml#id-D614C219-D4F0-4570-95EA-C2DABD7EF068"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.312 cEMV/ABT backoffice - DWH - tapinformatie"
+    id="id-BBF6F070-D913-4182-922D-6FE043AF83FB">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A1B43A44-061B-4b66-82FF-85B213F648D7.xml#id-A1B43A44-061B-4b66-82FF-85B213F648D7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C7246814-29E1-4109-8D97-6CC5A60171B7.xml#id-C7246814-29E1-4109-8D97-6CC5A60171B7"/>
+</archimate:ServingRelationship>

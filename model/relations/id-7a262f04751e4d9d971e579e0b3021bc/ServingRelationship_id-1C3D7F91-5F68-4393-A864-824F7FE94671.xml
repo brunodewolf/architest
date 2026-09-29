@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.166 DWH - Datalake (Halte)"
+    id="id-1C3D7F91-5F68-4393-A864-824F7FE94671">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D614C219-D4F0-4570-95EA-C2DABD7EF068.xml#id-D614C219-D4F0-4570-95EA-C2DABD7EF068"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D67A0763-4286-456b-9F87-8F653EB5FC49.xml#id-D67A0763-4286-456b-9F87-8F653EB5FC49"/>
+</archimate:ServingRelationship>

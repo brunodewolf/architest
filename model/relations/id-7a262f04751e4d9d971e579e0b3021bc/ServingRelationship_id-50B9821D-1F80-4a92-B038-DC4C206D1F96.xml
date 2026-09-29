@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.181 TypeDagKalender -  Exploitanten Toepassing (ET) (Kalender notificaties)"
+    id="id-50B9821D-1F80-4a92-B038-DC4C206D1F96">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2B0881EA-C092-40fa-B374-09BEFE4FB629.xml#id-2B0881EA-C092-40fa-B374-09BEFE4FB629"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-84915F34-2F14-4bb6-A0A1-0794CE826F2B.xml#id-84915F34-2F14-4bb6-A0A1-0794CE826F2B"/>
+</archimate:ServingRelationship>

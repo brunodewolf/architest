@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.720 Registratie ingave ziekteattest in MEDIWE"
+    id="id-59468349-5E66-46bd-AD26-DA004D11E009">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DE34F328-77E8-4b26-BFE7-D5271AECCAF4.xml#id-DE34F328-77E8-4b26-BFE7-D5271AECCAF4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F76A3E68-A10C-45d5-9846-538E61D18CA1.xml#id-F76A3E68-A10C-45d5-9846-538E61D18CA1"/>
+</archimate:ServingRelationship>

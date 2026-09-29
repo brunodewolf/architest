@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.389 DIM - SoVIB (Aanmaken agressiemelding)"
+    id="id-D904E4B4-0659-4ec2-8D2C-01FAD2FC9FE8">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FBDBA3F2-EA0C-43c2-BB36-23882313F6E7.xml#id-FBDBA3F2-EA0C-43c2-BB36-23882313F6E7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D2ABF252-36EB-4a50-9F73-B91E78545163.xml#id-D2ABF252-36EB-4a50-9F73-B91E78545163"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.814 Dispatch Incident Management - Mobiele Toepassing Controleur Backoffice (Aanmaken interventie opdrachten)"
+    id="id-3838E05E-7FDD-42e3-AA93-7FF5E7A64370">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FBDBA3F2-EA0C-43c2-BB36-23882313F6E7.xml#id-FBDBA3F2-EA0C-43c2-BB36-23882313F6E7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE.xml#id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE"/>
+</archimate:ServingRelationship>

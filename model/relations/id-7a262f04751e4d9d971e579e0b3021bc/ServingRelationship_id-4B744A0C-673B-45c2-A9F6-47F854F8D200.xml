@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0185 (Halte + Lijn)"
+    id="id-4B744A0C-673B-45c2-A9F6-47F854F8D200">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-62F1116F-1E22-4c4e-9815-672E477D1A87.xml#id-62F1116F-1E22-4c4e-9815-672E477D1A87"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F838ACED-064F-4fec-B44C-C9B5DE15B867.xml#id-F838ACED-064F-4fec-B44C-C9B5DE15B867"/>
+</archimate:ServingRelationship>

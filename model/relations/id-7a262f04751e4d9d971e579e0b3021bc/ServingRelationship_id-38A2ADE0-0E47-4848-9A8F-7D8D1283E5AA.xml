@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1010 (Schrapping)"
+    id="id-38A2ADE0-0E47-4848-9A8F-7D8D1283E5AA">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2D25BB4C-0FF5-4e03-B5E2-6B425EB85C37.xml#id-2D25BB4C-0FF5-4e03-B5E2-6B425EB85C37"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-641D10B5-3378-4169-AEE7-3FA929C0BCE0.xml#id-641D10B5-3378-4169-AEE7-3FA929C0BCE0"/>
+</archimate:ServingRelationship>

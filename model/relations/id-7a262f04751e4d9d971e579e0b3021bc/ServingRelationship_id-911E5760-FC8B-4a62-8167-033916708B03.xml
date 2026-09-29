@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.019 SAP HCM - Schadebeheer (Personeelsgegevens)"
+    id="id-911E5760-FC8B-4a62-8167-033916708B03">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F76A3E68-A10C-45d5-9846-538E61D18CA1.xml#id-F76A3E68-A10C-45d5-9846-538E61D18CA1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C29B0B47-042A-40e2-88EA-A838538A746C.xml#id-C29B0B47-042A-40e2-88EA-A838538A746C"/>
+</archimate:ServingRelationship>

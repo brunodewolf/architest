@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1076 TRIP GTFS - Google Maps (GTFS + RT)"
+    id="id-C146B6F4-7F4C-41d9-B3F1-E003760ACA6C">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C12D8BCF-77C8-4c8f-BD20-FC56A8694F32.xml#id-C12D8BCF-77C8-4c8f-BD20-FC56A8694F32"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F0F35A1E-EA72-417e-8871-30315F143155.xml#id-F0F35A1E-EA72-417e-8871-30315F143155"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.800 Hastus DailyVehicle - PSIebus DMS (KT voertuigplanning)"
+    id="id-C922A66A-00DF-4461-95EC-513899CCC937">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9C38E6F1-C128-4278-9CE6-DA60330FF013.xml#id-9C38E6F1-C128-4278-9CE6-DA60330FF013"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-88F083D8-0634-4168-9A29-AD6A979BD3BD.xml#id-88F083D8-0634-4168-9A29-AD6A979BD3BD"/>
+</archimate:ServingRelationship>

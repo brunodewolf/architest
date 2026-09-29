@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1137 SAP HCM - O2O (Werkgever goedkeuring)"
+    id="id-534B74D3-6B6F-4ccd-9ED3-1ACF6FAC1C9B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F76A3E68-A10C-45d5-9846-538E61D18CA1.xml#id-F76A3E68-A10C-45d5-9846-538E61D18CA1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-32D9DD75-6F89-4ce2-BC2F-638B92116F77.xml#id-32D9DD75-6F89-4ce2-BC2F-638B92116F77"/>
+</archimate:ServingRelationship>

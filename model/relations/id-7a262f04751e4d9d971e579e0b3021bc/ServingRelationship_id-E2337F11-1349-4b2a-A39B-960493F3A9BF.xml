@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.562 MobiGuider MPM - PUC ODS - VMH data"
+    id="id-E2337F11-1349-4b2a-A39B-960493F3A9BF">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BE58D310-FD66-4d42-804A-ED13F21F66ED.xml#id-BE58D310-FD66-4d42-804A-ED13F21F66ED"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0A54D28B-5F8F-480c-86AF-1DF4692103E9.xml#id-0A54D28B-5F8F-480c-86AF-1DF4692103E9"/>
+</archimate:ServingRelationship>

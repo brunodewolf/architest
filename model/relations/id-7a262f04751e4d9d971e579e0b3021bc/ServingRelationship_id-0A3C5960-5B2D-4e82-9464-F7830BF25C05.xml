@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0223 (Lijn + patroon)"
+    id="id-0A3C5960-5B2D-4e82-9464-F7830BF25C05">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D49C1A60-BFEC-4cdb-B761-66E72989EDF8.xml#id-D49C1A60-BFEC-4cdb-B761-66E72989EDF8"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C12D8BCF-77C8-4c8f-BD20-FC56A8694F32.xml#id-C12D8BCF-77C8-4c8f-BD20-FC56A8694F32"/>
+</archimate:ServingRelationship>

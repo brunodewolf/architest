@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.240 SF Recruiting - Jobboard (Vacature)"
+    id="id-2BDFCDDF-FAD9-4df5-B435-5E00B83107D2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-B08138DA-DC03-4926-ABAC-DFAB348D905D.xml#id-B08138DA-DC03-4926-ABAC-DFAB348D905D"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2BBD0138-1B12-48a2-B5F8-DD472AF01DA0.xml#id-2BBD0138-1B12-48a2-B5F8-DD472AF01DA0"/>
+</archimate:ServingRelationship>

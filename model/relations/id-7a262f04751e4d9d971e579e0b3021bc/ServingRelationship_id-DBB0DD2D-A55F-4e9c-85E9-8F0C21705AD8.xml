@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.036 Voertuig software Van Hool - Data Platform EBS (Technische uitvoeringsgegevens - realtime)"
+    id="id-DBB0DD2D-A55F-4e9c-85E9-8F0C21705AD8">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9FE61CFF-ADAA-41e0-BF71-3962F03D78C2.xml#id-9FE61CFF-ADAA-41e0-BF71-3962F03D78C2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3AF8A723-C5FE-41f7-A425-41551E172F04.xml#id-3AF8A723-C5FE-41f7-A425-41551E172F04"/>
+</archimate:ServingRelationship>

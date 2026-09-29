@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.829 Abonnementen - Cognos (digitale opstap)"
+    id="id-53107E48-19FD-4087-BDED-4F8A2AFBB051">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-41C5E65D-6D0F-400b-BD28-53D8756796CB.xml#id-41C5E65D-6D0F-400b-BD28-53D8756796CB"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-00A89617-81D0-4c90-B204-56A2E5A34C32.xml#id-00A89617-81D0-4c90-B204-56A2E5A34C32"/>
+</archimate:ServingRelationship>

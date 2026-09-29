@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.663 SAP BRIM - UKS (Notification) (I_OUT01)"
+    id="id-8E927195-EC45-4f13-85CF-764A0107FF3A">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-68F4E727-A697-44a8-B647-E73B89B912F8.xml#id-68F4E727-A697-44a8-B647-E73B89B912F8"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C96F344F-E161-488d-9D3D-C7C8A1C6902C.xml#id-C96F344F-E161-488d-9D3D-C7C8A1C6902C"/>
+</archimate:ServingRelationship>

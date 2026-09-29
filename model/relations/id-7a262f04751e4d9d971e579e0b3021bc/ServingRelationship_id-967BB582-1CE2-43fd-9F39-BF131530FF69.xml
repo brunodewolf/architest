@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0121 Antenor betaalterminal - Worldline (Betaling)"
+    id="id-967BB582-1CE2-43fd-9F39-BF131530FF69">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0315653C-3B9D-47f5-B455-11D423FC183A.xml#id-0315653C-3B9D-47f5-B455-11D423FC183A"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F5D75745-D158-42ac-8FF3-302482919118.xml#id-F5D75745-D158-42ac-8FF3-302482919118"/>
+</archimate:ServingRelationship>

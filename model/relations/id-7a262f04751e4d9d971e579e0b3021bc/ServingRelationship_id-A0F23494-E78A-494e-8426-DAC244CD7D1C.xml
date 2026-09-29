@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0915 (Geïntegreerde dienstregeling)"
+    id="id-A0F23494-E78A-494e-8426-DAC244CD7D1C">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2FCFF654-A06E-4db2-A932-0F6775345335.xml#id-2FCFF654-A06E-4db2-A932-0F6775345335"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-EDC6A198-657B-452b-8BA9-A7579F6DEB17.xml#id-EDC6A198-657B-452b-8BA9-A7579F6DEB17"/>
+</archimate:ServingRelationship>

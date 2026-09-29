@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1162 Microsoft Entra ID - Eindedienstkaart (Medewerker)"
+    id="id-F462A628-F6AD-4179-BA8A-58316CBDFE5E">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-36A1DCEB-28F5-437a-A814-F3E9260D2942.xml#id-36A1DCEB-28F5-437a-A814-F3E9260D2942"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BFE8D71C-F2EE-406b-BD1B-FEEDB21D0602.xml#id-BFE8D71C-F2EE-406b-BD1B-FEEDB21D0602"/>
+</archimate:ServingRelationship>

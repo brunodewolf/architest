@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1028 MobiGuider MPM - Mobiele Toepassing Controleur Frontend (IP adres Boordcomputer)"
+    id="id-27F69477-1174-4f4e-BC83-EF41ECAF74F9">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BE58D310-FD66-4d42-804A-ED13F21F66ED.xml#id-BE58D310-FD66-4d42-804A-ED13F21F66ED"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D63B4567-E7CA-4cb9-892D-E718DF5C63CB.xml#id-D63B4567-E7CA-4cb9-892D-E718DF5C63CB"/>
+</archimate:ServingRelationship>

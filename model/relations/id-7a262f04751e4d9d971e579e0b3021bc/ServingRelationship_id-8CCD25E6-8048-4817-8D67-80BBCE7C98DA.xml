@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.960 SAP CCO - SAP FI-CA (Payment Information)"
+    id="id-8CCD25E6-8048-4817-8D67-80BBCE7C98DA">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-11F1BB3C-6718-404d-BB1F-A81E9B2D0726.xml#id-11F1BB3C-6718-404d-BB1F-A81E9B2D0726"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1.xml#id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1"/>
+</archimate:ServingRelationship>

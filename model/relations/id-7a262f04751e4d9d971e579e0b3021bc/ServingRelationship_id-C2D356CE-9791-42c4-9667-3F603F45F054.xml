@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.723 SAP HCM - MDM Toegangsbeheer - Functies"
+    id="id-C2D356CE-9791-42c4-9667-3F603F45F054">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F76A3E68-A10C-45d5-9846-538E61D18CA1.xml#id-F76A3E68-A10C-45d5-9846-538E61D18CA1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A7C14489-7A47-49a9-AF98-D1A16552813A.xml#id-A7C14489-7A47-49a9-AF98-D1A16552813A"/>
+</archimate:ServingRelationship>

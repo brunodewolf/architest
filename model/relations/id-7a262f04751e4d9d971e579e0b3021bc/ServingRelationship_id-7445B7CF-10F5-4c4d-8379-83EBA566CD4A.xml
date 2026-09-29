@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.611 BIL - Mobile App (Saved Payment Methods)"
+    id="id-7445B7CF-10F5-4c4d-8379-83EBA566CD4A">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-18CC4A50-17DE-456c-A9EC-A5EEFE1705AC.xml#id-18CC4A50-17DE-456c-A9EC-A5EEFE1705AC"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-06B62845-84AD-47bf-B186-F6CE0EC3883C.xml#id-06B62845-84AD-47bf-B186-F6CE0EC3883C"/>
+</archimate:ServingRelationship>

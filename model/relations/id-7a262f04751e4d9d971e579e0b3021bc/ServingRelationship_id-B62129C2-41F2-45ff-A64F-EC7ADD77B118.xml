@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.777 Mobile App - Instabug (bug reports)"
+    id="id-B62129C2-41F2-45ff-A64F-EC7ADD77B118">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-06B62845-84AD-47bf-B186-F6CE0EC3883C.xml#id-06B62845-84AD-47bf-B186-F6CE0EC3883C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BF3B24E1-478A-46b6-9C7A-6C0003306C37.xml#id-BF3B24E1-478A-46b6-9C7A-6C0003306C37"/>
+</archimate:ServingRelationship>

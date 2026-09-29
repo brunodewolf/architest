@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0483 (Lijn)"
+    id="id-2A2DA02C-A964-44ef-A4F4-01D77C15AFE1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A2984680-F686-4d4c-8F4B-1D332D6A5D57.xml#id-A2984680-F686-4d4c-8F4B-1D332D6A5D57"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-92981EA0-DB69-4671-8C44-2C8526D1B60F.xml#id-92981EA0-DB69-4671-8C44-2C8526D1B60F"/>
+</archimate:ServingRelationship>

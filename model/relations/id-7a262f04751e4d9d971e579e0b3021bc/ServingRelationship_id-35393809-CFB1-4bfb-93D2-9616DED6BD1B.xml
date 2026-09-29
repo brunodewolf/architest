@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.081 Hastus - Detour - TRIP Reisinfo (Voorziene omleiding)"
+    id="id-35393809-CFB1-4bfb-93D2-9616DED6BD1B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9A058D31-EE78-48fb-AE9C-83AD8E38108C.xml#id-9A058D31-EE78-48fb-AE9C-83AD8E38108C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-05AB3D94-75A0-4571-92A4-51B26C703088.xml#id-05AB3D94-75A0-4571-92A4-51B26C703088"/>
+</archimate:ServingRelationship>

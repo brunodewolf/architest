@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0344 Mobiguider Boordcomputer (BC) - Reizigerstellingen en bezetting (AVL)"
+    id="id-2AA6FC79-D37D-45b9-AA6E-0B7B3024FFA9">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-16CD855B-EC63-4d4d-8FB0-44BE0F6C624A.xml#id-16CD855B-EC63-4d4d-8FB0-44BE0F6C624A"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D157B24A-42C5-497e-9676-1548BB3F9FB2.xml#id-D157B24A-42C5-497e-9676-1548BB3F9FB2"/>
+</archimate:ServingRelationship>

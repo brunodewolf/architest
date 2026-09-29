@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1086 SAP MM - DataWarehouse (DWH) (Tankverrichtingen in liters)"
+    id="id-614C5583-CCC4-4d7f-A449-195B12B0BC11">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6A7E1A7F-B41D-4266-8D53-288529F6D62B.xml#id-6A7E1A7F-B41D-4266-8D53-288529F6D62B"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D614C219-D4F0-4570-95EA-C2DABD7EF068.xml#id-D614C219-D4F0-4570-95EA-C2DABD7EF068"/>
+</archimate:ServingRelationship>

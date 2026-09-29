@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.903 Exploitanten Toepassing - VIA (Vervoerders, voertuigtypes, voertuigen en chauffeurs)"
+    id="id-E68C7410-6B30-4264-9A13-F96EB713205B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-84915F34-2F14-4bb6-A0A1-0794CE826F2B.xml#id-84915F34-2F14-4bb6-A0A1-0794CE826F2B"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-87F474B1-B35A-4121-925A-50C825744E45.xml#id-87F474B1-B35A-4121-925A-50C825744E45"/>
+</archimate:ServingRelationship>

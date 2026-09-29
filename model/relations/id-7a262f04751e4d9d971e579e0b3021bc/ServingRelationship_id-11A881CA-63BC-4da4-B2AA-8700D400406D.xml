@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1246 WeRide Boordcomputer - Live Voertuig Operationele Uitvoeringsgegevens (Operationele Uitvoeringsgegevens)"
+    id="id-11A881CA-63BC-4da4-B2AA-8700D400406D">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D2402DE1-95EF-496e-8F0D-38F25BABD8AF.xml#id-D2402DE1-95EF-496e-8F0D-38F25BABD8AF"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-676F365A-B066-4ac4-B005-389D2F452127.xml#id-676F365A-B066-4ac4-B005-389D2F452127"/>
+</archimate:ServingRelationship>

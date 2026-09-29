@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.239 Magda-Opvragen Gezinssamenstelling (Persoons- en gezinsgegevens)"
+    id="id-8F453C94-C487-41df-9DCA-FEEC8DFEE671">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7CA16471-5D39-4146-B822-8002C78812B3.xml#id-7CA16471-5D39-4146-B822-8002C78812B3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-998472ED-4847-4684-A79E-5413A7BD79FC.xml#id-998472ED-4847-4684-A79E-5413A7BD79FC"/>
+</archimate:ServingRelationship>

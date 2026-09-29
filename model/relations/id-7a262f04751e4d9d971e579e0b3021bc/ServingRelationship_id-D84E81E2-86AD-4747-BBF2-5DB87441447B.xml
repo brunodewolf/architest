@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.860 Mobiele Toepassing Controleur Frontend - MAGDA (Identiteitsinformatie)"
+    id="id-D84E81E2-86AD-4747-BBF2-5DB87441447B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D63B4567-E7CA-4cb9-892D-E718DF5C63CB.xml#id-D63B4567-E7CA-4cb9-892D-E718DF5C63CB"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7CA16471-5D39-4146-B822-8002C78812B3.xml#id-7CA16471-5D39-4146-B822-8002C78812B3"/>
+</archimate:ServingRelationship>

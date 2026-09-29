@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.367 SF Learning - FlowSparks (Inschrijving opleiding)"
+    id="id-878C778A-8A96-4a37-B5B8-85B7C2EE1AA2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CE728BEE-84DB-49c2-BD76-6C4621D8F84E.xml#id-CE728BEE-84DB-49c2-BD76-6C4621D8F84E"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DC9021B1-9678-4852-8AB0-9E481DBF97DC.xml#id-DC9021B1-9678-4852-8AB0-9E481DBF97DC"/>
+</archimate:ServingRelationship>

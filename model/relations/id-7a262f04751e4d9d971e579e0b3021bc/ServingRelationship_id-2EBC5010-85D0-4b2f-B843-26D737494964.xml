@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.253 Atlas Backoffice - Asset- en Incidentenbeheer (Maximo) (Asset [Terminal])"
+    id="id-2EBC5010-85D0-4b2f-B843-26D737494964">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A1B43A44-061B-4b66-82FF-85B213F648D7.xml#id-A1B43A44-061B-4b66-82FF-85B213F648D7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0ED52BB5-C1A8-43a0-8672-C92CDF97DDB2.xml#id-0ED52BB5-C1A8-43a0-8672-C92CDF97DDB2"/>
+</archimate:ServingRelationship>

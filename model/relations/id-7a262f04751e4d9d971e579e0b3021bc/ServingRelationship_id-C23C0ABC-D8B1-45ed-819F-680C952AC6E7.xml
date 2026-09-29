@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1004 SAP EAM - Data Product Voertuig (Technische actieve status voertuig)"
+    id="id-C23C0ABC-D8B1-45ed-819F-680C952AC6E7">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-51C438E0-E2A1-4a08-8926-4197EDB77A36.xml#id-51C438E0-E2A1-4a08-8926-4197EDB77A36"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8B66142F-A08B-471b-ADDB-7644B7A80E49.xml#id-8B66142F-A08B-471b-ADDB-7644B7A80E49"/>
+</archimate:ServingRelationship>

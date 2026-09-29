@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.601 UKS - Print Provider (Print Notification)"
+    id="id-0653BB81-EDBC-43fd-8166-B52964E14DEC">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C96F344F-E161-488d-9D3D-C7C8A1C6902C.xml#id-C96F344F-E161-488d-9D3D-C7C8A1C6902C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7C33B840-4FDA-45f9-B943-3DDF48453D06.xml#id-7C33B840-4FDA-45f9-B943-3DDF48453D06"/>
+</archimate:ServingRelationship>

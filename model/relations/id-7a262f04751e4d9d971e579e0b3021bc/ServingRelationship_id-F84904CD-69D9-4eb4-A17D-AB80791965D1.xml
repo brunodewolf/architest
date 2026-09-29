@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.388 DIM-HereAPI - Reverse Geocoding"
+    id="id-F84904CD-69D9-4eb4-A17D-AB80791965D1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F3FD49FF-8D9D-4c0f-8FA2-BA8C764B5B72.xml#id-F3FD49FF-8D9D-4c0f-8FA2-BA8C764B5B72"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FBDBA3F2-EA0C-43c2-BB36-23882313F6E7.xml#id-FBDBA3F2-EA0C-43c2-BB36-23882313F6E7"/>
+</archimate:ServingRelationship>

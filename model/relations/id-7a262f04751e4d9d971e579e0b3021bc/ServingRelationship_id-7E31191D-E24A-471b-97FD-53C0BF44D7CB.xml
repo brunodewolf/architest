@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.095 TDK - PUC - Typedagkalenders"
+    id="id-7E31191D-E24A-471b-97FD-53C0BF44D7CB">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2B0881EA-C092-40fa-B374-09BEFE4FB629.xml#id-2B0881EA-C092-40fa-B374-09BEFE4FB629"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E64217CF-D649-41a8-AACB-B1E216869EFB.xml#id-E64217CF-D649-41a8-AACB-B1E216869EFB"/>
+</archimate:ServingRelationship>

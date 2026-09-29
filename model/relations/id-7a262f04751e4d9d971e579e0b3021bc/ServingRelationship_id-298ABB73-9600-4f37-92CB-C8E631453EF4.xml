@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.529  Mobile App - BMC Mobib Reader Backend (Contract Data)"
+    id="id-298ABB73-9600-4f37-92CB-C8E631453EF4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1E6955DC-68B1-4f5d-87D8-6DD75CD58C9A.xml#id-1E6955DC-68B1-4f5d-87D8-6DD75CD58C9A"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-06B62845-84AD-47bf-B186-F6CE0EC3883C.xml#id-06B62845-84AD-47bf-B186-F6CE0EC3883C"/>
+</archimate:ServingRelationship>

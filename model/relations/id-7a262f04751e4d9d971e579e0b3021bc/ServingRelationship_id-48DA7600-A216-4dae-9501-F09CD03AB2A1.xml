@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.679 DLPO - CKB  (Account Based Customer)"
+    id="id-48DA7600-A216-4dae-9501-F09CD03AB2A1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8A30B50B-E2E8-471e-ACEC-143F7FE208FF.xml#id-8A30B50B-E2E8-471e-ACEC-143F7FE208FF"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9A6B6F28-3F97-4ae4-9F7E-92FCF4A1B64B.xml#id-9A6B6F28-3F97-4ae4-9F7E-92FCF4A1B64B"/>
+</archimate:ServingRelationship>

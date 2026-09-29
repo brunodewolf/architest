@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1037 MDM Dienstrooster - PowerBI Workspace Medewerkersbeheer (Afwezigheid, arbeidsongeval, verzuim en ziekte)"
+    id="id-D5243F18-B291-4038-94F1-A04C6F20FAEA">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FC28B545-B95E-4f4d-B95F-5FA8E5F42B60.xml#id-FC28B545-B95E-4f4d-B95F-5FA8E5F42B60"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-07511CDF-A072-49c0-8D5D-A354147ED054.xml#id-07511CDF-A072-49c0-8D5D-A354147ED054"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.563 PUC ODS - PUC - Correcties en Verklaring Uitvoering"
+    id="id-60C67C38-9D21-41b0-B158-16B37A638582">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0A54D28B-5F8F-480c-86AF-1DF4692103E9.xml#id-0A54D28B-5F8F-480c-86AF-1DF4692103E9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E64217CF-D649-41a8-AACB-B1E216869EFB.xml#id-E64217CF-D649-41a8-AACB-B1E216869EFB"/>
+</archimate:ServingRelationship>

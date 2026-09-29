@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.474 VeliKAR centraal systeem - Asset- en Incidentenbeheer (Maximo) (Hardware Asset)"
+    id="id-10782583-35DD-4dcd-8D51-9A44EAED3671">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BB10B164-4EFE-40be-B3DF-D1173DFE4946.xml#id-BB10B164-4EFE-40be-B3DF-D1173DFE4946"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0ED52BB5-C1A8-43a0-8672-C92CDF97DDB2.xml#id-0ED52BB5-C1A8-43a0-8672-C92CDF97DDB2"/>
+</archimate:ServingRelationship>

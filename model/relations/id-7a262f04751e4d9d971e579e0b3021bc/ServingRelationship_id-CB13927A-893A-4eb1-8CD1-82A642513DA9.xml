@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1012 Data Platform EBS - Dataproduct Voertuig (Technische voertuiggegevens)"
+    id="id-CB13927A-893A-4eb1-8CD1-82A642513DA9">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3AF8A723-C5FE-41f7-A425-41551E172F04.xml#id-3AF8A723-C5FE-41f7-A425-41551E172F04"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8B66142F-A08B-471b-ADDB-7644B7A80E49.xml#id-8B66142F-A08B-471b-ADDB-7644B7A80E49"/>
+</archimate:ServingRelationship>

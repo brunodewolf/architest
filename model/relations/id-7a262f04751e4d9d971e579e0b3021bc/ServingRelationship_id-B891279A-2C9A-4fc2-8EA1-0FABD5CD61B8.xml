@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1213 (Omleiding poster)"
+    id="id-B891279A-2C9A-4fc2-8EA1-0FABD5CD61B8">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7F09464A-6D54-4705-A787-A9BCD0ED27A9.xml#id-7F09464A-6D54-4705-A787-A9BCD0ED27A9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C.xml#id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C"/>
+</archimate:ServingRelationship>

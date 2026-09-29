@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.065 Public Website - Mopinion (survey resultaat)"
+    id="id-6B6275F0-8A20-4086-888E-210E14690C4C">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C.xml#id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F509371E-6983-4a83-9565-8280B9DA3753.xml#id-F509371E-6983-4a83-9565-8280B9DA3753"/>
+</archimate:ServingRelationship>

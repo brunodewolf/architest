@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.931 Tap Validation Proxy - SAP CM (Retibo Validation)"
+    id="id-74EB4E6E-9999-4c92-BCE4-AE2989559D4B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C6146828-D044-4451-9C2F-2ED2C5CD34ED.xml#id-C6146828-D044-4451-9C2F-2ED2C5CD34ED"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-B36E011A-157D-4f40-BC43-69E68CA4F3A7.xml#id-B36E011A-157D-4f40-BC43-69E68CA4F3A7"/>
+</archimate:ServingRelationship>

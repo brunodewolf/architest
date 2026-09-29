@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1000  Voertuig Data Product -  PSIebus DMS - Interventieplannng voertuig"
+    id="id-0155EBA1-17FF-4825-8E5A-15FC45B64DCA">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8B66142F-A08B-471b-ADDB-7644B7A80E49.xml#id-8B66142F-A08B-471b-ADDB-7644B7A80E49"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-88F083D8-0634-4168-9A29-AD6A979BD3BD.xml#id-88F083D8-0634-4168-9A29-AD6A979BD3BD"/>
+</archimate:ServingRelationship>

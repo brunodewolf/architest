@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.746 Business Portaal - DSSP (Order)"
+    id="id-98C474C0-F0F5-420b-B056-12DD5D058D8F">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-623820B2-2CB0-44c7-A85B-CAA7F834EEE2.xml#id-623820B2-2CB0-44c7-A85B-CAA7F834EEE2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FBC124C9-869F-4e54-9121-B471C9FF99B7.xml#id-FBC124C9-869F-4e54-9121-B471C9FF99B7"/>
+</archimate:ServingRelationship>

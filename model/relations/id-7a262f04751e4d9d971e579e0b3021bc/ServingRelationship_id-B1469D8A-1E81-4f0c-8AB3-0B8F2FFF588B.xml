@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.798 PSIebus CMS - Data Platform - Historische ruwe data (laadsessies)"
+    id="id-B1469D8A-1E81-4f0c-8AB3-0B8F2FFF588B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-402A4257-90E2-42fe-BD73-4F357398ACDF.xml#id-402A4257-90E2-42fe-BD73-4F357398ACDF"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3AF8A723-C5FE-41f7-A425-41551E172F04.xml#id-3AF8A723-C5FE-41f7-A425-41551E172F04"/>
+</archimate:ServingRelationship>

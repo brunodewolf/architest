@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.362 EPOS - MAGDA (Persoonsgegevens)"
+    id="id-D8B25F58-4CB4-411d-85C1-A5FB9D530E97">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8A30B50B-E2E8-471e-ACEC-143F7FE208FF.xml#id-8A30B50B-E2E8-471e-ACEC-143F7FE208FF"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7CA16471-5D39-4146-B822-8002C78812B3.xml#id-7CA16471-5D39-4146-B822-8002C78812B3"/>
+</archimate:ServingRelationship>

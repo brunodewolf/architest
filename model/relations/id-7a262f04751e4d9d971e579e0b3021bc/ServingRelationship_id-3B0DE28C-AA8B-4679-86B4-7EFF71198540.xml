@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.142 SAP EAM- Primair Dataproduct Laadstation - Laadstation master data"
+    id="id-3B0DE28C-AA8B-4679-86B4-7EFF71198540">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-51C438E0-E2A1-4a08-8926-4197EDB77A36.xml#id-51C438E0-E2A1-4a08-8926-4197EDB77A36"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8A30E2DE-A7DD-40f6-9305-738B19016147.xml#id-8A30E2DE-A7DD-40f6-9305-738B19016147"/>
+</archimate:ServingRelationship>

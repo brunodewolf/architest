@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0148 Mobiguider Boordcomputer (BC) - Live Voertuig Operationele Uitvoeringsgegevens (Operationele Uitvoeringsgegevens)"
+    id="id-1B6CD352-70FA-452c-8C91-3CAA4519DE6F">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-16CD855B-EC63-4d4d-8FB0-44BE0F6C624A.xml#id-16CD855B-EC63-4d4d-8FB0-44BE0F6C624A"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-676F365A-B066-4ac4-B005-389D2F452127.xml#id-676F365A-B066-4ac4-B005-389D2F452127"/>
+</archimate:ServingRelationship>

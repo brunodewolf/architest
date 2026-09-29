@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.027 Exploitanten Toepassing (ET) - SAP (Prestatiestaten)"
+    id="id-E0E4D707-A010-4f3d-A062-8F1D57F2CEFD">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-84915F34-2F14-4bb6-A0A1-0794CE826F2B.xml#id-84915F34-2F14-4bb6-A0A1-0794CE826F2B"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6A7E1A7F-B41D-4266-8D53-288529F6D62B.xml#id-6A7E1A7F-B41D-4266-8D53-288529F6D62B"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.273 Personeelsmodel - DIV app (Functiecode medewerker)"
+    id="id-5C8B177F-89BD-4a4e-9BDB-DC8B2AE3668B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-665F3F95-C839-403d-BF99-E9612BEEA591.xml#id-665F3F95-C839-403d-BF99-E9612BEEA591"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9614A56E-73FC-4035-B530-573EA6CDACD9.xml#id-9614A56E-73FC-4035-B530-573EA6CDACD9"/>
+</archimate:ServingRelationship>

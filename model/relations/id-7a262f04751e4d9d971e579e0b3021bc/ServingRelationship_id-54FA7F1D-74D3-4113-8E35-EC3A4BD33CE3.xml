@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.870 Voertuig software Van Hool - PSI VAS Server - Voertuig preconditionering monitoring"
+    id="id-54FA7F1D-74D3-4113-8E35-EC3A4BD33CE3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9FE61CFF-ADAA-41e0-BF71-3962F03D78C2.xml#id-9FE61CFF-ADAA-41e0-BF71-3962F03D78C2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E52A4E61-8362-404d-9542-9B030DF68B79.xml#id-E52A4E61-8362-404d-9542-9B030DF68B79"/>
+</archimate:ServingRelationship>

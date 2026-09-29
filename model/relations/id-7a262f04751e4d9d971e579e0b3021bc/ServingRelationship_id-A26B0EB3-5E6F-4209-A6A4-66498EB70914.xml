@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.939 ACM - Public Website (Identiteit)"
+    id="id-A26B0EB3-5E6F-4209-A6A4-66498EB70914">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-AB27E4D4-1FDE-4303-AF7E-AC7F8C977806.xml#id-AB27E4D4-1FDE-4303-AF7E-AC7F8C977806"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C.xml#id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C"/>
+</archimate:ServingRelationship>

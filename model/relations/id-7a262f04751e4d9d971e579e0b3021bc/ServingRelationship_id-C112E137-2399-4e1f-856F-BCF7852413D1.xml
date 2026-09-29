@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.827 Mobiguider - Cognos (validaties)"
+    id="id-C112E137-2399-4e1f-856F-BCF7852413D1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BE58D310-FD66-4d42-804A-ED13F21F66ED.xml#id-BE58D310-FD66-4d42-804A-ED13F21F66ED"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-00A89617-81D0-4c90-B204-56A2E5A34C32.xml#id-00A89617-81D0-4c90-B204-56A2E5A34C32"/>
+</archimate:ServingRelationship>

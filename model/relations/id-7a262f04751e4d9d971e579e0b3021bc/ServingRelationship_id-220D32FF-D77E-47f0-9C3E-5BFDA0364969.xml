@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.843 MDM Voertuigtype-MDM Voertuigen (Voertuigtype)"
+    id="id-220D32FF-D77E-47f0-9C3E-5BFDA0364969">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A7C14489-7A47-49a9-AF98-D1A16552813A.xml#id-A7C14489-7A47-49a9-AF98-D1A16552813A"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ECD22175-419F-407a-8214-967EBAF963A1.xml#id-ECD22175-419F-407a-8214-967EBAF963A1"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.241 SF Learning -  Exploitanten Toepassing (ET) (Certificaten)"
+    id="id-DB1BD839-F663-4ac4-82B4-E97BE1AD2625">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CE728BEE-84DB-49c2-BD76-6C4621D8F84E.xml#id-CE728BEE-84DB-49c2-BD76-6C4621D8F84E"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-84915F34-2F14-4bb6-A0A1-0794CE826F2B.xml#id-84915F34-2F14-4bb6-A0A1-0794CE826F2B"/>
+</archimate:ServingRelationship>

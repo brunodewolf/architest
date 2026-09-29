@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.178 Abonnementen - Data Warehouse (geanonimiseerde validaties)"
+    id="id-06EAF931-E287-4a54-A8D5-051EEAB85198">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-41C5E65D-6D0F-400b-BD28-53D8756796CB.xml#id-41C5E65D-6D0F-400b-BD28-53D8756796CB"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D614C219-D4F0-4570-95EA-C2DABD7EF068.xml#id-D614C219-D4F0-4570-95EA-C2DABD7EF068"/>
+</archimate:ServingRelationship>

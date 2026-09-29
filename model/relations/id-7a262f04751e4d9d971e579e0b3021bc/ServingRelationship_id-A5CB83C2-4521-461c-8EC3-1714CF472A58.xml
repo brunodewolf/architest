@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.323 Excel masterdata Batterijen - Data Platform EBS (Master data Batterijen)"
+    id="id-A5CB83C2-4521-461c-8EC3-1714CF472A58">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0AE1B2A6-F58A-436b-967C-A507A98D7C4A.xml#id-0AE1B2A6-F58A-436b-967C-A507A98D7C4A"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3AF8A723-C5FE-41f7-A425-41551E172F04.xml#id-3AF8A723-C5FE-41f7-A425-41551E172F04"/>
+</archimate:ServingRelationship>

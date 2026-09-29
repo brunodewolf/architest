@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.902 Leerlingenvervoer (LEVO) -Leerlingenvervoer Chauffeur App (LEVO) (Planning en Basisdata)"
+    id="id-0C78003F-D8A2-43ae-A491-1C0EF0358E46">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-01A27DCD-BC32-42e1-82EB-5AAF9AD47F9F.xml#id-01A27DCD-BC32-42e1-82EB-5AAF9AD47F9F"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CA55EBB2-3B9B-4632-95E2-A91ECA4969F2.xml#id-CA55EBB2-3B9B-4632-95E2-A91ECA4969F2"/>
+</archimate:ServingRelationship>

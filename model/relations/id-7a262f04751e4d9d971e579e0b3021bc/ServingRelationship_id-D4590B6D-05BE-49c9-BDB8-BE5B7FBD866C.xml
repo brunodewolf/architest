@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.936 Magda Facade - SAP S/4HANA (Persoonsgegevens/Pasfoto/RVV)"
+    id="id-D4590B6D-05BE-49c9-BDB8-BE5B7FBD866C">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0D03B9FC-2CD3-4bcd-88DE-403ABE6F799F.xml#id-0D03B9FC-2CD3-4bcd-88DE-403ABE6F799F"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-337157D2-6427-4cec-AFDD-80E1871BBFE5.xml#id-337157D2-6427-4cec-AFDD-80E1871BBFE5"/>
+</archimate:ServingRelationship>

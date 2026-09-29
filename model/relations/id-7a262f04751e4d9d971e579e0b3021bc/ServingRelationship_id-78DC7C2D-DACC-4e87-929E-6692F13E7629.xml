@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.057 Isabel ICS - SAP FI - bankbewegingen"
+    id="id-78DC7C2D-DACC-4e87-929E-6692F13E7629">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DD41AD2F-FE5D-48b5-A7F5-FB98D6588FE3.xml#id-DD41AD2F-FE5D-48b5-A7F5-FB98D6588FE3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473.xml#id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473"/>
+</archimate:ServingRelationship>

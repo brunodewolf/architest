@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.901 Exploitanten Toepassing-VIA (Shiften)"
+    id="id-59899029-0FEC-4e94-91C1-B32B85AF9C10">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-84915F34-2F14-4bb6-A0A1-0794CE826F2B.xml#id-84915F34-2F14-4bb6-A0A1-0794CE826F2B"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-87F474B1-B35A-4121-925A-50C825744E45.xml#id-87F474B1-B35A-4121-925A-50C825744E45"/>
+</archimate:ServingRelationship>

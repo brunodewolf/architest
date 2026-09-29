@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.864 TRIP - HERE (kaart)"
+    id="id-664886E6-72D1-4435-ACA5-E3D59DB4E6A0">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F3FD49FF-8D9D-4c0f-8FA2-BA8C764B5B72.xml#id-F3FD49FF-8D9D-4c0f-8FA2-BA8C764B5B72"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7F09464A-6D54-4705-A787-A9BCD0ED27A9.xml#id-7F09464A-6D54-4705-A787-A9BCD0ED27A9"/>
+</archimate:ServingRelationship>

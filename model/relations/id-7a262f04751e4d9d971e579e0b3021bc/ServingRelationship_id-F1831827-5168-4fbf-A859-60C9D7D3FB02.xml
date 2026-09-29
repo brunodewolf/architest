@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.943 SAP Customer Checkout - Adyen (Plugin Integration)"
+    id="id-F1831827-5168-4fbf-A859-60C9D7D3FB02">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-11F1BB3C-6718-404d-BB1F-A81E9B2D0726.xml#id-11F1BB3C-6718-404d-BB1F-A81E9B2D0726"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-B10EB5AD-CD62-4ff2-A12E-1BB110F2F5AB.xml#id-B10EB5AD-CD62-4ff2-A12E-1BB110F2F5AB"/>
+</archimate:ServingRelationship>

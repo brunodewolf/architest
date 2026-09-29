@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.266 SAP HCM - Isabel ICS (Betalingen Sociaal Fonds)"
+    id="id-2C458D7E-527A-4190-894E-71827EA19FB3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F76A3E68-A10C-45d5-9846-538E61D18CA1.xml#id-F76A3E68-A10C-45d5-9846-538E61D18CA1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DD41AD2F-FE5D-48b5-A7F5-FB98D6588FE3.xml#id-DD41AD2F-FE5D-48b5-A7F5-FB98D6588FE3"/>
+</archimate:ServingRelationship>

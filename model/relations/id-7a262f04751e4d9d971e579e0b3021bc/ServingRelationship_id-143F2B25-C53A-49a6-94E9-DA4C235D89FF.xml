@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.667 Mobile App - Auth0 (Account)"
+    id="id-143F2B25-C53A-49a6-94E9-DA4C235D89FF">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5436573C-DAAD-4627-999E-D933B43D09B4.xml#id-5436573C-DAAD-4627-999E-D933B43D09B4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-06B62845-84AD-47bf-B186-F6CE0EC3883C.xml#id-06B62845-84AD-47bf-B186-F6CE0EC3883C"/>
+</archimate:ServingRelationship>

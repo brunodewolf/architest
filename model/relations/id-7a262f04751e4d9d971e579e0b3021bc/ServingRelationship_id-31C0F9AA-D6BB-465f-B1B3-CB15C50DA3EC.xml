@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.651 Centraal Klantenbeheer - SAP (I_BP01 en I_BP02)"
+    id="id-31C0F9AA-D6BB-465f-B1B3-CB15C50DA3EC">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9A6B6F28-3F97-4ae4-9F7E-92FCF4A1B64B.xml#id-9A6B6F28-3F97-4ae4-9F7E-92FCF4A1B64B"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-337157D2-6427-4cec-AFDD-80E1871BBFE5.xml#id-337157D2-6427-4cec-AFDD-80E1871BBFE5"/>
+</archimate:ServingRelationship>

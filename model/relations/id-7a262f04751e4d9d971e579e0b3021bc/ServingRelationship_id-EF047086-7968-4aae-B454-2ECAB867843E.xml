@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.651 Auth0 - SAP Commerce (User Account)"
+    id="id-EF047086-7968-4aae-B454-2ECAB867843E">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9C510A0A-9BCE-4925-BD36-4C7B843056CF.xml#id-9C510A0A-9BCE-4925-BD36-4C7B843056CF"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5436573C-DAAD-4627-999E-D933B43D09B4.xml#id-5436573C-DAAD-4627-999E-D933B43D09B4"/>
+</archimate:ServingRelationship>

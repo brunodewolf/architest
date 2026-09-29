@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.935 SAP CI - DSSP (CIT/BIT)"
+    id="id-BBAE786B-E43E-4d37-AB9B-557D99FF4149">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-68F4E727-A697-44a8-B647-E73B89B912F8.xml#id-68F4E727-A697-44a8-B647-E73B89B912F8"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FBC124C9-869F-4e54-9121-B471C9FF99B7.xml#id-FBC124C9-869F-4e54-9121-B471C9FF99B7"/>
+</archimate:ServingRelationship>

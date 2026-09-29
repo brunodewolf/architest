@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.353 SAP HCM - RSZ (Sociaal risico)"
+    id="id-210470CF-8C6E-4898-B141-04ECDE7E1EE3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F76A3E68-A10C-45d5-9846-538E61D18CA1.xml#id-F76A3E68-A10C-45d5-9846-538E61D18CA1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9A8C5750-EF53-4f33-A78B-4D4D89A23DF9.xml#id-9A8C5750-EF53-4f33-A78B-4D4D89A23DF9"/>
+</archimate:ServingRelationship>

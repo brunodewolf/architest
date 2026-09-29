@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.661 SAP CC - UKS (Notifications)"
+    id="id-EB739A43-ED6A-4bcb-86C1-8F7125A29924">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-67730EAF-017B-474d-849B-0BBE72530750.xml#id-67730EAF-017B-474d-849B-0BBE72530750"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C96F344F-E161-488d-9D3D-C7C8A1C6902C.xml#id-C96F344F-E161-488d-9D3D-C7C8A1C6902C"/>
+</archimate:ServingRelationship>

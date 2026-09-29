@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1184 PSI VAS Server - Voertuig software BYD - Voertuig preconditionering"
+    id="id-D4FC7ACC-D086-46de-A2BF-A0BF9D03C6FF">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E52A4E61-8362-404d-9542-9B030DF68B79.xml#id-E52A4E61-8362-404d-9542-9B030DF68B79"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-65E17436-82AF-4205-9FB3-35A33912AC1E.xml#id-65E17436-82AF-4205-9FB3-35A33912AC1E"/>
+</archimate:ServingRelationship>

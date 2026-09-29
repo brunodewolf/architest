@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.175 SAP FICA (PSCD) - Deurwaarder (Modero) (Boete incl. bijlages)"
+    id="id-96BDE226-B17B-43d6-88D6-844838CB918C">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1.xml#id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-95DE897A-A2C9-4e63-A52D-1200FF20FB67.xml#id-95DE897A-A2C9-4e63-A52D-1200FF20FB67"/>
+</archimate:ServingRelationship>

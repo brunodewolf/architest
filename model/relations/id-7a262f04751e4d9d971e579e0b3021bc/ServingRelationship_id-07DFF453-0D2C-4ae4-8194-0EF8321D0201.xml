@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.886 MDM Dienstroosters-MTC BO (Werkrooster)"
+    id="id-07DFF453-0D2C-4ae4-8194-0EF8321D0201">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FC28B545-B95E-4f4d-B95F-5FA8E5F42B60.xml#id-FC28B545-B95E-4f4d-B95F-5FA8E5F42B60"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE.xml#id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE"/>
+</archimate:ServingRelationship>

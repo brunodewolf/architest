@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1132 SAP PM - Kilometerberekening (Voertuig)"
+    id="id-1180CC2E-7218-438a-9743-1BE2BCC41FC3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-64A30635-FA5E-4c32-B2FD-77D0B44A689A.xml#id-64A30635-FA5E-4c32-B2FD-77D0B44A689A"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ACDEBC95-C170-4d92-A8AA-455F92670B94.xml#id-ACDEBC95-C170-4d92-A8AA-455F92670B94"/>
+</archimate:ServingRelationship>

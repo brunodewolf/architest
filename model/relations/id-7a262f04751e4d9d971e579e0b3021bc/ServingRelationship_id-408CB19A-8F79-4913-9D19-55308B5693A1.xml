@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.904 Zendesk-VIA Zendesk (Klachten)"
+    id="id-408CB19A-8F79-4913-9D19-55308B5693A1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-002E277C-1987-4b13-A5C9-2F476CD01F6F.xml#id-002E277C-1987-4b13-A5C9-2F476CD01F6F"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7CCC889E-F27A-4bfb-AA35-39953AF3C906.xml#id-7CCC889E-F27A-4bfb-AA35-39953AF3C906"/>
+</archimate:ServingRelationship>

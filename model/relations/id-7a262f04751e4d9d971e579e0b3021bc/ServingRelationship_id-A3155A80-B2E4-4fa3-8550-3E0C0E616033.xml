@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.003 SAP HCM - FOD sociale zekerheid (Dimona)"
+    id="id-A3155A80-B2E4-4fa3-8550-3E0C0E616033">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F76A3E68-A10C-45d5-9846-538E61D18CA1.xml#id-F76A3E68-A10C-45d5-9846-538E61D18CA1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9A8C5750-EF53-4f33-A78B-4D4D89A23DF9.xml#id-9A8C5750-EF53-4f33-A78B-4D4D89A23DF9"/>
+</archimate:ServingRelationship>

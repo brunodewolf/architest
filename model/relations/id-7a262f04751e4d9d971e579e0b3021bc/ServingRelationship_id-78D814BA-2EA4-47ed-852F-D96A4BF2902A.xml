@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.913 VIA-PlusDial (Verkoop/Factuur)"
+    id="id-78D814BA-2EA4-47ed-852F-D96A4BF2902A">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-87F474B1-B35A-4121-925A-50C825744E45.xml#id-87F474B1-B35A-4121-925A-50C825744E45"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F7D5F902-154D-443b-8353-B8E6D0F6593E.xml#id-F7D5F902-154D-443b-8353-B8E6D0F6593E"/>
+</archimate:ServingRelationship>

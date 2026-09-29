@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.320 Data Platform EBS - EBS Monitoring (Realtime technische uitvoering)"
+    id="id-03D7B1CC-EDFA-4d54-ABB0-A8E0B686F783">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3AF8A723-C5FE-41f7-A425-41551E172F04.xml#id-3AF8A723-C5FE-41f7-A425-41551E172F04"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-500C3551-04D9-46b1-AFC9-C3E3B118C8B7.xml#id-500C3551-04D9-46b1-AFC9-C3E3B118C8B7"/>
+</archimate:ServingRelationship>

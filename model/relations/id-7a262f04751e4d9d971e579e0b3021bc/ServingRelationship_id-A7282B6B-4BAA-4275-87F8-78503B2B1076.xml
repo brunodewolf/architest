@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.412 OneTrust - Datalake (Consents)"
+    id="id-A7282B6B-4BAA-4275-87F8-78503B2B1076">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-44898039-9F42-4703-853E-B4E1585D881A.xml#id-44898039-9F42-4703-853E-B4E1585D881A"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DB4F168F-FC0B-453b-BD46-F2B6C0CFB0E9.xml#id-DB4F168F-FC0B-453b-BD46-F2B6C0CFB0E9"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.155 SAP SOM - Mobib-Card Print Partners  (Print Request)"
+    id="id-2FC8DFA0-3A87-4c57-9E38-8A9FAF60C725">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A16C4BD0-B040-49d7-909C-48E29EF21F70.xml#id-A16C4BD0-B040-49d7-909C-48E29EF21F70"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-91D167B5-E661-4821-9EA0-D0BEF4DFF46D.xml#id-91D167B5-E661-4821-9EA0-D0BEF4DFF46D"/>
+</archimate:ServingRelationship>

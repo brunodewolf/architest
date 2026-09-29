@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1094 (Realtime dienstregeling + reizigersbericht)"
+    id="id-FE1BA073-A3CA-4945-AD09-3F8B6163F8A0">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-EDC6A198-657B-452b-8BA9-A7579F6DEB17.xml#id-EDC6A198-657B-452b-8BA9-A7579F6DEB17"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A5E4A339-7AA1-4ca9-8CF3-72EDACEFB49C.xml#id-A5E4A339-7AA1-4ca9-8CF3-72EDACEFB49C"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1195 (Reizigersbericht)"
+    id="id-42F9EB93-7D97-44e0-ACD1-345AA58B2AC1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-78FC33C0-D62A-43a7-A7D0-8F3F444B18BB.xml#id-78FC33C0-D62A-43a7-A7D0-8F3F444B18BB"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C0BC95F0-5F7C-46f7-87FA-7678FF02D4B5.xml#id-C0BC95F0-5F7C-46f7-87FA-7678FF02D4B5"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.472 SAP - MAGDA (Invoice)"
+    id="id-1FE92C9B-09B2-4da5-9A1B-A4F4087C23DA">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E4BC44FA-F971-43ef-91B8-84AD8D3C9FD4.xml#id-E4BC44FA-F971-43ef-91B8-84AD8D3C9FD4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7CA16471-5D39-4146-B822-8002C78812B3.xml#id-7CA16471-5D39-4146-B822-8002C78812B3"/>
+</archimate:ServingRelationship>

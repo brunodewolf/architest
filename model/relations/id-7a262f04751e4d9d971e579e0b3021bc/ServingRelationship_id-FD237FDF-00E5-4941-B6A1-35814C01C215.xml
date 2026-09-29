@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.143 INT.143 Primair Dataproduct Laadstation - PSIebus CMS (Laadstation master data)"
+    id="id-FD237FDF-00E5-4941-B6A1-35814C01C215">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8A30E2DE-A7DD-40f6-9305-738B19016147.xml#id-8A30E2DE-A7DD-40f6-9305-738B19016147"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-402A4257-90E2-42fe-BD73-4F357398ACDF.xml#id-402A4257-90E2-42fe-BD73-4F357398ACDF"/>
+</archimate:ServingRelationship>

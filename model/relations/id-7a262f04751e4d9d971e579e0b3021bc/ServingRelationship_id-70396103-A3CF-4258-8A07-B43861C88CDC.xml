@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.317 (netto vervoersopbrengst)"
+    id="id-70396103-A3CF-4258-8A07-B43861C88CDC">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1B42C5BF-D484-4354-BED6-C3B90D363DEF.xml#id-1B42C5BF-D484-4354-BED6-C3B90D363DEF"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473.xml#id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473"/>
+</archimate:ServingRelationship>

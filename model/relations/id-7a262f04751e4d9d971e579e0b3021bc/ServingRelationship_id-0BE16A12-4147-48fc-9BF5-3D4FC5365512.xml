@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.734 Zendesk  - AADI (Ticket)"
+    id="id-0BE16A12-4147-48fc-9BF5-3D4FC5365512">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-002E277C-1987-4b13-A5C9-2F476CD01F6F.xml#id-002E277C-1987-4b13-A5C9-2F476CD01F6F"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-01D5E969-19CE-4055-822A-A725FA9C27A5.xml#id-01D5E969-19CE-4055-822A-A725FA9C27A5"/>
+</archimate:ServingRelationship>

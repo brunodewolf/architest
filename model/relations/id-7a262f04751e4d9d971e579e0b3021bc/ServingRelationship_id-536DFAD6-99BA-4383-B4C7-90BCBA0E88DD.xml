@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1159 Easy to inspect - PowerBI Workspace Techniek (Auditbevinding)"
+    id="id-536DFAD6-99BA-4383-B4C7-90BCBA0E88DD">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1BB2A8B0-BF03-4e39-91B5-E3DA92ED982A.xml#id-1BB2A8B0-BF03-4e39-91B5-E3DA92ED982A"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0566D289-D2DE-4281-846E-4DA014ACC6BA.xml#id-0566D289-D2DE-4281-846E-4DA014ACC6BA"/>
+</archimate:ServingRelationship>

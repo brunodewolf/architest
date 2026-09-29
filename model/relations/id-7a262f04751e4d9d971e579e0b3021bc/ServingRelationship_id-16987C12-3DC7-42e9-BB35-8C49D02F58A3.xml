@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.400 Zendesk-SoVIB - Aanmaken agressiemelding"
+    id="id-16987C12-3DC7-42e9-BB35-8C49D02F58A3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-002E277C-1987-4b13-A5C9-2F476CD01F6F.xml#id-002E277C-1987-4b13-A5C9-2F476CD01F6F"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D2ABF252-36EB-4a50-9F73-B91E78545163.xml#id-D2ABF252-36EB-4a50-9F73-B91E78545163"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.315 Antenor - Online Sales - Betaling"
+    id="id-CF7BC691-51AD-4c7d-B352-7FDAA8168646">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0315653C-3B9D-47f5-B455-11D423FC183A.xml#id-0315653C-3B9D-47f5-B455-11D423FC183A"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4CD978F8-1AF3-4d90-8C8A-64CB1DD29C5C.xml#id-4CD978F8-1AF3-4d90-8C8A-64CB1DD29C5C"/>
+</archimate:ServingRelationship>

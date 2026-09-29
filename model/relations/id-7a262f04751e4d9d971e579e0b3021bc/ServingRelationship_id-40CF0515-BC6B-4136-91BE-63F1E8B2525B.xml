@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.802 PSIebus CMS - PSI VAS Server – Technische sturing laadstation"
+    id="id-40CF0515-BC6B-4136-91BE-63F1E8B2525B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-402A4257-90E2-42fe-BD73-4F357398ACDF.xml#id-402A4257-90E2-42fe-BD73-4F357398ACDF"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E52A4E61-8362-404d-9542-9B030DF68B79.xml#id-E52A4E61-8362-404d-9542-9B030DF68B79"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.126 UKS - EasyPost (Paper Notificaiton)"
+    id="id-C7666445-9D6B-4a01-B5D2-2E90E8D93D93">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C96F344F-E161-488d-9D3D-C7C8A1C6902C.xml#id-C96F344F-E161-488d-9D3D-C7C8A1C6902C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9C5412F2-1C84-4df4-90DF-C7805E29B619.xml#id-9C5412F2-1C84-4df4-90DF-C7805E29B619"/>
+</archimate:ServingRelationship>

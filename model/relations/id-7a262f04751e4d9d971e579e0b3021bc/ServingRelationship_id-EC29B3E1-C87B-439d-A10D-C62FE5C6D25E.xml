@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.014 Correspondentie Orkestratie - EasyPost (Brief en metadata)"
+    id="id-EC29B3E1-C87B-439d-A10D-C62FE5C6D25E">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-AAB1FDA3-E3E9-42d3-97FD-C198450D6CF1.xml#id-AAB1FDA3-E3E9-42d3-97FD-C198450D6CF1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9C5412F2-1C84-4df4-90DF-C7805E29B619.xml#id-9C5412F2-1C84-4df4-90DF-C7805E29B619"/>
+</archimate:ServingRelationship>

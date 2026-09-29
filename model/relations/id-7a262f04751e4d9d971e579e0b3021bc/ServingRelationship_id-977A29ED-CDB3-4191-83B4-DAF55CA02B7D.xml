@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.958 BIL - SAP FI (Reconsilliation) [HIP-O]"
+    id="id-977A29ED-CDB3-4191-83B4-DAF55CA02B7D">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-18CC4A50-17DE-456c-A9EC-A5EEFE1705AC.xml#id-18CC4A50-17DE-456c-A9EC-A5EEFE1705AC"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473.xml#id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473"/>
+</archimate:ServingRelationship>

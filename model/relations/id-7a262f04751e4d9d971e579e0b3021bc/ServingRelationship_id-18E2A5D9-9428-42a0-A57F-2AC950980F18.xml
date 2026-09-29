@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1030 DataWarehouse (DWH) - ChauffeursBeheer (Afwezigheid en verzuim)"
+    id="id-18E2A5D9-9428-42a0-A57F-2AC950980F18">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D614C219-D4F0-4570-95EA-C2DABD7EF068.xml#id-D614C219-D4F0-4570-95EA-C2DABD7EF068"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-35621C38-8546-4157-9376-9BE0DFE9BD16.xml#id-35621C38-8546-4157-9376-9BE0DFE9BD16"/>
+</archimate:ServingRelationship>

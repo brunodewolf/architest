@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1237 Peak Mobility DMS - PSIebus CMS (Laadopdracht)"
+    id="id-63292683-96E1-4ba6-81D8-86F076CDFF6B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-88F083D8-0634-4168-9A29-AD6A979BD3BD.xml#id-88F083D8-0634-4168-9A29-AD6A979BD3BD"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-402A4257-90E2-42fe-BD73-4F357398ACDF.xml#id-402A4257-90E2-42fe-BD73-4F357398ACDF"/>
+</archimate:ServingRelationship>

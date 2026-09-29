@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1181 Voertuig software yes-EU RT - PSI VAS Server - Voertuig preconditionering monitoring"
+    id="id-02028ABF-B7F6-4d23-A310-30FA7D9C0D73">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-79561183-C038-45eb-96B3-60D7724B087F.xml#id-79561183-C038-45eb-96B3-60D7724B087F"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E52A4E61-8362-404d-9542-9B030DF68B79.xml#id-E52A4E61-8362-404d-9542-9B030DF68B79"/>
+</archimate:ServingRelationship>

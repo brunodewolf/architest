@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.911 VIA-Stripe (Financiële transacties)"
+    id="id-C759A439-C983-471e-B2C1-756FD9C6BA7E">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-87F474B1-B35A-4121-925A-50C825744E45.xml#id-87F474B1-B35A-4121-925A-50C825744E45"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-22893F3F-A462-465c-9282-F2317A6A5356.xml#id-22893F3F-A462-465c-9282-F2317A6A5356"/>
+</archimate:ServingRelationship>

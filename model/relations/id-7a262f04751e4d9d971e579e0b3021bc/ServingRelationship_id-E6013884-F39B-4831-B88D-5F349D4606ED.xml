@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.849 SharePoint Dienstvoertuigen-MDM Voertuigen - Dienstvoertuigen"
+    id="id-E6013884-F39B-4831-B88D-5F349D4606ED">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-66CBF87E-4432-4e19-BF8F-D85569CFB2A4.xml#id-66CBF87E-4432-4e19-BF8F-D85569CFB2A4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ECD22175-419F-407a-8214-967EBAF963A1.xml#id-ECD22175-419F-407a-8214-967EBAF963A1"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.890 Clarity Demand Management-SAP IM - Goedgekeurd budgetplan/kostenplan"
+    id="id-C9FCD266-FDBA-49b8-AAC9-5EF857FB5BD0">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4BCEE45F-FB0F-4ae8-A00D-E8A2F9E00279.xml#id-4BCEE45F-FB0F-4ae8-A00D-E8A2F9E00279"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-63D9FB17-FBB0-4c6f-A5A7-E09C4C808DF4.xml#id-63D9FB17-FBB0-4c6f-A5A7-E09C4C808DF4"/>
+</archimate:ServingRelationship>

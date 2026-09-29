@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1191 Asset- en Incidentenbeheer (Maximo) - Data Platform EBS (Voertuigen per stelplaats)"
+    id="id-500AE583-144E-48fc-91C6-95BC214CF51C">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0ED52BB5-C1A8-43a0-8672-C92CDF97DDB2.xml#id-0ED52BB5-C1A8-43a0-8672-C92CDF97DDB2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3AF8A723-C5FE-41f7-A425-41551E172F04.xml#id-3AF8A723-C5FE-41f7-A425-41551E172F04"/>
+</archimate:ServingRelationship>

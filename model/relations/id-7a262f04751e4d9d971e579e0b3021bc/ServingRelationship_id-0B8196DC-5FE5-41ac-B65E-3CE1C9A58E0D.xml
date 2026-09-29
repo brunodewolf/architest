@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.133 SAP FI - Case, Schade en Incidenten Beheer (CSI) (Leveranciersfactuur - deskundige)"
+    id="id-0B8196DC-5FE5-41ac-B65E-3CE1C9A58E0D">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473.xml#id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C29B0B47-042A-40e2-88EA-A838538A746C.xml#id-C29B0B47-042A-40e2-88EA-A838538A746C"/>
+</archimate:ServingRelationship>

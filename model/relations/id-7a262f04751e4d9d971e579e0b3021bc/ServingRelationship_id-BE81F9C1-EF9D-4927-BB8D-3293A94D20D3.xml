@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.274 MAGDA - DIV app (Inschrijvingsgegevens voertuig)"
+    id="id-BE81F9C1-EF9D-4927-BB8D-3293A94D20D3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7CA16471-5D39-4146-B822-8002C78812B3.xml#id-7CA16471-5D39-4146-B822-8002C78812B3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9614A56E-73FC-4035-B530-573EA6CDACD9.xml#id-9614A56E-73FC-4035-B530-573EA6CDACD9"/>
+</archimate:ServingRelationship>

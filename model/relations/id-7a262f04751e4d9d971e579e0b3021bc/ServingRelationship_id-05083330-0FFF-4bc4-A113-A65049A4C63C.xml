@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.111 SAP HCM - FOD Financiën - Medewerker"
+    id="id-05083330-0FFF-4bc4-A113-A65049A4C63C">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F76A3E68-A10C-45d5-9846-538E61D18CA1.xml#id-F76A3E68-A10C-45d5-9846-538E61D18CA1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-16C1374F-4070-4008-8854-9C7F79A0C982.xml#id-16C1374F-4070-4008-8854-9C7F79A0C982"/>
+</archimate:ServingRelationship>

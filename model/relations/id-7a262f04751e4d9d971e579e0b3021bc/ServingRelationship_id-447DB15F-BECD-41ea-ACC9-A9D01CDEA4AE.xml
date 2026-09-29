@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.277 ChauffeursBeheer - PowerBI Workspace Chauffeursbeheer (Melding over chauffeur)"
+    id="id-447DB15F-BECD-41ea-ACC9-A9D01CDEA4AE">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-35621C38-8546-4157-9376-9BE0DFE9BD16.xml#id-35621C38-8546-4157-9376-9BE0DFE9BD16"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-17F3EC19-9B10-46b1-848C-3EC31E4A712F.xml#id-17F3EC19-9B10-46b1-848C-3EC31E4A712F"/>
+</archimate:ServingRelationship>

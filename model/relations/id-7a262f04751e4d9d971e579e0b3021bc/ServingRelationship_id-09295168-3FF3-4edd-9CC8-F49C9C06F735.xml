@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.246 SAP EWM - Magazijntoren (Pickinglijst)"
+    id="id-09295168-3FF3-4edd-9CC8-F49C9C06F735">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-49410F72-80A4-4699-AEBC-DB2D7BB31EBF.xml#id-49410F72-80A4-4699-AEBC-DB2D7BB31EBF"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-300C4BEB-8EFE-4118-92CE-226CFFA8C8A7.xml#id-300C4BEB-8EFE-4118-92CE-226CFFA8C8A7"/>
+</archimate:ServingRelationship>

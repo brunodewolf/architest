@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1274 (Gemeente, Provincie, Vervoersregio)"
+    id="id-AEA0DD45-0A2C-4f04-81C9-82DA10D37E8F">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1B42C5BF-D484-4354-BED6-C3B90D363DEF.xml#id-1B42C5BF-D484-4354-BED6-C3B90D363DEF"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ECD49E35-EABA-44d2-9A64-AAF35C705624.xml#id-ECD49E35-EABA-44d2-9A64-AAF35C705624"/>
+</archimate:ServingRelationship>

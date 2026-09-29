@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.948 Movis (AGODI)-Leerlingenvervoer (LEVO) (Adressen leerlingen)"
+    id="id-77061C00-6FA7-4290-AF02-65D941FF6688">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F22A9CC0-0865-4636-A24A-451DE1EE6995.xml#id-F22A9CC0-0865-4636-A24A-451DE1EE6995"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-01A27DCD-BC32-42e1-82EB-5AAF9AD47F9F.xml#id-01A27DCD-BC32-42e1-82EB-5AAF9AD47F9F"/>
+</archimate:ServingRelationship>

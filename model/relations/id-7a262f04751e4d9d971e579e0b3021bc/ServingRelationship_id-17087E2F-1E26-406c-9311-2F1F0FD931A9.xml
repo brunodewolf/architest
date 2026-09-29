@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.272 MDM Voertuigen - GET (Voertuig)"
+    id="id-17087E2F-1E26-406c-9311-2F1F0FD931A9">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ECD22175-419F-407a-8214-967EBAF963A1.xml#id-ECD22175-419F-407a-8214-967EBAF963A1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-879A9A86-08AA-4c38-BB6E-C3EAF2466BC3.xml#id-879A9A86-08AA-4c38-BB6E-C3EAF2466BC3"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1077 Personeelsmodel - MICC (Medewerker)"
+    id="id-F2172FD0-085B-47a4-B797-7A46476A606E">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-665F3F95-C839-403d-BF99-E9612BEEA591.xml#id-665F3F95-C839-403d-BF99-E9612BEEA591"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-52864442-600C-4713-AC9F-B709C8003EEF.xml#id-52864442-600C-4713-AC9F-B709C8003EEF"/>
+</archimate:ServingRelationship>

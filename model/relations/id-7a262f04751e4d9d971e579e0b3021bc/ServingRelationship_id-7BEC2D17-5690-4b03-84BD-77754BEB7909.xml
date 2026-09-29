@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.866 PSIebus DMS - Greenplayer CMS - Toegewezen parkeerplaats bij vertrek"
+    id="id-7BEC2D17-5690-4b03-84BD-77754BEB7909">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-88F083D8-0634-4168-9A29-AD6A979BD3BD.xml#id-88F083D8-0634-4168-9A29-AD6A979BD3BD"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7C9B40FD-BE63-4bd4-AA5A-BA1E6C7E0FE3.xml#id-7C9B40FD-BE63-4bd4-AA5A-BA1E6C7E0FE3"/>
+</archimate:ServingRelationship>

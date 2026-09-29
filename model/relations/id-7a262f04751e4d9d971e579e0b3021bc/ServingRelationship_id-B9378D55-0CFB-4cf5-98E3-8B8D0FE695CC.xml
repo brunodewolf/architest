@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1212 (Geplande omleiding)"
+    id="id-B9378D55-0CFB-4cf5-98E3-8B8D0FE695CC">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E2F6876B-26C8-4d0b-A9AE-AAB5E85A0233.xml#id-E2F6876B-26C8-4d0b-A9AE-AAB5E85A0233"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0CD46655-9FD7-425d-A53A-EE8ED4DD1F2A.xml#id-0CD46655-9FD7-425d-A53A-EE8ED4DD1F2A"/>
+</archimate:ServingRelationship>

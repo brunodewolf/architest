@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.043 Ingenico - Online Sales - Betaling"
+    id="id-3A05017A-19AF-41eb-9A3F-DD6E9175ABCE">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8DA2A63B-EE0A-4ca2-8E98-1EBE34616559.xml#id-8DA2A63B-EE0A-4ca2-8E98-1EBE34616559"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4CD978F8-1AF3-4d90-8C8A-64CB1DD29C5C.xml#id-4CD978F8-1AF3-4d90-8C8A-64CB1DD29C5C"/>
+</archimate:ServingRelationship>

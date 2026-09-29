@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.595 Mobile App - OneTrust  (Consents &amp; Grants)"
+    id="id-D83DECAD-1657-47a6-85AA-70A0609F451C">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-06B62845-84AD-47bf-B186-F6CE0EC3883C.xml#id-06B62845-84AD-47bf-B186-F6CE0EC3883C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-44898039-9F42-4703-853E-B4E1585D881A.xml#id-44898039-9F42-4703-853E-B4E1585D881A"/>
+</archimate:ServingRelationship>

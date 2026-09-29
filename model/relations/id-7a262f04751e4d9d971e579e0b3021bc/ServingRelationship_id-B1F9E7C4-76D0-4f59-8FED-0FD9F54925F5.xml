@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.308 Magazijntoren - SAP EWM (Bevestiging magazijnorder)"
+    id="id-B1F9E7C4-76D0-4f59-8FED-0FD9F54925F5">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-300C4BEB-8EFE-4118-92CE-226CFFA8C8A7.xml#id-300C4BEB-8EFE-4118-92CE-226CFFA8C8A7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-49410F72-80A4-4699-AEBC-DB2D7BB31EBF.xml#id-49410F72-80A4-4699-AEBC-DB2D7BB31EBF"/>
+</archimate:ServingRelationship>

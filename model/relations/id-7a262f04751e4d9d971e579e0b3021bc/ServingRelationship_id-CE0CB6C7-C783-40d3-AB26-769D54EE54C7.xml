@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.919 Leerlingenvervoer (LEVO)-Microsoft Entra ID (Registratie Medewerker Exploitant)"
+    id="id-CE0CB6C7-C783-40d3-AB26-769D54EE54C7">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-01A27DCD-BC32-42e1-82EB-5AAF9AD47F9F.xml#id-01A27DCD-BC32-42e1-82EB-5AAF9AD47F9F"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-36A1DCEB-28F5-437a-A814-F3E9260D2942.xml#id-36A1DCEB-28F5-437a-A814-F3E9260D2942"/>
+</archimate:ServingRelationship>

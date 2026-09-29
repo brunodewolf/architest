@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.097 Correspondentie Orkestratie - SAP FICA (Log events)"
+    id="id-7772969C-18D7-49ca-A1D4-A375A0DD4DB5">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-AAB1FDA3-E3E9-42d3-97FD-C198450D6CF1.xml#id-AAB1FDA3-E3E9-42d3-97FD-C198450D6CF1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1.xml#id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1"/>
+</archimate:ServingRelationship>

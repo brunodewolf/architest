@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1052 Leerlingenvervoer Chauffeur App (LEVO) - PowerBI Workspace Operaties (Uitvoeringsgegevens)"
+    id="id-E2C90C1D-417B-4205-B783-EA6D748D1EA3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CA55EBB2-3B9B-4632-95E2-A91ECA4969F2.xml#id-CA55EBB2-3B9B-4632-95E2-A91ECA4969F2"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5D718794-C063-4971-879C-5310B9068F66.xml#id-5D718794-C063-4971-879C-5310B9068F66"/>
+</archimate:ServingRelationship>

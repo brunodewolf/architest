@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.752 HERE (Routeplanner) - TRIP Routing HERE proxy (Route)"
+    id="id-9D8BCBEF-62F6-462b-A443-28930C069825">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F3FD49FF-8D9D-4c0f-8FA2-BA8C764B5B72.xml#id-F3FD49FF-8D9D-4c0f-8FA2-BA8C764B5B72"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DFA6511C-3E70-47e0-A12A-C1341665B0E0.xml#id-DFA6511C-3E70-47e0-A12A-C1341665B0E0"/>
+</archimate:ServingRelationship>

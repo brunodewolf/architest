@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1101 SAP EAM - Heartbeat Halteschermen (Haltescherm asset)"
+    id="id-593B0E67-B973-4a54-B6DB-6944E531FE34">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-51C438E0-E2A1-4a08-8926-4197EDB77A36.xml#id-51C438E0-E2A1-4a08-8926-4197EDB77A36"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-79B53A90-3B9F-47b8-BB32-55264AAEAE52.xml#id-79B53A90-3B9F-47b8-BB32-55264AAEAE52"/>
+</archimate:ServingRelationship>

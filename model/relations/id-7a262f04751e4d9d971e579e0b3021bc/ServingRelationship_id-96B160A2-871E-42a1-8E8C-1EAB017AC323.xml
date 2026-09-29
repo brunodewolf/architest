@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0248 (Halte coordinaat)"
+    id="id-96B160A2-871E-42a1-8E8C-1EAB017AC323">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-92FBB895-73ED-4105-BFC3-E689E039B8BC.xml#id-92FBB895-73ED-4105-BFC3-E689E039B8BC"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-69766816-8079-4df1-86F1-627CDDA3D7CF.xml#id-69766816-8079-4df1-86F1-627CDDA3D7CF"/>
+</archimate:ServingRelationship>

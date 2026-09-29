@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1240 CenSy - Mobib-Card List Management (Remote Reconstruction)"
+    id="id-DF40955B-D6CC-4b83-8700-23EFD9B9C56A">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DAF36B59-8781-431f-B297-4DF307E87E59.xml#id-DAF36B59-8781-431f-B297-4DF307E87E59"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4A30D834-A582-4a48-BFF4-8FA4BCF35411.xml#id-4A30D834-A582-4a48-BFF4-8FA4BCF35411"/>
+</archimate:ServingRelationship>

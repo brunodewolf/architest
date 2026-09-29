@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.393 Dispatch Incident Management - Case, Schade en Incidenten Beheer (CSI) (Registratie schadedossier)"
+    id="id-C4D4D878-BB65-4342-8C4F-52ED99AC0294">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FBDBA3F2-EA0C-43c2-BB36-23882313F6E7.xml#id-FBDBA3F2-EA0C-43c2-BB36-23882313F6E7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C29B0B47-042A-40e2-88EA-A838538A746C.xml#id-C29B0B47-042A-40e2-88EA-A838538A746C"/>
+</archimate:ServingRelationship>

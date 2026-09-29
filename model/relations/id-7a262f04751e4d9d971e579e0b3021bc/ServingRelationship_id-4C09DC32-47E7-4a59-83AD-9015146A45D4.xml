@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.387 DIM-RingRing - Verwittiging per SMS"
+    id="id-4C09DC32-47E7-4a59-83AD-9015146A45D4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FBDBA3F2-EA0C-43c2-BB36-23882313F6E7.xml#id-FBDBA3F2-EA0C-43c2-BB36-23882313F6E7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6D4A2EFD-52BE-4e43-B5D3-FD9747CC0CC1.xml#id-6D4A2EFD-52BE-4e43-B5D3-FD9747CC0CC1"/>
+</archimate:ServingRelationship>

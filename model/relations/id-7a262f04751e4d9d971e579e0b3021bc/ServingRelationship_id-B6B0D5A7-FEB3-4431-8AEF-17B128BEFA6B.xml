@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1087 Exploitanten Toepassing (ET) - Budget- en forecastapplicatie (TM1) (Uitvoeringsgegevens)"
+    id="id-B6B0D5A7-FEB3-4431-8AEF-17B128BEFA6B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-84915F34-2F14-4bb6-A0A1-0794CE826F2B.xml#id-84915F34-2F14-4bb6-A0A1-0794CE826F2B"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6F288532-B9D7-41f1-8999-8F691134EB2F.xml#id-6F288532-B9D7-41f1-8999-8F691134EB2F"/>
+</archimate:ServingRelationship>

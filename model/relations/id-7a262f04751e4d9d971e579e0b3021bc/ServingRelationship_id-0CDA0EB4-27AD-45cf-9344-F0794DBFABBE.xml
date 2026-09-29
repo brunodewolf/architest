@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.699a SAP FICA - Scriptura  (Correspondance Generation) [HIP-O]"
+    id="id-0CDA0EB4-27AD-45cf-9344-F0794DBFABBE">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1.xml#id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CB720E01-B5D4-490a-8B62-6E89CFEB3C99.xml#id-CB720E01-B5D4-490a-8B62-6E89CFEB3C99"/>
+</archimate:ServingRelationship>

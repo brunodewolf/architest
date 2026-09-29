@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.051 Plusdial - SAP FI - SMS-tickets en M-tickets per provider"
+    id="id-4F07F7EC-6F38-48fe-A5A1-348450170D66">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F7D5F902-154D-443b-8353-B8E6D0F6593E.xml#id-F7D5F902-154D-443b-8353-B8E6D0F6593E"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473.xml#id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0006 Alternatieve Functieclassificaties - SF Learning (TOEWIJZINGSPROFIEL)"
+    id="id-C9467ED4-350A-4b8c-9232-B002368C0C38">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FC11F648-4484-4329-AA99-D25BE5D1E892.xml#id-FC11F648-4484-4329-AA99-D25BE5D1E892"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CE728BEE-84DB-49c2-BD76-6C4621D8F84E.xml#id-CE728BEE-84DB-49c2-BD76-6C4621D8F84E"/>
+</archimate:ServingRelationship>

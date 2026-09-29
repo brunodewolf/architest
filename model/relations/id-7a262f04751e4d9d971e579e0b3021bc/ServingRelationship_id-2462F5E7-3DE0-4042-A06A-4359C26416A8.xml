@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0708 TRIP GTFS - HERE (Routeplanner) (GTFS + RT)"
+    id="id-2462F5E7-3DE0-4042-A06A-4359C26416A8">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C12D8BCF-77C8-4c8f-BD20-FC56A8694F32.xml#id-C12D8BCF-77C8-4c8f-BD20-FC56A8694F32"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F3FD49FF-8D9D-4c0f-8FA2-BA8C764B5B72.xml#id-F3FD49FF-8D9D-4c0f-8FA2-BA8C764B5B72"/>
+</archimate:ServingRelationship>

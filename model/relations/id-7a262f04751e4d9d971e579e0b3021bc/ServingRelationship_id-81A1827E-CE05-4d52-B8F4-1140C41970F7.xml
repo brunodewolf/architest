@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1174 Laadstation software Heliox - PSI VAS Server - Informatie laadstation"
+    id="id-81A1827E-CE05-4d52-B8F4-1140C41970F7">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1140FDF1-2425-4d4d-A004-5ABA20AF4DB7.xml#id-1140FDF1-2425-4d4d-A004-5ABA20AF4DB7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E52A4E61-8362-404d-9542-9B030DF68B79.xml#id-E52A4E61-8362-404d-9542-9B030DF68B79"/>
+</archimate:ServingRelationship>

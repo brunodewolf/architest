@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1053 genereer affiche"
+    id="id-DEB1EE27-022C-4ca3-B5FB-2AF61E1A4BFC">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-92FBB895-73ED-4105-BFC3-E689E039B8BC.xml#id-92FBB895-73ED-4105-BFC3-E689E039B8BC"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7F09464A-6D54-4705-A787-A9BCD0ED27A9.xml#id-7F09464A-6D54-4705-A787-A9BCD0ED27A9"/>
+</archimate:ServingRelationship>

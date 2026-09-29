@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.891 Clarity Timesheets-SAP CATS - Actuals (Hr)"
+    id="id-0FB77D1B-5C4B-419c-B9AF-674FD5A78810">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8D85A71E-0DA5-4204-8CB5-764C41C8F6A0.xml#id-8D85A71E-0DA5-4204-8CB5-764C41C8F6A0"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1B4AAE38-1C17-429f-AD05-ECC5A8147B9C.xml#id-1B4AAE38-1C17-429f-AD05-ECC5A8147B9C"/>
+</archimate:ServingRelationship>

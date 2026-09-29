@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.851 Mobile App - Abonnementen (digitale opstap)"
+    id="id-17C4D14B-3589-45e4-8C60-5E2D20B6270E">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-06B62845-84AD-47bf-B186-F6CE0EC3883C.xml#id-06B62845-84AD-47bf-B186-F6CE0EC3883C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-41C5E65D-6D0F-400b-BD28-53D8756796CB.xml#id-41C5E65D-6D0F-400b-BD28-53D8756796CB"/>
+</archimate:ServingRelationship>

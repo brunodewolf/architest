@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.899 PTV RouteOptimizerST-Leerlingenvervoer (LEVO) (Planning)"
+    id="id-982B5603-F93C-4fca-A9D4-EE748A8571D9">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6CFA288C-C823-44ca-9E88-4FCE2D5B01EA.xml#id-6CFA288C-C823-44ca-9E88-4FCE2D5B01EA"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-01A27DCD-BC32-42e1-82EB-5AAF9AD47F9F.xml#id-01A27DCD-BC32-42e1-82EB-5AAF9AD47F9F"/>
+</archimate:ServingRelationship>

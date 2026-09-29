@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1189 Laadstation software Heliox - Data Platform EBS (informatie laadstation)"
+    id="id-7E7D9D80-6927-4fdf-9E8E-743C3BB4EEBD">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1140FDF1-2425-4d4d-A004-5ABA20AF4DB7.xml#id-1140FDF1-2425-4d4d-A004-5ABA20AF4DB7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3AF8A723-C5FE-41f7-A425-41551E172F04.xml#id-3AF8A723-C5FE-41f7-A425-41551E172F04"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.554 DTSS - BIL (Payment Result)"
+    id="id-7E7386C4-1828-488e-B41C-CF25630FC83D">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-18CC4A50-17DE-456c-A9EC-A5EEFE1705AC.xml#id-18CC4A50-17DE-456c-A9EC-A5EEFE1705AC"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3CE4E123-84A0-4b63-A662-979262778227.xml#id-3CE4E123-84A0-4b63-A662-979262778227"/>
+</archimate:ServingRelationship>

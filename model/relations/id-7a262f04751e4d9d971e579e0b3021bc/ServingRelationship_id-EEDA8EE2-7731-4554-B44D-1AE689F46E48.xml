@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.327 Exploitanten Toepassing (ET) - PowerBI Kwaliteitsmanagement Dashboard Exploitant (Kwaliteitsgegevens)"
+    id="id-EEDA8EE2-7731-4554-B44D-1AE689F46E48">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-84915F34-2F14-4bb6-A0A1-0794CE826F2B.xml#id-84915F34-2F14-4bb6-A0A1-0794CE826F2B"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8564CA29-44C3-4985-8E9C-35721DFDB3D6.xml#id-8564CA29-44C3-4985-8E9C-35721DFDB3D6"/>
+</archimate:ServingRelationship>

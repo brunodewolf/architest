@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.355 MobiGuider AFC - SAP FI (Verkoop abonnementen)"
+    id="id-EA7E9BF3-54BF-4d99-A31A-117B3C1E0B3C">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DE08145A-B0B3-4bb2-9658-71A42332BFD3.xml#id-DE08145A-B0B3-4bb2-9658-71A42332BFD3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473.xml#id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473"/>
+</archimate:ServingRelationship>

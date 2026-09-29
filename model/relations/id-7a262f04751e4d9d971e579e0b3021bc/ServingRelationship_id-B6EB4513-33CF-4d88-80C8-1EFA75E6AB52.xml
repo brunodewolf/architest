@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.668 Reisinfo op maat - Mobile App (Push Notification)"
+    id="id-B6EB4513-33CF-4d88-80C8-1EFA75E6AB52">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-641D10B5-3378-4169-AEE7-3FA929C0BCE0.xml#id-641D10B5-3378-4169-AEE7-3FA929C0BCE0"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-06B62845-84AD-47bf-B186-F6CE0EC3883C.xml#id-06B62845-84AD-47bf-B186-F6CE0EC3883C"/>
+</archimate:ServingRelationship>

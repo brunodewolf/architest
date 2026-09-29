@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.509 Case, Schade en Incidenten Beheer (CSI) - DataWarehouse (DWH) (Schadedossier)"
+    id="id-8446C1C7-9200-4543-940E-CDA0C1D6EFCE">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C29B0B47-042A-40e2-88EA-A838538A746C.xml#id-C29B0B47-042A-40e2-88EA-A838538A746C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D614C219-D4F0-4570-95EA-C2DABD7EF068.xml#id-D614C219-D4F0-4570-95EA-C2DABD7EF068"/>
+</archimate:ServingRelationship>

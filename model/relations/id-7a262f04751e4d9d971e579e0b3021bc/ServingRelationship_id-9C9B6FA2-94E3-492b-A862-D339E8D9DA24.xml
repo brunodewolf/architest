@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1171 SAP HCM - Pensioenfonds (Pensioengegevens)"
+    id="id-9C9B6FA2-94E3-492b-A862-D339E8D9DA24">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F76A3E68-A10C-45d5-9846-538E61D18CA1.xml#id-F76A3E68-A10C-45d5-9846-538E61D18CA1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-AF604284-3296-43c6-966B-CDA8D1B39F3F.xml#id-AF604284-3296-43c6-966B-CDA8D1B39F3F"/>
+</archimate:ServingRelationship>

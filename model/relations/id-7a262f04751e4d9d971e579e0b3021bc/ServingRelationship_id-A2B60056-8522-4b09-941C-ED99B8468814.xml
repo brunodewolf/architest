@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.941 SAP Customer Checkout - DLPO (Payment Result)"
+    id="id-A2B60056-8522-4b09-941C-ED99B8468814">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-11F1BB3C-6718-404d-BB1F-A81E9B2D0726.xml#id-11F1BB3C-6718-404d-BB1F-A81E9B2D0726"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8A30B50B-E2E8-471e-ACEC-143F7FE208FF.xml#id-8A30B50B-E2E8-471e-ACEC-143F7FE208FF"/>
+</archimate:ServingRelationship>

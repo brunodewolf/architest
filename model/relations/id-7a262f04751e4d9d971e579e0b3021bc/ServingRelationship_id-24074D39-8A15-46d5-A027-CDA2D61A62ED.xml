@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.977 PUCv2 ODS-Personeelsritten(Check personeelsrit (vanaf dag -7 totenmet dag-1))"
+    id="id-24074D39-8A15-46d5-A027-CDA2D61A62ED">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0A54D28B-5F8F-480c-86AF-1DF4692103E9.xml#id-0A54D28B-5F8F-480c-86AF-1DF4692103E9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CCE2606E-53A5-46a7-A7B6-12341CE68758.xml#id-CCE2606E-53A5-46a7-A7B6-12341CE68758"/>
+</archimate:ServingRelationship>

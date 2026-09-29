@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1182 PSI VAS Server - Voertuig software Iveco - Voertuig preconditionering"
+    id="id-04208A07-E07D-4945-9E47-0DADEB0C4E8B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E52A4E61-8362-404d-9542-9B030DF68B79.xml#id-E52A4E61-8362-404d-9542-9B030DF68B79"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-95305522-5EF4-41f8-9ACE-9DBA2D64E061.xml#id-95305522-5EF4-41f8-9ACE-9DBA2D64E061"/>
+</archimate:ServingRelationship>

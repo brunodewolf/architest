@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.950 Mobiguider AFC - SAP CCO  (Cash Journal)"
+    id="id-46B0E91D-75F5-4727-8CAA-30866343708A">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DE08145A-B0B3-4bb2-9658-71A42332BFD3.xml#id-DE08145A-B0B3-4bb2-9658-71A42332BFD3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-11F1BB3C-6718-404d-BB1F-A81E9B2D0726.xml#id-11F1BB3C-6718-404d-BB1F-A81E9B2D0726"/>
+</archimate:ServingRelationship>

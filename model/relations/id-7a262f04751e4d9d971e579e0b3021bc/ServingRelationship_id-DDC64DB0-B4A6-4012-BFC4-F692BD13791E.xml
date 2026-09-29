@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0878 Peak Mobility DMS - IB Datentechnik LED Display Software (Reizigersvoertuigplaats)"
+    id="id-DDC64DB0-B4A6-4012-BFC4-F692BD13791E">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-88F083D8-0634-4168-9A29-AD6A979BD3BD.xml#id-88F083D8-0634-4168-9A29-AD6A979BD3BD"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-24BEEF2D-36C5-42e0-9B62-75F2F3681A33.xml#id-24BEEF2D-36C5-42e0-9B62-75F2F3681A33"/>
+</archimate:ServingRelationship>

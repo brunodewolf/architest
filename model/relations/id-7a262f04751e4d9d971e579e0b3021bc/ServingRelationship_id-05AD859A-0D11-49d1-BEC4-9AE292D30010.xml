@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.780 Instabug - Jira (Incident)"
+    id="id-05AD859A-0D11-49d1-BEC4-9AE292D30010">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BF3B24E1-478A-46b6-9C7A-6C0003306C37.xml#id-BF3B24E1-478A-46b6-9C7A-6C0003306C37"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-EE96675E-CC89-454f-B906-16F280A5AE53.xml#id-EE96675E-CC89-454f-B906-16F280A5AE53"/>
+</archimate:ServingRelationship>

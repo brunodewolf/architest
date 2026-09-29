@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.912 Stripe-SAP FI (Commissie en betaling)"
+    id="id-AFA2DEA8-AFFF-43f9-8EA4-0FA7B8427049">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-22893F3F-A462-465c-9282-F2317A6A5356.xml#id-22893F3F-A462-465c-9282-F2317A6A5356"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473.xml#id-126C0033-F05F-4ab6-88C8-6F3AEFA3B473"/>
+</archimate:ServingRelationship>

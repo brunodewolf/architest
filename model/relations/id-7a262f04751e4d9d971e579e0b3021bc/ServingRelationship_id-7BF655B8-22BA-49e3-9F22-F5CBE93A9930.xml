@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1006 Voertuig software BYD - Data Platform EBS (Technische uitvoeringsgegevens - realtime)"
+    id="id-7BF655B8-22BA-49e3-9F22-F5CBE93A9930">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-65E17436-82AF-4205-9FB3-35A33912AC1E.xml#id-65E17436-82AF-4205-9FB3-35A33912AC1E"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3AF8A723-C5FE-41f7-A425-41551E172F04.xml#id-3AF8A723-C5FE-41f7-A425-41551E172F04"/>
+</archimate:ServingRelationship>

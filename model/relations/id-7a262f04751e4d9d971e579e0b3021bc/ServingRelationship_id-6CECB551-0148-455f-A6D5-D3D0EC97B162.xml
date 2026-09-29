@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.602 UKS - Reisinfo op maat (Push Notification)"
+    id="id-6CECB551-0148-455f-A6D5-D3D0EC97B162">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C96F344F-E161-488d-9D3D-C7C8A1C6902C.xml#id-C96F344F-E161-488d-9D3D-C7C8A1C6902C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-641D10B5-3378-4169-AEE7-3FA929C0BCE0.xml#id-641D10B5-3378-4169-AEE7-3FA929C0BCE0"/>
+</archimate:ServingRelationship>

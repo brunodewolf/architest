@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.518 - DSSP - SAP SOM (Subscription Order) "
+    id="id-C8C148DB-6CB2-4601-A2BB-C3B6438C0E1D">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FBC124C9-869F-4e54-9121-B471C9FF99B7.xml#id-FBC124C9-869F-4e54-9121-B471C9FF99B7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A16C4BD0-B040-49d7-909C-48E29EF21F70.xml#id-A16C4BD0-B040-49d7-909C-48E29EF21F70"/>
+</archimate:ServingRelationship>

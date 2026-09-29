@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1143 DSSP - SAP CM (Tap Registration)"
+    id="id-E6E22093-E70A-432b-9F92-B680E1C8E8D7">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FBC124C9-869F-4e54-9121-B471C9FF99B7.xml#id-FBC124C9-869F-4e54-9121-B471C9FF99B7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-B36E011A-157D-4f40-BC43-69E68CA4F3A7.xml#id-B36E011A-157D-4f40-BC43-69E68CA4F3A7"/>
+</archimate:ServingRelationship>

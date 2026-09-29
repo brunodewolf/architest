@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.047 Voertuig software yes-EU RT - Data Platform EBS (Technische uitvoeringsgegevens - realtime)"
+    id="id-E86BBCB7-FE3A-4692-8E97-A514AEFE036C">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-79561183-C038-45eb-96B3-60D7724B087F.xml#id-79561183-C038-45eb-96B3-60D7724B087F"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3AF8A723-C5FE-41f7-A425-41551E172F04.xml#id-3AF8A723-C5FE-41f7-A425-41551E172F04"/>
+</archimate:ServingRelationship>

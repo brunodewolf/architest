@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1153 SAP SOM - UKS (Communication) [HIP-O]"
+    id="id-82D9EABD-4E5F-4819-98A2-009F6F4323A1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A16C4BD0-B040-49d7-909C-48E29EF21F70.xml#id-A16C4BD0-B040-49d7-909C-48E29EF21F70"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C96F344F-E161-488d-9D3D-C7C8A1C6902C.xml#id-C96F344F-E161-488d-9D3D-C7C8A1C6902C"/>
+</archimate:ServingRelationship>

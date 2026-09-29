@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1018 MoBiB-Card List Management - Conduent Atlas (Access Lists)"
+    id="id-EFCD619F-FFF7-4dbf-A003-51C06A1B1CA8">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4A30D834-A582-4a48-BFF4-8FA4BCF35411.xml#id-4A30D834-A582-4a48-BFF4-8FA4BCF35411"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A1B43A44-061B-4b66-82FF-85B213F648D7.xml#id-A1B43A44-061B-4b66-82FF-85B213F648D7"/>
+</archimate:ServingRelationship>

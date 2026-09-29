@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.577 MDM Adressen - Case, Schade en Incidenten Beheer (CSI) (Adres)"
+    id="id-4E2C8FBE-0413-4e8f-8047-3FA6BBD522C1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-46EC27A7-A7BF-41a2-A112-8EEF8708A3C5.xml#id-46EC27A7-A7BF-41a2-A112-8EEF8708A3C5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C29B0B47-042A-40e2-88EA-A838538A746C.xml#id-C29B0B47-042A-40e2-88EA-A838538A746C"/>
+</archimate:ServingRelationship>

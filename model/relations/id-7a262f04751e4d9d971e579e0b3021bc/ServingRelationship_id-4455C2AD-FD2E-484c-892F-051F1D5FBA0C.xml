@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.490 MDM Haltebeheer-PRT - Halte basisgegevens"
+    id="id-4455C2AD-FD2E-484c-892F-051F1D5FBA0C">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-36D1A9F6-30EF-476c-B7B0-6AE51C0F1C33.xml#id-36D1A9F6-30EF-476c-B7B0-6AE51C0F1C33"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-92981EA0-DB69-4671-8C44-2C8526D1B60F.xml#id-92981EA0-DB69-4671-8C44-2C8526D1B60F"/>
+</archimate:ServingRelationship>

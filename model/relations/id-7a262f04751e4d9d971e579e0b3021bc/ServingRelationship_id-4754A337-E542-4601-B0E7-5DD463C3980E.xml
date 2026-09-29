@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.021 BetaalLinkInMail - Selligent (Mail)"
+    id="id-4754A337-E542-4601-B0E7-5DD463C3980E">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A0ABEBC1-95AA-468f-BB21-D65C41222A79.xml#id-A0ABEBC1-95AA-468f-BB21-D65C41222A79"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1820DE5E-9EDD-4d52-B7CF-C91ABFC71D72.xml#id-1820DE5E-9EDD-4d52-B7CF-C91ABFC71D72"/>
+</archimate:ServingRelationship>

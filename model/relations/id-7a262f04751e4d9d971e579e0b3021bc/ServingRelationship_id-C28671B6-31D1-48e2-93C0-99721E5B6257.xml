@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.368 Flowsparks - SF Learning (Resultaat test)"
+    id="id-C28671B6-31D1-48e2-93C0-99721E5B6257">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DC9021B1-9678-4852-8AB0-9E481DBF97DC.xml#id-DC9021B1-9678-4852-8AB0-9E481DBF97DC"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CE728BEE-84DB-49c2-BD76-6C4621D8F84E.xml#id-CE728BEE-84DB-49c2-BD76-6C4621D8F84E"/>
+</archimate:ServingRelationship>

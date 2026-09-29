@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1242 (Vertaling)"
+    id="id-23EB538B-5DB5-42d5-B964-B0433FA3D47B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-020350B0-038D-4218-97D3-88EF977E95FB.xml#id-020350B0-038D-4218-97D3-88EF977E95FB"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ECD49E35-EABA-44d2-9A64-AAF35C705624.xml#id-ECD49E35-EABA-44d2-9A64-AAF35C705624"/>
+</archimate:ServingRelationship>

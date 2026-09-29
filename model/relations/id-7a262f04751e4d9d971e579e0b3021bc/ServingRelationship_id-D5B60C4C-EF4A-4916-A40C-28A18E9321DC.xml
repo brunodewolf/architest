@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.476 Hastus DailyCrew - IVU.fleet (Geschrapte ritten)"
+    id="id-D5B60C4C-EF4A-4916-A40C-28A18E9321DC">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CE747D5D-3359-489b-B8D3-FD01D08F2557.xml#id-CE747D5D-3359-489b-B8D3-FD01D08F2557"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F0CDF604-C2EB-45b4-B3EF-C676C6F60D56.xml#id-F0CDF604-C2EB-45b4-B3EF-C676C6F60D56"/>
+</archimate:ServingRelationship>

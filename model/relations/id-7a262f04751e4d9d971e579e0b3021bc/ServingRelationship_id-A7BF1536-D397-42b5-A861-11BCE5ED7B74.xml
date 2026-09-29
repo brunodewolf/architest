@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.806 [RTU] - PSIebus CMS - Status informatie Power infrastructure equipment "
+    id="id-A7BF1536-D397-42b5-A861-11BCE5ED7B74">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-84081FE4-7C53-4e55-9D01-95FB1FD9B13A.xml#id-84081FE4-7C53-4e55-9D01-95FB1FD9B13A"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-402A4257-90E2-42fe-BD73-4F357398ACDF.xml#id-402A4257-90E2-42fe-BD73-4F357398ACDF"/>
+</archimate:ServingRelationship>

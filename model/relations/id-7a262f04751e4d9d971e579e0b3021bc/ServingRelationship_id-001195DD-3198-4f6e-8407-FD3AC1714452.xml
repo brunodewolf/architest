@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.920 QMatic - Greenplayer CMS (Wachtrij nummers)"
+    id="id-001195DD-3198-4f6e-8407-FD3AC1714452">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-61E65BE9-C559-41f1-9400-7F22528DF317.xml#id-61E65BE9-C559-41f1-9400-7F22528DF317"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7C9B40FD-BE63-4bd4-AA5A-BA1E6C7E0FE3.xml#id-7C9B40FD-BE63-4bd4-AA5A-BA1E6C7E0FE3"/>
+</archimate:ServingRelationship>

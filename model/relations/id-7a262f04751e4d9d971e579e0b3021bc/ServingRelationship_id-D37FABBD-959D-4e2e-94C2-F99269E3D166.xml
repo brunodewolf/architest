@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0449 (Voertuiglocatie)"
+    id="id-D37FABBD-959D-4e2e-94C2-F99269E3D166">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-676F365A-B066-4ac4-B005-389D2F452127.xml#id-676F365A-B066-4ac4-B005-389D2F452127"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-969812B5-29DC-4909-B016-A0C8DCCF6397.xml#id-969812B5-29DC-4909-B016-A0C8DCCF6397"/>
+</archimate:ServingRelationship>

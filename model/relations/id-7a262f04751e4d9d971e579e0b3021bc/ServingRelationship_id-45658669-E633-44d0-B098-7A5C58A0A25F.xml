@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.123 MobiGuider IAM - Exploitanten Toepassing (ET) (Chauffeurs exploitanten)"
+    id="id-45658669-E633-44d0-B098-7A5C58A0A25F">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4BCE9479-2B25-4528-BB0D-6223576BE515.xml#id-4BCE9479-2B25-4528-BB0D-6223576BE515"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-84915F34-2F14-4bb6-A0A1-0794CE826F2B.xml#id-84915F34-2F14-4bb6-A0A1-0794CE826F2B"/>
+</archimate:ServingRelationship>

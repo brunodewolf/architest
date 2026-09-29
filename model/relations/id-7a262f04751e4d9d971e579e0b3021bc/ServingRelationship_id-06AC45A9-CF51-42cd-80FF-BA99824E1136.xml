@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.793 O2O - SAP HCM (Fiets in bestelling)"
+    id="id-06AC45A9-CF51-42cd-80FF-BA99824E1136">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-32D9DD75-6F89-4ce2-BC2F-638B92116F77.xml#id-32D9DD75-6F89-4ce2-BC2F-638B92116F77"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F76A3E68-A10C-45d5-9846-538E61D18CA1.xml#id-F76A3E68-A10C-45d5-9846-538E61D18CA1"/>
+</archimate:ServingRelationship>

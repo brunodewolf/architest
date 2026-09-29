@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.062 Public Website - OneTrust  (Consents &amp; Grants)"
+    id="id-C3104D6A-4B2D-4e51-AC8A-35CFCB685B8C">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C.xml#id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-44898039-9F42-4703-853E-B4E1585D881A.xml#id-44898039-9F42-4703-853E-B4E1585D881A"/>
+</archimate:ServingRelationship>

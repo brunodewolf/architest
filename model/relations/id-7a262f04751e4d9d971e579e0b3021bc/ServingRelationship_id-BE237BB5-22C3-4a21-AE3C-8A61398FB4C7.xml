@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1059 Personeelsmodel - e-Ticket NMBS (Rijksregisternummer)"
+    id="id-BE237BB5-22C3-4a21-AE3C-8A61398FB4C7">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-665F3F95-C839-403d-BF99-E9612BEEA591.xml#id-665F3F95-C839-403d-BF99-E9612BEEA591"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5D2CA1E4-306D-4559-9F03-0FF89FF649D7.xml#id-5D2CA1E4-306D-4559-9F03-0FF89FF649D7"/>
+</archimate:ServingRelationship>

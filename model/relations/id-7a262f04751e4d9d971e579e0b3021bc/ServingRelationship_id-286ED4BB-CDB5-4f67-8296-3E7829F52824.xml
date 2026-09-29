@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.219 PUC - Hastus ATP (Rijtijden)"
+    id="id-286ED4BB-CDB5-4f67-8296-3E7829F52824">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E64217CF-D649-41a8-AACB-B1E216869EFB.xml#id-E64217CF-D649-41a8-AACB-B1E216869EFB"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1C79CE7F-AF55-4146-AB1F-F2135778D2D2.xml#id-1C79CE7F-AF55-4146-AB1F-F2135778D2D2"/>
+</archimate:ServingRelationship>

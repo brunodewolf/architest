@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.092 Digitale Ondertekenen (Vlaamse Overheid) - Correspondentie Orkestratie ( Digitaal getekende documentent )"
+    id="id-84DF6D43-D9C5-43b4-87DE-D3F553AF5B05">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-B24388CC-6585-4cd8-8968-EC20B8B32F97.xml#id-B24388CC-6585-4cd8-8968-EC20B8B32F97"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-AAB1FDA3-E3E9-42d3-97FD-C198450D6CF1.xml#id-AAB1FDA3-E3E9-42d3-97FD-C198450D6CF1"/>
+</archimate:ServingRelationship>

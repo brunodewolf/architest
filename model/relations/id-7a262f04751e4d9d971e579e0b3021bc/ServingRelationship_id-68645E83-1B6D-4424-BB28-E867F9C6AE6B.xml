@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.582 Digimobee Ticketing Support Service (DTSS) - Mobiele Toepassing Controleur Frontend (Public key)"
+    id="id-68645E83-1B6D-4424-BB28-E867F9C6AE6B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3CE4E123-84A0-4b63-A662-979262778227.xml#id-3CE4E123-84A0-4b63-A662-979262778227"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D63B4567-E7CA-4cb9-892D-E718DF5C63CB.xml#id-D63B4567-E7CA-4cb9-892D-E718DF5C63CB"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.892 SAP FM - Clarity Project Management (Actuals (€))"
+    id="id-DF61D5A4-623C-40fc-89C5-60075C134E74">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E0C341B8-98EC-4df5-8D4B-81AE6C1C8AAA.xml#id-E0C341B8-98EC-4df5-8D4B-81AE6C1C8AAA"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8675E5FF-94CD-4e22-AF2C-2A0730F86A3D.xml#id-8675E5FF-94CD-4e22-AF2C-2A0730F86A3D"/>
+</archimate:ServingRelationship>

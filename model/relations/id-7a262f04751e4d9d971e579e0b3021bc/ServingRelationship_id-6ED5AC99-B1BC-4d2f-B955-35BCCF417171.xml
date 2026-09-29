@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.182 PUC ODS - NetwerkTopologie - lijnen/haltes"
+    id="id-6ED5AC99-B1BC-4d2f-B955-35BCCF417171">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0A54D28B-5F8F-480c-86AF-1DF4692103E9.xml#id-0A54D28B-5F8F-480c-86AF-1DF4692103E9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9D8061D6-2EF3-48e9-9440-AFAEE81B46CA.xml#id-9D8061D6-2EF3-48e9-9440-AFAEE81B46CA"/>
+</archimate:ServingRelationship>

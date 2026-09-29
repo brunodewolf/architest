@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1103 MOW - SAP MM (Registratie goederenontvangst)"
+    id="id-DBBA2F42-3704-4cbb-B828-EC4985F0A636">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-07E5BA2A-BD38-48b9-875C-55824222AB1D.xml#id-07E5BA2A-BD38-48b9-875C-55824222AB1D"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6A7E1A7F-B41D-4266-8D53-288529F6D62B.xml#id-6A7E1A7F-B41D-4266-8D53-288529F6D62B"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.581 DTSS - Digimobee (certificaat)"
+    id="id-0D48CC3B-13C9-4a9b-8940-D37B76F16029">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3CE4E123-84A0-4b63-A662-979262778227.xml#id-3CE4E123-84A0-4b63-A662-979262778227"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-AC8F7EC1-5686-4b34-9A19-A65B5873FE55.xml#id-AC8F7EC1-5686-4b34-9A19-A65B5873FE55"/>
+</archimate:ServingRelationship>

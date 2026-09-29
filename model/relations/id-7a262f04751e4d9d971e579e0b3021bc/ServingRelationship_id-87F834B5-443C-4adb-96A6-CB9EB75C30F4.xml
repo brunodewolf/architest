@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.811 SAP EAM - PSIebus DMS - Voertuigen en voertuigtypes master data"
+    id="id-87F834B5-443C-4adb-96A6-CB9EB75C30F4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-60FD2E61-1E10-453f-9E3B-7F43AFF7926C.xml#id-60FD2E61-1E10-453f-9E3B-7F43AFF7926C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-88F083D8-0634-4168-9A29-AD6A979BD3BD.xml#id-88F083D8-0634-4168-9A29-AD6A979BD3BD"/>
+</archimate:ServingRelationship>

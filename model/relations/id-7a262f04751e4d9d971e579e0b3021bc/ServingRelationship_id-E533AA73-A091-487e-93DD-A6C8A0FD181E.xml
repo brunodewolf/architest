@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.243 CDI - SIM - marktinglijst gegevens voor SIM"
+    id="id-E533AA73-A091-487e-93DD-A6C8A0FD181E">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-B15D41A3-C904-427e-B339-F472293484D1.xml#id-B15D41A3-C904-427e-B339-F472293484D1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1820DE5E-9EDD-4d52-B7CF-C91ABFC71D72.xml#id-1820DE5E-9EDD-4d52-B7CF-C91ABFC71D72"/>
+</archimate:ServingRelationship>

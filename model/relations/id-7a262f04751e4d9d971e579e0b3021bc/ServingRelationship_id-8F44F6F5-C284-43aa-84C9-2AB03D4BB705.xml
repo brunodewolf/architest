@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.978 Personeelsritten-SAP HCM [Aanpassen loonbrief (OOV / VAA)]"
+    id="id-8F44F6F5-C284-43aa-84C9-2AB03D4BB705">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CCE2606E-53A5-46a7-A7B6-12341CE68758.xml#id-CCE2606E-53A5-46a7-A7B6-12341CE68758"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F76A3E68-A10C-45d5-9846-538E61D18CA1.xml#id-F76A3E68-A10C-45d5-9846-538E61D18CA1"/>
+</archimate:ServingRelationship>

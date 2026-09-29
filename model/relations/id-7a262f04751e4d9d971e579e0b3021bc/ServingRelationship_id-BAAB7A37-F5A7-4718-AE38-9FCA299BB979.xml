@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.971 SAP SOM - Scriptura (Verlengvoorstel)"
+    id="id-BAAB7A37-F5A7-4718-AE38-9FCA299BB979">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A16C4BD0-B040-49d7-909C-48E29EF21F70.xml#id-A16C4BD0-B040-49d7-909C-48E29EF21F70"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CB720E01-B5D4-490a-8B62-6E89CFEB3C99.xml#id-CB720E01-B5D4-490a-8B62-6E89CFEB3C99"/>
+</archimate:ServingRelationship>

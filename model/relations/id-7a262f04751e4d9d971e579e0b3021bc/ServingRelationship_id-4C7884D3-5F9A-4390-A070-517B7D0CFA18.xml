@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.669 Datalake - Reisinfo op maat (Segmentatie)"
+    id="id-4C7884D3-5F9A-4390-A070-517B7D0CFA18">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DB4F168F-FC0B-453b-BD46-F2B6C0CFB0E9.xml#id-DB4F168F-FC0B-453b-BD46-F2B6C0CFB0E9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-641D10B5-3378-4169-AEE7-3FA929C0BCE0.xml#id-641D10B5-3378-4169-AEE7-3FA929C0BCE0"/>
+</archimate:ServingRelationship>

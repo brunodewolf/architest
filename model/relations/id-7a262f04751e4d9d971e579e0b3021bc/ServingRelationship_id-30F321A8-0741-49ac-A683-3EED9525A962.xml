@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.120 SAP S/4HANA - Mobib Card List Mngt (Token Change)"
+    id="id-30F321A8-0741-49ac-A683-3EED9525A962">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-337157D2-6427-4cec-AFDD-80E1871BBFE5.xml#id-337157D2-6427-4cec-AFDD-80E1871BBFE5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4A30D834-A582-4a48-BFF4-8FA4BCF35411.xml#id-4A30D834-A582-4a48-BFF4-8FA4BCF35411"/>
+</archimate:ServingRelationship>

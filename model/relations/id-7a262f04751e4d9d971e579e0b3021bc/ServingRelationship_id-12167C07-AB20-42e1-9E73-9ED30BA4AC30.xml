@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.101 MDM Halte Beheer- Datawarehouse (DWH) (Halte)"
+    id="id-12167C07-AB20-42e1-9E73-9ED30BA4AC30">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-36D1A9F6-30EF-476c-B7B0-6AE51C0F1C33.xml#id-36D1A9F6-30EF-476c-B7B0-6AE51C0F1C33"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D614C219-D4F0-4570-95EA-C2DABD7EF068.xml#id-D614C219-D4F0-4570-95EA-C2DABD7EF068"/>
+</archimate:ServingRelationship>

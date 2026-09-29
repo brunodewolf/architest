@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1224 SAP PM - Jira service desk SCM (ticket)"
+    id="id-F9D338E7-766F-4acd-A075-3277DA76AEC8">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-64A30635-FA5E-4c32-B2FD-77D0B44A689A.xml#id-64A30635-FA5E-4c32-B2FD-77D0B44A689A"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8ED4ED4F-8346-4efc-B017-E1689835DCB3.xml#id-8ED4ED4F-8346-4efc-B017-E1689835DCB3"/>
+</archimate:ServingRelationship>

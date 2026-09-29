@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.906 TRIP GTFS-VIA (GTFSRTv3)"
+    id="id-9B9CB720-E6A1-4d2d-BB51-893CE9A856A4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C12D8BCF-77C8-4c8f-BD20-FC56A8694F32.xml#id-C12D8BCF-77C8-4c8f-BD20-FC56A8694F32"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-87F474B1-B35A-4121-925A-50C825744E45.xml#id-87F474B1-B35A-4121-925A-50C825744E45"/>
+</archimate:ServingRelationship>

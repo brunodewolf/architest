@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.475 VeliKAR centraal systeem - Maximo Incident Management (Technisch incident)"
+    id="id-C7BB34A2-EF0C-49f4-BCC5-8C7B833892E1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BB10B164-4EFE-40be-B3DF-D1173DFE4946.xml#id-BB10B164-4EFE-40be-B3DF-D1173DFE4946"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0ED52BB5-C1A8-43a0-8672-C92CDF97DDB2.xml#id-0ED52BB5-C1A8-43a0-8672-C92CDF97DDB2"/>
+</archimate:ServingRelationship>

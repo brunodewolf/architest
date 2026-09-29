@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1085 SAP CO - DataWarehouse (DWH) (Controlling data)"
+    id="id-37D9C361-EA59-4210-BF9C-496A8815DB10">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1B4AAE38-1C17-429f-AD05-ECC5A8147B9C.xml#id-1B4AAE38-1C17-429f-AD05-ECC5A8147B9C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D614C219-D4F0-4570-95EA-C2DABD7EF068.xml#id-D614C219-D4F0-4570-95EA-C2DABD7EF068"/>
+</archimate:ServingRelationship>

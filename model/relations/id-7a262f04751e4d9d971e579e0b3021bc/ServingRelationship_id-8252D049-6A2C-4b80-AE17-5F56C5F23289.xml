@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.305 Public Website - Prezly (Press Communication)"
+    id="id-8252D049-6A2C-4b80-AE17-5F56C5F23289">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C.xml#id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-982B4368-417B-4ab6-A79A-FF276E1E59FE.xml#id-982B4368-417B-4ab6-A79A-FF276E1E59FE"/>
+</archimate:ServingRelationship>

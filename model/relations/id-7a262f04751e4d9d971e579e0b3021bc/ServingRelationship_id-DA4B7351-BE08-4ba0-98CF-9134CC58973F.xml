@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.183 - S/4HANA - SAP CCO (Material)"
+    id="id-DA4B7351-BE08-4ba0-98CF-9134CC58973F">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-337157D2-6427-4cec-AFDD-80E1871BBFE5.xml#id-337157D2-6427-4cec-AFDD-80E1871BBFE5"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-11F1BB3C-6718-404d-BB1F-A81E9B2D0726.xml#id-11F1BB3C-6718-404d-BB1F-A81E9B2D0726"/>
+</archimate:ServingRelationship>

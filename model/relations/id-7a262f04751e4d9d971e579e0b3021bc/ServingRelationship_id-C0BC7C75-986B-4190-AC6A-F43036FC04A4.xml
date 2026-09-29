@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1017 Magda KSZ/RSZ - Magda Facade ()"
+    id="id-C0BC7C75-986B-4190-AC6A-F43036FC04A4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7CA16471-5D39-4146-B822-8002C78812B3.xml#id-7CA16471-5D39-4146-B822-8002C78812B3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0D03B9FC-2CD3-4bcd-88DE-403ABE6F799F.xml#id-0D03B9FC-2CD3-4bcd-88DE-403ABE6F799F"/>
+</archimate:ServingRelationship>

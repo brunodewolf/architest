@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1163 Storelocator - HERE (Routeplanner) (Verkooppunten)"
+    id="id-8522F0DD-03F6-4fec-B436-8B8C8AB5D63C">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-B5E2445A-17E5-44c5-A26A-403CA18E42DE.xml#id-B5E2445A-17E5-44c5-A26A-403CA18E42DE"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F3FD49FF-8D9D-4c0f-8FA2-BA8C764B5B72.xml#id-F3FD49FF-8D9D-4c0f-8FA2-BA8C764B5B72"/>
+</archimate:ServingRelationship>

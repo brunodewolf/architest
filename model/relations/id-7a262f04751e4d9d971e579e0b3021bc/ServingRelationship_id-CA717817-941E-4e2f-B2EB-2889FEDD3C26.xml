@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1133 Rijstijlmeter - Kilometerberekening (Voertuig)"
+    id="id-CA717817-941E-4e2f-B2EB-2889FEDD3C26">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-B7680DA3-8308-4a10-8035-BEE964BE5B95.xml#id-B7680DA3-8308-4a10-8035-BEE964BE5B95"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ACDEBC95-C170-4d92-A8AA-455F92670B94.xml#id-ACDEBC95-C170-4d92-A8AA-455F92670B94"/>
+</archimate:ServingRelationship>

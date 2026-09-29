@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.565 Hastus DailyCrew - PUC ODS (Chauffeursplanning)"
+    id="id-41F8017C-EE71-4fd3-8437-F1E59346ABAD">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CE747D5D-3359-489b-B8D3-FD01D08F2557.xml#id-CE747D5D-3359-489b-B8D3-FD01D08F2557"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0A54D28B-5F8F-480c-86AF-1DF4692103E9.xml#id-0A54D28B-5F8F-480c-86AF-1DF4692103E9"/>
+</archimate:ServingRelationship>

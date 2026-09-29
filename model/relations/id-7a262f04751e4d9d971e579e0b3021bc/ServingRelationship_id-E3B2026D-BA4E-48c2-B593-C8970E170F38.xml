@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.985 HecPoll - SAP MM - Niveaupeilingen"
+    id="id-E3B2026D-BA4E-48c2-B593-C8970E170F38">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D0ABC0E7-6A14-4555-856A-B870A479D6DB.xml#id-D0ABC0E7-6A14-4555-856A-B870A479D6DB"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6A7E1A7F-B41D-4266-8D53-288529F6D62B.xml#id-6A7E1A7F-B41D-4266-8D53-288529F6D62B"/>
+</archimate:ServingRelationship>

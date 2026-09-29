@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1045 (Realtime patternlegs)"
+    id="id-62B9FAB7-A2B8-4bd8-97CE-A509AA8DBBA3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-65508F9B-B30A-429d-A526-66737B966DC4.xml#id-65508F9B-B30A-429d-A526-66737B966DC4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-89EC137D-682D-436e-A8CD-CB665D7A8151.xml#id-89EC137D-682D-436e-A8CD-CB665D7A8151"/>
+</archimate:ServingRelationship>

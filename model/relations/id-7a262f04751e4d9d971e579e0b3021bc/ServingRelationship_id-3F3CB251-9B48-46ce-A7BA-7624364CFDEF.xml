@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1161 PUC ODS - Eindedienstkaart (Uitvoeringsgegevens)"
+    id="id-3F3CB251-9B48-46ce-A7BA-7624364CFDEF">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0A54D28B-5F8F-480c-86AF-1DF4692103E9.xml#id-0A54D28B-5F8F-480c-86AF-1DF4692103E9"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BFE8D71C-F2EE-406b-BD1B-FEEDB21D0602.xml#id-BFE8D71C-F2EE-406b-BD1B-FEEDB21D0602"/>
+</archimate:ServingRelationship>

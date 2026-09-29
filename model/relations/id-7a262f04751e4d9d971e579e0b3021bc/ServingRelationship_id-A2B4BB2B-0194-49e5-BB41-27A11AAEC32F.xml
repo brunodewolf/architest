@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.105 INT-175 Gebruiker Mobiel Platform"
+    id="id-A2B4BB2B-0194-49e5-BB41-27A11AAEC32F">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-A66E0958-2C27-4e9a-A6B7-09672114E6D7.xml#id-A66E0958-2C27-4e9a-A6B7-09672114E6D7"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BE58D310-FD66-4d42-804A-ED13F21F66ED.xml#id-BE58D310-FD66-4d42-804A-ED13F21F66ED"/>
+</archimate:ServingRelationship>

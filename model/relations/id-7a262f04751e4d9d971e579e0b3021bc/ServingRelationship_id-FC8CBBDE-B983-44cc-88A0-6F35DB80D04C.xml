@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.779 Mobile App - Sentry (crash report)"
+    id="id-FC8CBBDE-B983-44cc-88A0-6F35DB80D04C">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-06B62845-84AD-47bf-B186-F6CE0EC3883C.xml#id-06B62845-84AD-47bf-B186-F6CE0EC3883C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3D8C7E58-95B0-4fc3-9F52-218E5460E836.xml#id-3D8C7E58-95B0-4fc3-9F52-218E5460E836"/>
+</archimate:ServingRelationship>

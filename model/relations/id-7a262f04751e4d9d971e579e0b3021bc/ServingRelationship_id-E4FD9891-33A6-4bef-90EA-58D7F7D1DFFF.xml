@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.893 Clarity Project Management-TM1 - Vastgelegd OPEX Budget en Forecast"
+    id="id-E4FD9891-33A6-4bef-90EA-58D7F7D1DFFF">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8675E5FF-94CD-4e22-AF2C-2A0730F86A3D.xml#id-8675E5FF-94CD-4e22-AF2C-2A0730F86A3D"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6F288532-B9D7-41f1-8999-8F691134EB2F.xml#id-6F288532-B9D7-41f1-8999-8F691134EB2F"/>
+</archimate:ServingRelationship>

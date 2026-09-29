@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1035 Mobiele Toepassing Controleur Backoffice - Medewerkersbeheer (ADM Verslagen)"
+    id="id-63FAD331-DC6A-4596-9049-A735C8DE2FD6">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE.xml#id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9B2DE51C-0305-4614-810D-69F5674C8627.xml#id-9B2DE51C-0305-4614-810D-69F5674C8627"/>
+</archimate:ServingRelationship>

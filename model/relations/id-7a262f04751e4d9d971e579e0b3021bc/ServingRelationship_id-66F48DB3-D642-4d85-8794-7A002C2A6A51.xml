@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0153 (Logische Halte)"
+    id="id-66F48DB3-D642-4d85-8794-7A002C2A6A51">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-58D212AA-E556-49f0-9223-C2631A2CCA3F.xml#id-58D212AA-E556-49f0-9223-C2631A2CCA3F"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-36D1A9F6-30EF-476c-B7B0-6AE51C0F1C33.xml#id-36D1A9F6-30EF-476c-B7B0-6AE51C0F1C33"/>
+</archimate:ServingRelationship>

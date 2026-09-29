@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1051 Leerlingenvervoer (LEVO) - PowerBI Workspace Operaties (Operationele planning)"
+    id="id-A0000041-20EF-4c9e-AFFD-DD75A7450960">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-01A27DCD-BC32-42e1-82EB-5AAF9AD47F9F.xml#id-01A27DCD-BC32-42e1-82EB-5AAF9AD47F9F"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5D718794-C063-4971-879C-5310B9068F66.xml#id-5D718794-C063-4971-879C-5310B9068F66"/>
+</archimate:ServingRelationship>

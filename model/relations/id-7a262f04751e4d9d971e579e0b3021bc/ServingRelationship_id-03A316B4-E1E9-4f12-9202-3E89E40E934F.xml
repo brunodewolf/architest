@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.370 Ascento - SF Recruiting (Resultaat assessment)"
+    id="id-03A316B4-E1E9-4f12-9202-3E89E40E934F">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C13C0214-170B-4b86-999C-FA1CE9B3F15C.xml#id-C13C0214-170B-4b86-999C-FA1CE9B3F15C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-B08138DA-DC03-4926-ABAC-DFAB348D905D.xml#id-B08138DA-DC03-4926-ABAC-DFAB348D905D"/>
+</archimate:ServingRelationship>

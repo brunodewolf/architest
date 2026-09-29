@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.383 MDS-DIM - Referentie Data"
+    id="id-0B05999D-A706-4eb9-A472-E80C5315D692">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1B42C5BF-D484-4354-BED6-C3B90D363DEF.xml#id-1B42C5BF-D484-4354-BED6-C3B90D363DEF"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-FBDBA3F2-EA0C-43c2-BB36-23882313F6E7.xml#id-FBDBA3F2-EA0C-43c2-BB36-23882313F6E7"/>
+</archimate:ServingRelationship>

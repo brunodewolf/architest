@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1056 Sociale Veiligheid Incidentenbeheer - Agressie en Overlast App (Agressie &amp; Overlast Melding)"
+    id="id-0F144B99-51E8-4126-BC6B-7A5C063A7B43">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D2ABF252-36EB-4a50-9F73-B91E78545163.xml#id-D2ABF252-36EB-4a50-9F73-B91E78545163"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1F986093-7CC3-40c3-8FB4-9F4C3F3DB850.xml#id-1F986093-7CC3-40c3-8FB4-9F4C3F3DB850"/>
+</archimate:ServingRelationship>

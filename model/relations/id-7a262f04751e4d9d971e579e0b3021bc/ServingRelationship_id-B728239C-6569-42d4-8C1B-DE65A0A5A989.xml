@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.956 DLPO - Dioss Printeragent Server (MoBiB Print Job)"
+    id="id-B728239C-6569-42d4-8C1B-DE65A0A5A989">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8A30B50B-E2E8-471e-ACEC-143F7FE208FF.xml#id-8A30B50B-E2E8-471e-ACEC-143F7FE208FF"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BEEE64EC-0C88-419b-96EA-A75F2482CBEA.xml#id-BEEE64EC-0C88-419b-96EA-A75F2482CBEA"/>
+</archimate:ServingRelationship>

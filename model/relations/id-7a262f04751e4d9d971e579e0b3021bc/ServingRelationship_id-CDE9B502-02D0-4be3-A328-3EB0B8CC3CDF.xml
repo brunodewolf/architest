@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.375 SAP HR - Planon - Nieuwe badges"
+    id="id-CDE9B502-02D0-4be3-A328-3EB0B8CC3CDF">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F76A3E68-A10C-45d5-9846-538E61D18CA1.xml#id-F76A3E68-A10C-45d5-9846-538E61D18CA1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6E2E7897-2BD1-4557-8F19-08E02929AC68.xml#id-6E2E7897-2BD1-4557-8F19-08E02929AC68"/>
+</archimate:ServingRelationship>

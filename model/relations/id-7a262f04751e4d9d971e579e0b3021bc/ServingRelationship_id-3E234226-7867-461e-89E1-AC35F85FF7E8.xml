@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1186 PSI VAS Server - Voertuig software VDL - Voertuig preconditionering"
+    id="id-3E234226-7867-461e-89E1-AC35F85FF7E8">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E52A4E61-8362-404d-9542-9B030DF68B79.xml#id-E52A4E61-8362-404d-9542-9B030DF68B79"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-B7EE8230-3B6D-4617-A663-738582884B19.xml#id-B7EE8230-3B6D-4617-A663-738582884B19"/>
+</archimate:ServingRelationship>

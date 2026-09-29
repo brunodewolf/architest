@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1244 (Asset informatie)"
+    id="id-D60C0AAB-7969-4e2c-9B8A-620B90E6D4B4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-EEE3379E-009E-479d-B5F9-91E6C0E7A792.xml#id-EEE3379E-009E-479d-B5F9-91E6C0E7A792"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0ED52BB5-C1A8-43a0-8672-C92CDF97DDB2.xml#id-0ED52BB5-C1A8-43a0-8672-C92CDF97DDB2"/>
+</archimate:ServingRelationship>

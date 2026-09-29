@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1097 Network &amp; Timetable"
+    id="id-7A879BC5-788F-4225-8AB9-66C2EFA20CD1">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F0CDF604-C2EB-45b4-B3EF-C676C6F60D56.xml#id-F0CDF604-C2EB-45b4-B3EF-C676C6F60D56"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ECC53E38-CBE2-44f2-9085-6B327AD85988.xml#id-ECC53E38-CBE2-44f2-9085-6B327AD85988"/>
+</archimate:ServingRelationship>

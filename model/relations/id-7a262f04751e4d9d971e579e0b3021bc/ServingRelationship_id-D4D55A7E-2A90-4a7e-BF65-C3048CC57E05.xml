@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.706 Tap Validatie Proxy - MobiGuider AFC (Online Validation)"
+    id="id-D4D55A7E-2A90-4a7e-BF65-C3048CC57E05">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C6146828-D044-4451-9C2F-2ED2C5CD34ED.xml#id-C6146828-D044-4451-9C2F-2ED2C5CD34ED"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DE08145A-B0B3-4bb2-9658-71A42332BFD3.xml#id-DE08145A-B0B3-4bb2-9658-71A42332BFD3"/>
+</archimate:ServingRelationship>

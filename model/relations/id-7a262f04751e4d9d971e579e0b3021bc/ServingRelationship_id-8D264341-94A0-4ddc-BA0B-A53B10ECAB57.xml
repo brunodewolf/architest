@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.981 Personeelsmodel-HecPoll - Whitelisting personeelsbadges"
+    id="id-8D264341-94A0-4ddc-BA0B-A53B10ECAB57">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-879A9A86-08AA-4c38-BB6E-C3EAF2466BC3.xml#id-879A9A86-08AA-4c38-BB6E-C3EAF2466BC3"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D0ABC0E7-6A14-4555-856A-B870A479D6DB.xml#id-D0ABC0E7-6A14-4555-856A-B870A479D6DB"/>
+</archimate:ServingRelationship>

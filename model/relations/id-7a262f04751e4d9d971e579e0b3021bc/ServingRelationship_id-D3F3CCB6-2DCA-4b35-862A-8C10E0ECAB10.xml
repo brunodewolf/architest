@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1029 Mobiele Toepassing Controleur Backoffice - PowerBI Workspace Operaties (Dashboard lijncontrole)"
+    id="id-D3F3CCB6-2DCA-4b35-862A-8C10E0ECAB10">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE.xml#id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-5D718794-C063-4971-879C-5310B9068F66.xml#id-5D718794-C063-4971-879C-5310B9068F66"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1275 (Omleidingsaffiche chauffeur)"
+    id="id-38AB30D2-5476-4938-BAE4-26A63D14E73F">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9A058D31-EE78-48fb-AE9C-83AD8E38108C.xml#id-9A058D31-EE78-48fb-AE9C-83AD8E38108C"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7F09464A-6D54-4705-A787-A9BCD0ED27A9.xml#id-7F09464A-6D54-4705-A787-A9BCD0ED27A9"/>
+</archimate:ServingRelationship>

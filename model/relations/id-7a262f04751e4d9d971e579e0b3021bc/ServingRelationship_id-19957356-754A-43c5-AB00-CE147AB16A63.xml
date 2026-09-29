@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1100 (Log en metriek)"
+    id="id-19957356-754A-43c5-AB00-CE147AB16A63">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-EDC6A198-657B-452b-8BA9-A7579F6DEB17.xml#id-EDC6A198-657B-452b-8BA9-A7579F6DEB17"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-79B53A90-3B9F-47b8-BB32-55264AAEAE52.xml#id-79B53A90-3B9F-47b8-BB32-55264AAEAE52"/>
+</archimate:ServingRelationship>

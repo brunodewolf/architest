@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1170 Hastus DailyVehicle - PUC ODS (Geschrapte ritten regie)"
+    id="id-558E6713-7FCB-4c39-BEA8-3F34EBBEDA89">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9C38E6F1-C128-4278-9CE6-DA60330FF013.xml#id-9C38E6F1-C128-4278-9CE6-DA60330FF013"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0A54D28B-5F8F-480c-86AF-1DF4692103E9.xml#id-0A54D28B-5F8F-480c-86AF-1DF4692103E9"/>
+</archimate:ServingRelationship>

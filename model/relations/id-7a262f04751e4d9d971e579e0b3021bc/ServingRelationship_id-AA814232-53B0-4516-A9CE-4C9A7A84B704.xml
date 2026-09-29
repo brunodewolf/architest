@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.704 SF Learning - MOW (Opleidingen)"
+    id="id-AA814232-53B0-4516-A9CE-4C9A7A84B704">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CE728BEE-84DB-49c2-BD76-6C4621D8F84E.xml#id-CE728BEE-84DB-49c2-BD76-6C4621D8F84E"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-07E5BA2A-BD38-48b9-875C-55824222AB1D.xml#id-07E5BA2A-BD38-48b9-875C-55824222AB1D"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.150 SAP FICA - Deurwaarder (Modero) (Niet-geïnde boetes)"
+    id="id-FB9D24E7-0458-4e82-9930-544D52FE787B">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1.xml#id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-95DE897A-A2C9-4e63-A52D-1200FF20FB67.xml#id-95DE897A-A2C9-4e63-A52D-1200FF20FB67"/>
+</archimate:ServingRelationship>

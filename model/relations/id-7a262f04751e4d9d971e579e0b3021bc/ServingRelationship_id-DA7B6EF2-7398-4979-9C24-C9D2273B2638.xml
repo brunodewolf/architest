@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.267 Selligent - DIVB (voucher)"
+    id="id-DA7B6EF2-7398-4979-9C24-C9D2273B2638">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1820DE5E-9EDD-4d52-B7CF-C91ABFC71D72.xml#id-1820DE5E-9EDD-4d52-B7CF-C91ABFC71D72"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1875AC00-6741-47dd-BA63-787747F0A17C.xml#id-1875AC00-6741-47dd-BA63-787747F0A17C"/>
+</archimate:ServingRelationship>

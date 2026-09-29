@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.381 Agressie en Overlast Meldingen App - SoVIB (Aanmaken agressiemelding)"
+    id="id-1B43CDB6-6509-421e-8814-3B3894670FDC">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-C104F27B-DAA3-4bc6-9DA1-CC2843227037.xml#id-C104F27B-DAA3-4bc6-9DA1-CC2843227037"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D2ABF252-36EB-4a50-9F73-B91E78545163.xml#id-D2ABF252-36EB-4a50-9F73-B91E78545163"/>
+</archimate:ServingRelationship>

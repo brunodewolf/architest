@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.054 Voertuig software CanEdge2 - Data Platform EBS (Technische uitvoeringsgegevens - batch)"
+    id="id-6503C06B-C973-4ff8-96CB-B42CC9829D38">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-89C03DD0-4A99-4264-ABAA-866E6337B9ED.xml#id-89C03DD0-4A99-4264-ABAA-866E6337B9ED"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3AF8A723-C5FE-41f7-A425-41551E172F04.xml#id-3AF8A723-C5FE-41f7-A425-41551E172F04"/>
+</archimate:ServingRelationship>

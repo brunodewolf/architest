@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.1234 Hastus Vehicle - PUC (MLT Voertuigplanning)"
+    id="id-BC2E5AE5-C5DF-4a3d-B467-091CF027DC5A">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-CB05549A-14D6-4977-B2F2-4F4F47677AA8.xml#id-CB05549A-14D6-4977-B2F2-4F4F47677AA8"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-E64217CF-D649-41a8-AACB-B1E216869EFB.xml#id-E64217CF-D649-41a8-AACB-B1E216869EFB"/>
+</archimate:ServingRelationship>

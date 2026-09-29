@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.699d SAP FICA - OpenText (Correspondance Archival)"
+    id="id-8378DAD6-7E56-4726-A821-1E9344AF53B8">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1.xml#id-F9A3809C-233E-4f35-AFC1-9ECBEFBC83E1"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-29158402-4C7A-468d-9E79-EDA5E0FB3AFD.xml#id-29158402-4C7A-468d-9E79-EDA5E0FB3AFD"/>
+</archimate:ServingRelationship>

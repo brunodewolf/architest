@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.0546 (Gemeente, NIS, en VVR)"
+    id="id-E93DB122-97A8-45a0-8C03-8F7758D211CB">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1B42C5BF-D484-4354-BED6-C3B90D363DEF.xml#id-1B42C5BF-D484-4354-BED6-C3B90D363DEF"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-36D1A9F6-30EF-476c-B7B0-6AE51C0F1C33.xml#id-36D1A9F6-30EF-476c-B7B0-6AE51C0F1C33"/>
+</archimate:ServingRelationship>

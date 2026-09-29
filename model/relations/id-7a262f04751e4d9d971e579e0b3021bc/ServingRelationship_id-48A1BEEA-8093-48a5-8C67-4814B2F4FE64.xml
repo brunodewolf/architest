@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.180 SAP HCM - Mediwe- Personeelsgegevens"
+    id="id-48A1BEEA-8093-48a5-8C67-4814B2F4FE64">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-665F3F95-C839-403d-BF99-E9612BEEA591.xml#id-665F3F95-C839-403d-BF99-E9612BEEA591"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-DE34F328-77E8-4b26-BFE7-D5271AECCAF4.xml#id-DE34F328-77E8-4b26-BFE7-D5271AECCAF4"/>
+</archimate:ServingRelationship>

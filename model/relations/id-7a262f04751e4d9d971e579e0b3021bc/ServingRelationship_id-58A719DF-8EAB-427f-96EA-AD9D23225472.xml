@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.820 MTC BO-SharePoint - DMS (PV DAB, PV Verkeer en ADM verslag)"
+    id="id-58A719DF-8EAB-427f-96EA-AD9D23225472">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE.xml#id-BA7D50C3-8D7C-477d-A5C1-2EDBFB8761FE"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-257EDB2A-10AF-4800-AEAC-A82177902C8A.xml#id-257EDB2A-10AF-4800-AEAC-A82177902C8A"/>
+</archimate:ServingRelationship>

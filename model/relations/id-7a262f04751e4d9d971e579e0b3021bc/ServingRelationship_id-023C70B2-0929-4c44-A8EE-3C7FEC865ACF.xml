@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.808 Magda Facade - Public Website (RR/KSZ)"
+    id="id-023C70B2-0929-4c44-A8EE-3C7FEC865ACF">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0D03B9FC-2CD3-4bcd-88DE-403ABE6F799F.xml#id-0D03B9FC-2CD3-4bcd-88DE-403ABE6F799F"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C.xml#id-D6E5981A-C9E9-4acc-B0B4-B923C27ED05C"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INT.628 BIL - PSP (Payment)"
+    id="id-1FDE692D-408F-4cc0-B84C-33515190AA47">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-B10EB5AD-CD62-4ff2-A12E-1BB110F2F5AB.xml#id-B10EB5AD-CD62-4ff2-A12E-1BB110F2F5AB"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-18CC4A50-17DE-456c-A9EC-A5EEFE1705AC.xml#id-18CC4A50-17DE-456c-A9EC-A5EEFE1705AC"/>
+</archimate:ServingRelationship>
